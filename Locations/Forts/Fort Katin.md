@@ -1,0 +1,1 @@
+Friendly [[Sitoria United]] held fortress

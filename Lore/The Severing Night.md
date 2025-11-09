@@ -1,0 +1,1 @@
+The night both sons of the emperor conspired and killed each other through various plots and ways.

@@ -1,0 +1,1 @@
+Inn close to [[the capital]] has an undead host

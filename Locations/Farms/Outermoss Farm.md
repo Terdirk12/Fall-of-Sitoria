@@ -1,0 +1,1 @@
+a small farm outside [[Mosswood]], raided by goblins from the [[broken hand clan]]

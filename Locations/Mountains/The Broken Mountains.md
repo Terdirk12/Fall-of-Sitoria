@@ -1,0 +1,1 @@
+A mountain range stretching across [[Sitoria]], named after its broken up formation often looking more like solitary mountains then a true mountain range.

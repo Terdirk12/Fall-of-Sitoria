@@ -1,0 +1,1 @@
+A Medium-Large river that crosses [[Sitoria]], it goes past the capitol and past [[Eldian's Temple]]

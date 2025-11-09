@@ -1,0 +1,1 @@
+Possible player home, currently houses an undead garrison from [[the capital]]

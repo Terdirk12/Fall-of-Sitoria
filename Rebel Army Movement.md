@@ -1,0 +1,1 @@
+Start of session the army is moving from Mustia to Mosswood

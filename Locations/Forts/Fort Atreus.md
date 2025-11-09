@@ -1,0 +1,1 @@
+Fort near the [[The Capital]], still in [[The Emperor]] hands

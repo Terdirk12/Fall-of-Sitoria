@@ -1,0 +1,1 @@
+Possible player home, overrun with low-rank vampires
