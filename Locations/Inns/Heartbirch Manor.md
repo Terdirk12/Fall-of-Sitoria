@@ -1,0 +1,1 @@
+a whore house close to [[Fort Mashja]], soldiers often sneak out to relieve themself

@@ -7,4 +7,4 @@ see the rebel movement moving
 
 get new orders from the [[Captain Jormund Vayne]]
 
-Start [[small guerilla missions]]
+Start [[Small Guerilla Missions]]

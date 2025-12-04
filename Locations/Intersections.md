@@ -4,7 +4,7 @@ this page contains all intersections, find your number and lookatit
 
 ---
 
-2A: Intersection close to [[the capital]], Contains [[The Broken Horse]]
+2A: Intersection close to [[Sitor Magna]], Contains [[The Broken Horse]]
 
 ---
 
@@ -15,3 +15,10 @@ this page contains all intersections, find your number and lookatit
 4A: 
 
 5A: 
+
+6A
+
+7A
+7B
+7C
+7D

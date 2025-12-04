@@ -1,3 +1,3 @@
-Gate near the [[The Capital]], still in [[The Emperor]] hands
+Gate near the [[Sitor Magna]], still in [[The Emperor]] hands
 
-here will be a grand fight into [[the capital]]
+here will be a grand fight into [[Sitor Magna]]

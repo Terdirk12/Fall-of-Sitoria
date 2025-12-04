@@ -1,1 +1,1 @@
-Inn close to [[the capital]] has an undead host
+Inn close to [[Sitor Magna]] has an undead host

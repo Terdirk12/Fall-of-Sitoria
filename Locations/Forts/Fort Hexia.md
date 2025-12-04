@@ -1,1 +1,1 @@
-Fort near the [[The Capital]], still in [[The Emperor]] hands
+Fort near the [[Sitor Magna]], still in [[The Emperor]] hands
