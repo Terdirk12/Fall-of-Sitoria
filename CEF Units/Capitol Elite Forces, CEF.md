@@ -2,19 +2,21 @@ The Capitol Elite Forces are specialized units loyal to the emperor only, their 
 
 The alive forces are willing to lay down their lives for the emperor knowing they will come back undead to serve him longer.
 
-alive 
+Alive 
 ---
-basic soldiers:
-[[Footman]]
-[[Man At Arms]]
-[[Guard]], MM: p347
+**Basic soldiers:**
+[[CEF, Footman]], Custom
+[[CEF, Man At Arms]], Custom
+[[CEF, Guard]], MM: p347
+[[CEF, Alchemical Arbalist]], Custom
+[[CEF, Tracker]], Custom
+[[CEF, Drake Rider]], Custom
+[[CEF, Shieldwarden]], Custom
+[[CEF, Surgeon]], Custom
 
----
-Drake Rider
-man at arms on Guard drakes, MoM: p151
+**Officers:**
+[[CEF, Sergeant]], Custom
+Necromancer wizard, MoM: p264
 
-Captain
-necromancer wizard, MoM: p264
-
-undead
+Undead
 ---

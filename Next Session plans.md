@@ -1,7 +1,10 @@
 
-The [[Broken Hand Clan]]
+The [[Broken Hand Clan]] finale:
+- y'all just cleared the gobbo cave entrance and interior 1 
+- jullie hebben nog geen long rest of looting gedaan 
+- still on da quest to rescue the dad
 
-if time is left back to [[Mosswood]] 
+[[CEF Ambush]] whilst going back to [[Mosswood]]
 
 see the rebel movement moving
 

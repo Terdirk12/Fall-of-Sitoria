@@ -1,0 +1,1 @@
+A fort guarded by [[Capitol Elite Forces, CEF]]
