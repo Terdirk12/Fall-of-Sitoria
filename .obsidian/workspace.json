@@ -8,30 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2182be5c46acc31a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Next Session plans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Next Session plans"
-            }
-          },
-          {
-            "id": "b2f28ed4f7a190be",
+            "id": "fb0bfbd1b9836fd2",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Locations/Roads.canvas",
                 "viewState": {
-                  "x": 803.3724621439253,
-                  "y": -33.84519742064964,
-                  "zoom": -0.380426602292742
+                  "x": 1033.6693115350558,
+                  "y": 493.662115874955,
+                  "zoom": -1.2275614074259924
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -39,7 +25,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -189,37 +174,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2f28ed4f7a190be",
+  "active": "fb0bfbd1b9836fd2",
   "lastOpenFiles": [
-    "Locations/CEF Ambush.md",
-    "Next Session plans.md",
     "Locations/Forts/Fort Altus.md",
+    "Current encounter.md",
     "Locations/Roads.canvas",
-    "CEF Units/Capitol Elite Forces, CEF.md",
+    "Mechanics/Gnoll Parties.md",
+    "Mechanics/Encounters.md",
+    "Mechanics/Small Guerilla Missions.md",
+    "Next Session plans.md",
+    "Characters/Quartermaster Thormund.md",
+    "Characters/Captain Jormund Vayne.md",
+    "CEF Units/CEF, Drake Rider.md",
     "CEF Units/CEF, Tracker.md",
+    "Locations/CEF Ambush.md",
+    "CEF Units/CEF, Guard.md",
+    "CEF Units/CEF, Alchemical Arbalist.md",
+    "CEF Units/CEF, Footman.md",
+    "Goblins/Units/Broken Hand/Broken Hand Warboss.md",
+    "Goblins/Broken Hand Clan.md",
+    "CEF Units/Capitol Elite Forces, CEF.md",
     "CEF Units/CEF, Surgeon.md",
     "CEF Units/CEF, Shieldwarden.md",
     "CEF Units/CEF, Sergeant.md",
     "CEF Units/CEF, Man At Arms.md",
-    "CEF Units/CEF, Guard.md",
-    "CEF Units/CEF, Footman.md",
-    "CEF Units/CEF, Drake Rider.md",
-    "CEF Units/CEF, Alchemical Arbalist.md",
     "man-at-arms.md",
-    "Mechanics/Small Guerilla Missions.md",
     "Goblins/Goblin Tribes.md",
-    "Goblins/Broken Hand Clan.md",
     "Locations/Mountains/The lobsided Mountain.md",
     "Locations/Inns/Heartbirch Manor.md",
-    "Locations/Forts/Fort Mashja.md",
     "Pasted image 20251204233729.png",
-    "Mechanics/Rebel Army Movement.md",
-    "Untitled.md",
     "Mechanics",
     "Mechanics/Empire Command Tree.canvas",
-    "Locations/Inns/Verona's Shack.md",
-    "Locations/Sitoria.md",
-    "Mechanics/Enviromentals.md",
     "Mechanics/Rebel Command Tree.canvas",
     "Locations/Battlefields",
     "CEF Units",

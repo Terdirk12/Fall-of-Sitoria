@@ -12,3 +12,6 @@ going prone helps cuz disadvantage on ranged attacks.
 new char will join 1-2 turns in based on how stuff goes. running out of the bushes with some enemy company chasing them.
 
 1 [[CEF, Tracker]], 1 [[CEF, Footman]]
+
+
+
