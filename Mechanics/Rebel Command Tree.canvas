@@ -3,7 +3,7 @@
 		{"id":"afee51558b2d5492","type":"text","text":"General Brutus","x":-520,"y":-120,"width":250,"height":60},
 		{"id":"1a8813fe57934658","type":"text","text":"General Meade","x":40,"y":-120,"width":250,"height":60},
 		{"id":"bf8fe6ad4632c554","type":"text","text":"[[Captain Jormund Vayne]]","x":40,"y":0,"width":250,"height":60},
-		{"id":"256e7a87216858e8","type":"text","text":"[[Baron Vinderbach]]","x":-220,"y":-220,"width":182,"height":50}
+		{"id":"256e7a87216858e8","type":"text","text":"[[Baron Halbrecht Vinderbach]]","x":-220,"y":-220,"width":182,"height":50}
 	],
 	"edges":[
 		{"id":"7b99fb09f2d8b7c7","fromNode":"256e7a87216858e8","fromSide":"bottom","toNode":"afee51558b2d5492","toSide":"right"},

@@ -1,1 +1,1 @@
-Fort near the [[Sitor Magna]], still in [[The Emperor]] hands
+Fort near the [[Sitor Magna]], still in [[Emperor Aurelion Vaelic]] hands

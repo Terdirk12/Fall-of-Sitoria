@@ -11,17 +11,14 @@
             "id": "fb0bfbd1b9836fd2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Locations/Roads.canvas",
-                "viewState": {
-                  "x": 1033.6693115350558,
-                  "y": 493.662115874955,
-                  "zoom": -1.2275614074259924
-                }
+                "file": "Characters/Rebellion Characters/Baron Halbrecht Vinderbach.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Roads"
+              "icon": "lucide-file",
+              "title": "Baron Halbrecht Vinderbach"
             }
           }
         ],
@@ -176,32 +173,36 @@
   },
   "active": "fb0bfbd1b9836fd2",
   "lastOpenFiles": [
-    "Locations/Forts/Fort Altus.md",
-    "Current encounter.md",
+    "Characters/Empire Characters/Blink.md",
+    "Characters/Empire Characters/Princess Ravena Vaelic.md",
+    "Characters/Empire Characters/Princess Vaelessa Vaelic.md",
+    "Characters/Empire Characters/Princess Silena Vaelic.md",
+    "Characters/Empire Characters/Prince Lucerin Vaelic.md",
+    "Characters/Empire Characters/Prince Garran Vaelic.md",
+    "Characters/Empire Characters/Emperor Aurelion Vaelic.md",
+    "Characters/Player Characters/Peter III.md",
+    "Pasted image 20251216015300.png",
+    "Characters/Player Characters/Gak.md",
+    "Characters/Player Characters/Igina.md",
+    "Characters/Empire Characters",
+    "Characters/Sigtimtron.md",
+    "Characters/Rebellion Characters/Baron Halbrecht Vinderbach.md",
+    "Characters/Rebellion Characters",
     "Locations/Roads.canvas",
+    "CEF Troop Tree.canvas",
+    "Current encounter.md",
+    "CEF Units/Capitol Elite Forces, CEF.md",
+    "CEF Units/CEF, Sergeant.md",
+    "Locations/Forts/Fort Altus.md",
     "Mechanics/Gnoll Parties.md",
     "Mechanics/Encounters.md",
     "Mechanics/Small Guerilla Missions.md",
     "Next Session plans.md",
-    "Characters/Quartermaster Thormund.md",
-    "Characters/Captain Jormund Vayne.md",
+    "Characters/Rebellion Characters/Quartermaster Thormund.md",
+    "Characters/Rebellion Characters/Captain Jormund Vayne.md",
     "CEF Units/CEF, Drake Rider.md",
     "CEF Units/CEF, Tracker.md",
     "Locations/CEF Ambush.md",
-    "CEF Units/CEF, Guard.md",
-    "CEF Units/CEF, Alchemical Arbalist.md",
-    "CEF Units/CEF, Footman.md",
-    "Goblins/Units/Broken Hand/Broken Hand Warboss.md",
-    "Goblins/Broken Hand Clan.md",
-    "CEF Units/Capitol Elite Forces, CEF.md",
-    "CEF Units/CEF, Surgeon.md",
-    "CEF Units/CEF, Shieldwarden.md",
-    "CEF Units/CEF, Sergeant.md",
-    "CEF Units/CEF, Man At Arms.md",
-    "man-at-arms.md",
-    "Goblins/Goblin Tribes.md",
-    "Locations/Mountains/The lobsided Mountain.md",
-    "Locations/Inns/Heartbirch Manor.md",
     "Pasted image 20251204233729.png",
     "Mechanics",
     "Mechanics/Empire Command Tree.canvas",
@@ -213,8 +214,6 @@
     "Emperor's Royal Lineage.canvas",
     "Characters/Aegis Unit",
     "Untitled.base",
-    "Characters/sigtimtron",
-    "Locations/Castles",
-    "Locations/Inns"
+    "Characters/sigtimtron"
   ]
 }
