@@ -10,3 +10,5 @@ has a garrison of
 4 [[CEF, Shieldwarden]]
 8 [[CEF, Tracker]]
 2 [[CEF, Surgeon]]
+
+![[Pasted image 20251216022030.png]]

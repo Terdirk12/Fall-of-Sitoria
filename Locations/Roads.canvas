@@ -26,7 +26,6 @@
 		{"id":"c2e476192012e95f","type":"text","text":"[[Fort Pihtia]]","x":1975,"y":832,"width":125,"height":50,"color":"4"},
 		{"id":"342a76e73e5d7e92","type":"text","text":"[[Speaking Woods]]","x":1336,"y":335,"width":404,"height":299,"color":"3"},
 		{"id":"ad4b129ce94c8e5e","type":"text","text":"[[Burgman Forest]]","x":-530,"y":852,"width":533,"height":508,"color":"3"},
-		{"id":"9a4e14362fa36808","type":"text","text":"[[The Turning Wheel]]","x":-230,"y":695,"width":180,"height":50,"color":"3"},
 		{"id":"03d233b2375fc448","type":"text","text":"[[Castle Maral]]","x":270,"y":1150,"width":255,"height":219,"color":"2"},
 		{"id":"cc8b4425b20be9b2","type":"text","text":"[[The Malian Republic]]","x":1330,"y":-2120,"width":2055,"height":1440},
 		{"id":"1058294fd325ff62","type":"text","text":"[[Fort Katin]]","x":1196,"y":695,"width":140,"height":50,"color":"4"},
@@ -113,7 +112,9 @@
 		{"id":"9f740583b80d0c23","type":"text","text":"[[Heartbirch Manor]]","x":-2025,"y":-1335,"width":185,"height":60,"color":"3"},
 		{"id":"515af7f702a840a1","type":"text","text":"[[The lobsided Mountain]]","x":-4165,"y":-1687,"width":830,"height":567},
 		{"id":"6fb5b975781094cb","type":"text","text":"[[Intersections]] 8A","x":-1226,"y":-1593,"width":185,"height":50,"color":"6"},
-		{"id":"3d47a7b245c5ab8c","type":"text","text":"[[Fort Altus]]","x":75,"y":1,"width":125,"height":50,"color":"3"}
+		{"id":"3d47a7b245c5ab8c","type":"text","text":"[[Fort Altus]]","x":75,"y":1,"width":125,"height":50,"color":"3"},
+		{"id":"9a4e14362fa36808","type":"text","text":"[[The Turning Wheel]]","x":-230,"y":670,"width":180,"height":50,"color":"3"},
+		{"id":"cdb046afff53bbb2","x":-860,"y":440,"width":126,"height":90,"color":"4","type":"text","text":"[[Peycore Monastery]]"}
 	],
 	"edges":[
 		{"id":"382253c8864c5d86","fromNode":"f903c3c2f4cdf6ea","fromSide":"top","toNode":"9bd2b39f682abb94","toSide":"bottom","toEnd":"none"},
@@ -283,6 +284,11 @@
 		{"id":"7ecd6a22bccfbf19","fromNode":"6fb5b975781094cb","fromSide":"top","toNode":"a9c73b2582ea0790","toSide":"bottom","toEnd":"none"},
 		{"id":"9f0573a30cc24bbf","fromNode":"a2e795fea5df8363","fromSide":"top","toNode":"6fb5b975781094cb","toSide":"bottom","toEnd":"none"},
 		{"id":"70d8203eeb01d55f","fromNode":"8f28920061384844","fromSide":"left","toNode":"3d47a7b245c5ab8c","toSide":"right","toEnd":"none"},
-		{"id":"2921db826893dfcd","fromNode":"3d47a7b245c5ab8c","fromSide":"right","toNode":"5aa3ca740b986059","toSide":"left","toEnd":"none"}
+		{"id":"2921db826893dfcd","fromNode":"3d47a7b245c5ab8c","fromSide":"right","toNode":"5aa3ca740b986059","toSide":"left","toEnd":"none"},
+		{"id":"43b1a413544ea4e8","fromNode":"cdb046afff53bbb2","fromSide":"left","toNode":"161351a3650c8854","toSide":"right","toEnd":"none"},
+		{"id":"f783163c5a83de4f","fromNode":"cdb046afff53bbb2","fromSide":"top","toNode":"8a078fdf3cea2f9f","toSide":"bottom","toEnd":"none"},
+		{"id":"7d4c5db16f674bf6","fromNode":"cdb046afff53bbb2","fromSide":"bottom","toNode":"445a16f4d32ffe24","toSide":"top","toEnd":"none"},
+		{"id":"b293aaaacea42049","fromNode":"cdb046afff53bbb2","fromSide":"bottom","toNode":"675730f0882d4227","toSide":"top","toEnd":"none"},
+		{"id":"0f7bb42ef2757dff","fromNode":"cdb046afff53bbb2","fromSide":"right","toNode":"da7876f524408da5","toSide":"left","toEnd":"none"}
 	]
 }
