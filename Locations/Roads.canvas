@@ -114,7 +114,7 @@
 		{"id":"6fb5b975781094cb","type":"text","text":"[[Intersections]] 8A","x":-1226,"y":-1593,"width":185,"height":50,"color":"6"},
 		{"id":"3d47a7b245c5ab8c","type":"text","text":"[[Fort Altus]]","x":75,"y":1,"width":125,"height":50,"color":"3"},
 		{"id":"9a4e14362fa36808","type":"text","text":"[[The Turning Wheel]]","x":-230,"y":670,"width":180,"height":50,"color":"3"},
-		{"id":"cdb046afff53bbb2","x":-860,"y":440,"width":126,"height":90,"color":"4","type":"text","text":"[[Peycore Monastery]]"}
+		{"id":"cdb046afff53bbb2","type":"text","text":"[[Peycore Monastery]]","x":-860,"y":440,"width":126,"height":90,"color":"4"}
 	],
 	"edges":[
 		{"id":"382253c8864c5d86","fromNode":"f903c3c2f4cdf6ea","fromSide":"top","toNode":"9bd2b39f682abb94","toSide":"bottom","toEnd":"none"},
@@ -289,6 +289,8 @@
 		{"id":"f783163c5a83de4f","fromNode":"cdb046afff53bbb2","fromSide":"top","toNode":"8a078fdf3cea2f9f","toSide":"bottom","toEnd":"none"},
 		{"id":"7d4c5db16f674bf6","fromNode":"cdb046afff53bbb2","fromSide":"bottom","toNode":"445a16f4d32ffe24","toSide":"top","toEnd":"none"},
 		{"id":"b293aaaacea42049","fromNode":"cdb046afff53bbb2","fromSide":"bottom","toNode":"675730f0882d4227","toSide":"top","toEnd":"none"},
-		{"id":"0f7bb42ef2757dff","fromNode":"cdb046afff53bbb2","fromSide":"right","toNode":"da7876f524408da5","toSide":"left","toEnd":"none"}
+		{"id":"0f7bb42ef2757dff","fromNode":"cdb046afff53bbb2","fromSide":"right","toNode":"da7876f524408da5","toSide":"left","toEnd":"none"},
+		{"id":"246c828b6962dddd","fromNode":"8498b24eccbcdafe","fromSide":"top","toNode":"601997da1ed74dc1","toSide":"bottom","toEnd":"none"},
+		{"id":"bde7160b0001b306","fromNode":"601997da1ed74dc1","fromSide":"bottom","toNode":"3fc8183bea8d5483","toSide":"top","toEnd":"none"}
 	]
 }
