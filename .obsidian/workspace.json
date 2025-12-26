@@ -8,35 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0d3dc09e52f4a50",
+            "id": "fb0bfbd1b9836fd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current encounter.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Current encounter"
-            }
-          },
-          {
-            "id": "f9439df8fea0d441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Forts/Fort Altus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fort Altus"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -186,48 +167,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "f9439df8fea0d441",
+  "active": "fb0bfbd1b9836fd2",
   "lastOpenFiles": [
-    "Current encounter.md",
-    "Locations/Forts/Fort Altus.md",
-    "CEF Units/Alive/CEF, Shieldwarden.md",
-    "CEF Units/Alive/CEF, Guard.md",
-    "CEF Units/Alive/CEF, Sergeant.md",
-    "CEF Units/Alive/CEF, Footman.md",
-    "Locations/Roads.canvas",
     "Characters/Rebellion Characters/Crazed Alchemist..md",
-    "Characters/Sigtimtron.md",
-    "Characters/Rebellion Characters/Quartermaster Thormund.md",
-    "Characters/Rebellion Characters/Captain Jormund Vayne.md",
-    "Next Session plans.md",
-    "Mechanics/Enviromentals.md",
-    "Mechanics/Small Guerilla Missions.md",
-    "Mechanics/Rebel Command Tree.canvas",
+    "CEF Units/Undead/Laughing Husk.md",
+    "CEF Units/Capitol Elite Forces, CEF.md",
+    "CEF Units/Alive/CEF, Sergeant.md",
+    "CEF Units/Alive/CEF, Guard.md",
+    "CEF Units/Undead/Animals/Latchdrake.md",
     "Characters/Empire Characters/Princess Silena Vaelic.md",
+    "Locations/Roads.canvas",
     "Characters/Empire Characters/Princess Vaelessa Vaelic.md",
     "Peycore Monastery.md",
     "Characters/Empire Characters/Prince Garran Vaelic.md",
     "Characters/Empire Characters/Prince Lucerin Vaelic.md",
     "Characters/Empire Characters/Princess Ravena Vaelic.md",
-    "CEF Units/Undead/Animals/Latchdrake.md",
     "CEF Units/Alive/CEF, Tracker.md",
-    "CEF Units/Capitol Elite Forces, CEF.md",
     "CEF Troop Tree.canvas",
     "Mechanics/Empire Command Tree.canvas",
     "CEF Units/Alive",
     "CEF Units/Untitled.md",
     "CEF Units/Undead/Animals",
     "CEF Units/Undead",
+    "Locations/Forts/Fort Altus.md",
+    "Next Session plans.md",
     "Images/Pasted image 20251216022030.png",
     "Images",
     "Characters/Rebellion Characters/Baron Halbrecht Vinderbach.md",
     "Characters/Empire Characters/Blink.md",
     "Characters/Empire Characters/Emperor Aurelion Vaelic.md",
+    "Characters/Player Characters/Peter III.md",
     "Images/Pasted image 20251216015300.png",
+    "Characters/Player Characters/Gak.md",
+    "Characters/Player Characters/Igina.md",
     "Characters/Empire Characters",
+    "Characters/Sigtimtron.md",
     "Characters/Rebellion Characters",
+    "Current encounter.md",
+    "Mechanics/Gnoll Parties.md",
+    "Mechanics/Encounters.md",
     "Pasted image 20251204233729.png",
     "Mechanics",
+    "Mechanics/Rebel Command Tree.canvas",
     "Locations/Battlefields",
     "CEF Units",
     "Lore/Untitled",
