@@ -12,8 +12,8 @@
 ---
 **Saving Throws:** Dex +5
 **Skills:** Stealth +5
-**Resistances:**  Necrotic; Bludgeoning/Piercing/Slashing from nonmagical attacks.
-**Immunities:** Charmed, Frightened,  Poisoned
+**Resistances:** Necrotic; Bludgeoning/Piercing/Slashing from nonmagical attacks.
+**Condition Immunities:** Charmed, Frightened, Poisoned
 **Senses:** Darkvision 60ft., passive perception 11
 **Languages:** Vaelanecrotic
 **Challenge:** 1
