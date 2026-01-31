@@ -1,7 +1,7 @@
 A fort guarded by [[Capitol Elite Forces, CEF]]
 
 has a garrison of
-4 [[CEF, Drake Rider]]
+0 [[CEF, Drake Rider]]
 9 [[CEF, Alchemical Arbalist]]   3
 15 [[CEF, Guard]]  5
 7 [[CEF, Footman]] 3
