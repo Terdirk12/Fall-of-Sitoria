@@ -11,17 +11,14 @@
             "id": "fb0bfbd1b9836fd2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Locations/Roads.canvas",
-                "viewState": {
-                  "x": -1441.8667854564374,
-                  "y": -144.18252096426136,
-                  "zoom": -2.7137599356260753
-                }
+                "file": "Locations/Forts/Fort Altus.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Roads"
+              "icon": "lucide-file",
+              "title": "Fort Altus"
             }
           },
           {
@@ -30,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next Session plans.md",
+                "file": "Current encounter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next Session plans"
+              "title": "Current encounter"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -188,16 +186,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "fb0bfbd1b9836fd2",
+  "active": "7a5bf9f941fca423",
   "lastOpenFiles": [
-    "Locations/Villages, Towns & Cities/Aria.md",
-    "Locations/Roads.canvas",
     "Locations/Forts/Fort Altus.md",
+    "CEF Units/Alive/CEF, Alchemical Arbalist.md",
+    "Current encounter.md",
+    "CEF Units/Alive/CEF, Guard.md",
+    "CEF Units/Alive/CEF, Man At Arms.md",
+    "CEF Units/Alive/CEF, Surgeon.md",
+    "CEF Units/Alive/CEF, Footman.md",
+    "CEF Units/Alive/CEF, Tracker.md",
     "Next Session plans.md",
+    "CEF Units/Alive/CEF, Shieldwarden.md",
+    "Locations/Roads.canvas",
+    "Goblins/Go-Juice.md",
+    "Sitoria United Codeword & Calls.md",
+    "Locations/Villages, Towns & Cities/Aria.md",
     "Locations/Forts/Fort Sittard.md",
     "Locations/Battlefields/Forlorn Battlefield.md",
     "Locations/Battlefields/Ancient Battlefield.md",
-    "Current encounter.md",
     "Characters/Player Characters/Peter III.md",
     "Characters/Player Characters/Panoramix.md",
     "Characters/Player Characters/Otto.md",
@@ -205,17 +212,8 @@
     "Characters/Player Characters/Igina.md",
     "Characters/Player Characters/Gak.md",
     "CEF Units/Alive/CEF, Drake Rider.md",
-    "CEF Units/Alive/CEF, Tracker.md",
     "Characters/Rebellion Characters/Quartermaster Thormund.md",
-    "CEF Units/Alive/CEF, Footman.md",
-    "CEF Units/Alive/CEF, Surgeon.md",
-    "CEF Units/Alive/CEF, Alchemical Arbalist.md",
-    "CEF Units/Alive/CEF, Guard.md",
-    "CEF Units/Alive/CEF, Man At Arms.md",
-    "CEF Units/Alive/CEF, Shieldwarden.md",
     "CEF Units/Undead/Laughing Husk.md",
-    "Characters/Rebellion Characters/Crazed Alchemist..md",
-    "CEF Units/Capitol Elite Forces, CEF.md",
     "CEF Troop Tree.canvas",
     "Mechanics/Empire Command Tree.canvas",
     "CEF Units/Alive",
