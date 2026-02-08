@@ -4,25 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "17400fef9160baba",
+        "id": "851396c65f7520e4",
         "type": "tabs",
         "children": [
           {
-            "id": "fb0bfbd1b9836fd2",
+            "id": "e92b3c86218dc7ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Locations/Forts/Fort Altus.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Roads.canvas",
+                "viewState": {
+                  "x": 745.605680335863,
+                  "y": -441.20798818078345,
+                  "zoom": 0.14620483260967673
+                }
               },
-              "icon": "lucide-file",
-              "title": "Fort Altus"
+              "icon": "lucide-layout-dashboard",
+              "title": "Roads"
             }
           },
           {
-            "id": "7a5bf9f941fca423",
+            "id": "52244cb52c66c5ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,11 +189,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "7a5bf9f941fca423",
+  "active": "52244cb52c66c5ce",
   "lastOpenFiles": [
+    "Characters/Empire Characters/Princess Vaelessa Vaelic.md",
+    "Characters/Empire Characters/Blink.md",
+    "Locations/Roads.canvas",
+    "Locations/Forts/Fort Stevia.md",
+    "Locations/Intersections.md",
+    "Goblins/Goblin Tribes.md",
+    "Goblins/Broken Hand Clan.md",
+    "Current encounter.md",
+    "Mechanics/Encounters.md",
+    "Characters/Rebellion Characters/Player party guards/Fork.md",
+    "Insidious few.md",
+    "Characters/Rebellion Characters/Player party guards",
+    "Characters/Rebellion Characters/Player party guards/Knife.md",
+    "Characters/Rebellion Characters/Player party guards/Spoon.md",
+    "Characters/Rebellion Characters/Baron Halbrecht Vinderbach.md",
+    "Characters/Rebellion Characters/Crazed Alchemist..md",
+    "Characters/Rebellion Characters/Quartermaster Thormund.md",
+    "Characters/Rebellion Characters/Captain Jormund Vayne.md",
     "Locations/Forts/Fort Altus.md",
     "CEF Units/Alive/CEF, Alchemical Arbalist.md",
-    "Current encounter.md",
     "CEF Units/Alive/CEF, Guard.md",
     "CEF Units/Alive/CEF, Man At Arms.md",
     "CEF Units/Alive/CEF, Surgeon.md",
@@ -198,22 +218,7 @@
     "CEF Units/Alive/CEF, Tracker.md",
     "Next Session plans.md",
     "CEF Units/Alive/CEF, Shieldwarden.md",
-    "Locations/Roads.canvas",
     "Goblins/Go-Juice.md",
-    "Sitoria United Codeword & Calls.md",
-    "Locations/Villages, Towns & Cities/Aria.md",
-    "Locations/Forts/Fort Sittard.md",
-    "Locations/Battlefields/Forlorn Battlefield.md",
-    "Locations/Battlefields/Ancient Battlefield.md",
-    "Characters/Player Characters/Peter III.md",
-    "Characters/Player Characters/Panoramix.md",
-    "Characters/Player Characters/Otto.md",
-    "Characters/Player Characters/Katniss.md",
-    "Characters/Player Characters/Igina.md",
-    "Characters/Player Characters/Gak.md",
-    "CEF Units/Alive/CEF, Drake Rider.md",
-    "Characters/Rebellion Characters/Quartermaster Thormund.md",
-    "CEF Units/Undead/Laughing Husk.md",
     "CEF Troop Tree.canvas",
     "Mechanics/Empire Command Tree.canvas",
     "CEF Units/Alive",
@@ -229,7 +234,6 @@
     "Mechanics/Rebel Command Tree.canvas",
     "Locations/Battlefields",
     "CEF Units",
-    "Lore/Untitled",
     "Emperor's Royal Lineage.canvas"
   ]
 }

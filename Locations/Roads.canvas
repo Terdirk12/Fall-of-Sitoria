@@ -115,7 +115,10 @@
 		{"id":"3d47a7b245c5ab8c","type":"text","text":"[[Fort Altus]]","x":75,"y":1,"width":125,"height":50,"color":"3"},
 		{"id":"9a4e14362fa36808","type":"text","text":"[[The Turning Wheel]]","x":-230,"y":670,"width":180,"height":50,"color":"3"},
 		{"id":"cdb046afff53bbb2","type":"text","text":"[[Peycore Monastery]]","x":-860,"y":440,"width":126,"height":90,"color":"4"},
-		{"id":"44bd13e9c1f5f849","type":"text","text":"[[Aria]]","x":-3260,"y":-2794,"width":85,"height":69}
+		{"id":"44bd13e9c1f5f849","type":"text","text":"[[Aria]]","x":-3260,"y":-2794,"width":85,"height":69},
+		{"id":"5cc5920052712d0d","type":"text","text":"Ruined Edelheim","x":423,"y":-512,"width":227,"height":177,"color":"1"},
+		{"id":"03c6d27941c1a1c6","type":"text","text":"sultelheim","x":921,"y":-550,"width":132,"height":50,"color":"3"},
+		{"id":"272318896e0ef822","type":"text","text":"Wustheim","x":248,"y":-825,"width":144,"height":85,"color":"3"}
 	],
 	"edges":[
 		{"id":"382253c8864c5d86","fromNode":"f903c3c2f4cdf6ea","fromSide":"top","toNode":"9bd2b39f682abb94","toSide":"bottom","toEnd":"none"},
@@ -297,6 +300,16 @@
 		{"id":"d2dcf85447971dc1","fromNode":"44bd13e9c1f5f849","fromSide":"left","toNode":"80dd7318f35b4cf0","toSide":"right","toEnd":"none"},
 		{"id":"8e6cea27b99d85c2","fromNode":"44bd13e9c1f5f849","fromSide":"top","toNode":"7ab544c8d0fe4ce8","toSide":"bottom","toEnd":"none"},
 		{"id":"af5dddae2d6016db","fromNode":"44bd13e9c1f5f849","fromSide":"right","toNode":"3b9c53f1af978326","toSide":"bottom","toEnd":"none"},
-		{"id":"a9fb59660a668896","fromNode":"52e01ac6bdcf2d5f","fromSide":"top","toNode":"44bd13e9c1f5f849","toSide":"bottom","toEnd":"none"}
+		{"id":"a9fb59660a668896","fromNode":"52e01ac6bdcf2d5f","fromSide":"top","toNode":"44bd13e9c1f5f849","toSide":"bottom","toEnd":"none"},
+		{"id":"3f699f253728244c","fromNode":"923302dbeb240fb1","fromSide":"left","toNode":"5cc5920052712d0d","toSide":"right","toEnd":"none"},
+		{"id":"c8fdd99cb0bd37d3","fromNode":"923302dbeb240fb1","fromSide":"top","toNode":"03c6d27941c1a1c6","toSide":"bottom","toEnd":"none"},
+		{"id":"1bd28727b7f69ce6","fromNode":"03c6d27941c1a1c6","fromSide":"top","toNode":"6a832d0b2118b0d3","toSide":"bottom","toEnd":"none"},
+		{"id":"643a5d7a139059e6","fromNode":"272318896e0ef822","fromSide":"right","toNode":"6a832d0b2118b0d3","toSide":"left","toEnd":"none"},
+		{"id":"2198014d62e0d789","fromNode":"272318896e0ef822","fromSide":"top","toNode":"3aa78b4aad17fcc4","toSide":"bottom","toEnd":"none"},
+		{"id":"05b7cf4a397b4404","fromNode":"272318896e0ef822","fromSide":"bottom","toNode":"5cc5920052712d0d","toSide":"top","toEnd":"none"},
+		{"id":"96d29bc9d093493a","fromNode":"f1ea52cf3a48e47b","fromSide":"right","toNode":"5cc5920052712d0d","toSide":"bottom","toEnd":"none"},
+		{"id":"5f53379b6108795e","fromNode":"5cc5920052712d0d","fromSide":"top","toNode":"6a832d0b2118b0d3","toSide":"bottom","toEnd":"none"},
+		{"id":"11dcdf7a0a71f9a8","fromNode":"03c6d27941c1a1c6","fromSide":"top","toNode":"d90f0ce9a7707e06","toSide":"bottom","toEnd":"none"},
+		{"id":"2b175dda43db2334","fromNode":"5aa3ca740b986059","fromSide":"top","toNode":"22ef28b7e1768346","toSide":"left","toEnd":"none"}
 	]
 }
