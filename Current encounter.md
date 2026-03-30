@@ -1,34 +1,25 @@
 
+| Unit Card | Creature     | Meeple | Page/Link                    |
+| --------- | ------------ | ------ | ---------------------------- |
+| CEF       | Arbelist     | Mole   | [[CEF, Alchemical Arbalist]] |
+| CEF       | Footman      | Crow   | [[CEF, Footman]]             |
+| CEF       | Guard        | Badger | [[CEF, Guard]]               |
+| CEF       | Surgeon      | Otter  | [[CEF, Surgeon]]             |
+| CEF       | Tracker      | Bird   | [[CEF, Tracker]]             |
+| CEF       | Man-At-arms  | Lizard | [[CEF, Man At Arms]]         |
+| CEF       | Shieldwarden | Rat    | [[CEF, Shieldwarden]]        |
+| Undead    | Zombie       | Lizard | MM: p316                     |
+| Undead    | Ghoul        | Badger | MM: p148                     |
+| Undead    | Ghast        | Otter  | MM: p148                     |
 
 
-| ini | type           | unit    |     |     |     |     |
-| --- | -------------- | ------- | --- | --- | --- | --- |
-| 21  | peter          |         |     |     |     |     |
-| 20  | gak            |         |     |     |     |     |
-| 19  | friendly guard |         |     |     |     |     |
-| 19  | Arbelist       | mole    |     |     |     |     |
-| 19  | Guard          | badgers |     |     |     |     |
-| 13  | otto           |         |     |     |     |     |
-| 13  | surgeon        | otter   |     |     |     |     |
-| 13  | tracker        | bird    |     |     |     |     |
-| 11  | Man at arms    | lizard  |     |     |     |     |
-| 5   | footman        | crow    |     |     |     |     |
-| 3   | shieldwarden   | rat     |     |     |     |     |
+---
 
-13 otto
-30 gak
-17 peter
-7 ghoul
-16 ghast
-18 zombie
 
-| ini | type   | unit   | hp  |     |     |     |     |
-| --- | ------ | ------ | --- | --- | --- | --- | --- |
-| 30  | gak    |        |     |     |     |     |     |
-| 18  | zombie | lizard | 1   |     |     |     |     |
-| 17  | peter  |        |     |     |     |     |     |
-| 16  | ghast  | spec   |     |     |     |     |     |
-| 13  | otto   |        |     |     |     |     |     |
-| 13  | guards |        |     |     |     |     |     |
-| 7   | ghoul  | badger | 19  |     |     |     |     |
-
+| Initiative | Unit           | HP1 | HP2 | HP3 | HP4 | HP5 |
+| ---------- | -------------- | --- | --- | --- | --- | --- |
+|            | Gak            |     |     |     |     |     |
+|            | Peter          |     |     |     |     |     |
+|            | Otto           |     |     |     |     |     |
+|            | Friendly Guard |     |     |     |     |     |
+|            |                |     |     |     |     |     |

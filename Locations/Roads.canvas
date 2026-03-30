@@ -116,7 +116,7 @@
 		{"id":"9a4e14362fa36808","type":"text","text":"[[The Turning Wheel]]","x":-230,"y":670,"width":180,"height":50,"color":"3"},
 		{"id":"cdb046afff53bbb2","type":"text","text":"[[Peycore Monastery]]","x":-860,"y":440,"width":126,"height":90,"color":"4"},
 		{"id":"44bd13e9c1f5f849","type":"text","text":"[[Aria]]","x":-3260,"y":-2794,"width":85,"height":69},
-		{"id":"5cc5920052712d0d","type":"text","text":"Ruined Edelheim","x":423,"y":-512,"width":227,"height":177,"color":"1"},
+		{"id":"5cc5920052712d0d","type":"text","text":"[[Ruined Edelheim]]","x":423,"y":-512,"width":227,"height":177,"color":"1"},
 		{"id":"03c6d27941c1a1c6","type":"text","text":"sultelheim","x":921,"y":-550,"width":132,"height":50,"color":"3"},
 		{"id":"272318896e0ef822","type":"text","text":"Wustheim","x":248,"y":-825,"width":144,"height":85,"color":"3"}
 	],
@@ -310,6 +310,8 @@
 		{"id":"96d29bc9d093493a","fromNode":"f1ea52cf3a48e47b","fromSide":"right","toNode":"5cc5920052712d0d","toSide":"bottom","toEnd":"none"},
 		{"id":"5f53379b6108795e","fromNode":"5cc5920052712d0d","fromSide":"top","toNode":"6a832d0b2118b0d3","toSide":"bottom","toEnd":"none"},
 		{"id":"11dcdf7a0a71f9a8","fromNode":"03c6d27941c1a1c6","fromSide":"top","toNode":"d90f0ce9a7707e06","toSide":"bottom","toEnd":"none"},
-		{"id":"2b175dda43db2334","fromNode":"5aa3ca740b986059","fromSide":"top","toNode":"22ef28b7e1768346","toSide":"left","toEnd":"none"}
+		{"id":"2b175dda43db2334","fromNode":"5aa3ca740b986059","fromSide":"top","toNode":"22ef28b7e1768346","toSide":"left","toEnd":"none"},
+		{"id":"60508ea247109890","fromNode":"fa2cc03080d014c5","fromSide":"right","toNode":"5cc5920052712d0d","toSide":"left","color":"5"},
+		{"id":"97f8296a3c940d8e","fromNode":"5cc5920052712d0d","fromSide":"right","toNode":"a209389cd8f1acca","toSide":"left","color":"5"}
 	]
 }

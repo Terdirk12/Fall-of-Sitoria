@@ -4,42 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "851396c65f7520e4",
+        "id": "93464a315e7454c4",
         "type": "tabs",
         "children": [
           {
-            "id": "e92b3c86218dc7ac",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Roads.canvas",
-                "viewState": {
-                  "x": 745.605680335863,
-                  "y": -441.20798818078345,
-                  "zoom": 0.14620483260967673
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Roads"
-            }
-          },
-          {
-            "id": "52244cb52c66c5ce",
+            "id": "66a74fcb85958148",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current encounter.md",
+                "file": "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current encounter"
+              "title": "Ruined Edelheim"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -189,51 +171,56 @@
       "bases:Create new base": false
     }
   },
-  "active": "52244cb52c66c5ce",
+  "active": "66a74fcb85958148",
   "lastOpenFiles": [
-    "Characters/Empire Characters/Princess Vaelessa Vaelic.md",
-    "Characters/Empire Characters/Blink.md",
+    "Monsters/Deathlock Mastermind.md",
+    "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
+    "Monsters/Tlincalli.md",
+    "Monsters/Galeb Duhr.md",
+    "Monsters/Cave Fisher.md",
+    "Untitled.canvas",
+    "200634~1.jpg",
+    "Untitled.md",
     "Locations/Roads.canvas",
-    "Locations/Forts/Fort Stevia.md",
-    "Locations/Intersections.md",
-    "Goblins/Goblin Tribes.md",
-    "Goblins/Broken Hand Clan.md",
-    "Current encounter.md",
-    "Mechanics/Encounters.md",
-    "Characters/Rebellion Characters/Player party guards/Fork.md",
-    "Insidious few.md",
-    "Characters/Rebellion Characters/Player party guards",
-    "Characters/Rebellion Characters/Player party guards/Knife.md",
-    "Characters/Rebellion Characters/Player party guards/Spoon.md",
-    "Characters/Rebellion Characters/Baron Halbrecht Vinderbach.md",
-    "Characters/Rebellion Characters/Crazed Alchemist..md",
-    "Characters/Rebellion Characters/Quartermaster Thormund.md",
-    "Characters/Rebellion Characters/Captain Jormund Vayne.md",
-    "Locations/Forts/Fort Altus.md",
-    "CEF Units/Alive/CEF, Alchemical Arbalist.md",
-    "CEF Units/Alive/CEF, Guard.md",
-    "CEF Units/Alive/CEF, Man At Arms.md",
-    "CEF Units/Alive/CEF, Surgeon.md",
-    "CEF Units/Alive/CEF, Footman.md",
-    "CEF Units/Alive/CEF, Tracker.md",
     "Next Session plans.md",
-    "CEF Units/Alive/CEF, Shieldwarden.md",
-    "Goblins/Go-Juice.md",
+    "Current encounter.md",
+    "Images/Edelheim Underground.png",
+    "Images/Pasted image 20251216022030.png",
+    "Images/Pasted image 20251216015300.png",
+    "CEF Units/Undead/Laughing Husk.md",
+    "Images/Edelheim Map.png",
+    "Images/sewer map.png",
+    "Characters/Sigtimtron.md",
+    "Sitoria United Codeword & Calls.md",
+    "Insidious few.md",
+    "Locations/Inns/Heartbirch Manor.md",
+    "Monsters",
+    "CEF Units/Undead/Animals/Latchdrake.md",
+    "CEF Units/Alive/CEF, Footman.md",
+    "Locations/Lay of the land.md",
+    "Images/Pasted image 20260218000751.png",
+    "Mechanics/Gnoll Parties.md",
+    "Mechanics/Encounters.md",
+    "Mechanics/Enviromentals.md",
+    "Mechanics/Magical Encounters.md",
+    "Locations/Villages, Towns & Cities/Aria.md",
+    "Characters/Rebellion Characters/Player party guards/Fork.md",
+    "Locations/Inns/Verona's Shack.md",
+    "Locations/Inns/The Broken Horse.md",
+    "Locations/CEF Ambush.md",
+    "Characters/Rebellion Characters/Player party guards",
     "CEF Troop Tree.canvas",
     "Mechanics/Empire Command Tree.canvas",
     "CEF Units/Alive",
     "CEF Units/Undead/Animals",
     "CEF Units/Undead",
-    "Images/Pasted image 20251216022030.png",
     "Images",
-    "Images/Pasted image 20251216015300.png",
     "Characters/Empire Characters",
     "Characters/Rebellion Characters",
     "Pasted image 20251204233729.png",
     "Mechanics",
     "Mechanics/Rebel Command Tree.canvas",
     "Locations/Battlefields",
-    "CEF Units",
     "Emperor's Royal Lineage.canvas"
   ]
 }
