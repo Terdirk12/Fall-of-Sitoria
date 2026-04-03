@@ -13,6 +13,8 @@ the city is layered each layer walled off by a stronger wall
 
 the outskirts are mostly full of undead they roam the streets and houses, an old tavern still stands, clearing the undead from it could result in a resting place for the players.
 
+Tavern has 1 [[Laughing Husk]] & 2 [[Ghoul]]s & 4 [[Zombie]]s with 6 more [[Zombie]]s coming from nearby rooms from the commotion
+
 
 ---
 ### The Commons
@@ -30,6 +32,8 @@ Are either flooded or burnt down, investigating either of these areas will resul
 
 **Inside the warehouse**
 *As you peek inside you see crates stacked to the roof, piles, barrels and boxes full of items scattered around. You deem the place an old warehouse.*
+
+they can find: planks, nails, rope, metal strips and bits, hinges & more inside.
 
 Contains the houses of the nobles including the gatekeeper of the Core, further more, near the gate there is a church with an expansive graveyard where the 'gravekeeper' Kevin still 'lives', Kevin is a [[Deathlock Mastermind]] ini 18
 

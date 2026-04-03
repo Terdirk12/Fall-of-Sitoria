@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
+                "file": "Locations/Forts/Fort Altus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruined Edelheim"
+              "title": "Fort Altus"
             }
           }
         ],
@@ -173,8 +173,17 @@
   },
   "active": "66a74fcb85958148",
   "lastOpenFiles": [
-    "Monsters/Deathlock Mastermind.md",
+    "Characters/Rebellion Characters/Player party guards/Knife.md",
+    "Characters/Rebellion Characters/Player party guards/Spoon.md",
+    "Characters/Rebellion Characters/Player party guards/Fork.md",
     "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
+    "ghouls.md",
+    "CEF Units/Undead/Zombie.md",
+    "CEF Units/Undead/Animals/Latchdrake.md",
+    "CEF Units/Undead/Ghast.md",
+    "CEF Units/Undead/Laughing Husk.md",
+    "CEF Units/Undead/Ghoul.md",
+    "Monsters/Deathlock Mastermind.md",
     "Monsters/Tlincalli.md",
     "Monsters/Galeb Duhr.md",
     "Monsters/Cave Fisher.md",
@@ -187,7 +196,6 @@
     "Images/Edelheim Underground.png",
     "Images/Pasted image 20251216022030.png",
     "Images/Pasted image 20251216015300.png",
-    "CEF Units/Undead/Laughing Husk.md",
     "Images/Edelheim Map.png",
     "Images/sewer map.png",
     "Characters/Sigtimtron.md",
@@ -195,19 +203,12 @@
     "Insidious few.md",
     "Locations/Inns/Heartbirch Manor.md",
     "Monsters",
-    "CEF Units/Undead/Animals/Latchdrake.md",
     "CEF Units/Alive/CEF, Footman.md",
     "Locations/Lay of the land.md",
     "Images/Pasted image 20260218000751.png",
     "Mechanics/Gnoll Parties.md",
     "Mechanics/Encounters.md",
     "Mechanics/Enviromentals.md",
-    "Mechanics/Magical Encounters.md",
-    "Locations/Villages, Towns & Cities/Aria.md",
-    "Characters/Rebellion Characters/Player party guards/Fork.md",
-    "Locations/Inns/Verona's Shack.md",
-    "Locations/Inns/The Broken Horse.md",
-    "Locations/CEF Ambush.md",
     "Characters/Rebellion Characters/Player party guards",
     "CEF Troop Tree.canvas",
     "Mechanics/Empire Command Tree.canvas",
