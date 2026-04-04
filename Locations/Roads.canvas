@@ -63,7 +63,7 @@
 		{"id":"ce85ba524342bb65","type":"text","text":"Sorell","x":-1680,"y":675,"width":112,"height":90},
 		{"id":"445a16f4d32ffe24","type":"text","text":"Thornvale","x":-655,"y":684,"width":125,"height":73,"color":"4"},
 		{"id":"d05555baa846d700","type":"text","text":"Stonecross","x":-1017,"y":1074,"width":136,"height":86},
-		{"id":"675730f0882d4227","type":"text","text":"Fort Hallowpike","x":-1087,"y":746,"width":250,"height":60},
+		{"id":"675730f0882d4227","type":"text","text":"Fort Hallowpike","x":-1087,"y":746,"width":250,"height":60,"color":"1"},
 		{"id":"1c7fbf690bedeb93","type":"text","text":"Fort Eskryn","x":-2032,"y":544,"width":250,"height":60},
 		{"id":"8498b24eccbcdafe","type":"text","text":"Lake Hussauh","x":-2668,"y":6,"width":108,"height":60,"color":"5"},
 		{"id":"6322321d03e560a8","type":"text","text":"Lake Hussauh","x":-2280,"y":82,"width":120,"height":60,"color":"5"},

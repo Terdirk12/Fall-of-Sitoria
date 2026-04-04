@@ -23,3 +23,14 @@
 |            | Otto           |     |     |     |     |     |
 |            | Friendly Guard |     |     |     |     |     |
 |            |                |     |     |     |     |     |
+  
+
+| ini | unit      | type   | hp1 | hp2 | hp3 | hp4 |
+| --- | --------- | ------ | --- | --- | --- | --- |
+| 20  | Jamy      |        |     |     |     |     |
+| 17  | captain   | bear   |     |     |     |     |
+| 13  | Archer    | Cat    |     |     |     |     |
+| 12  | Christan  |        |     |     |     |     |
+| 11  | Mechanist | bird   |     |     |     |     |
+| 9   | Guard     | rabbit |     |     |     |     |
+| 7   | Spectre   | gobbo  | 25  |     |     |     |

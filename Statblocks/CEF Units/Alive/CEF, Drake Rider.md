@@ -1,4 +1,4 @@
-**AC:** 18, (Heavy armor, shield, Reinforced Barding)
+**AC:** 18, (Splint armor, shield, Reinforced Barding)
 **HP:** 68, (8d10+24)
 **Speed:** 40ft.
 
