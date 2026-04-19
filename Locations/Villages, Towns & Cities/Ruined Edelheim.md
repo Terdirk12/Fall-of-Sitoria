@@ -148,8 +148,8 @@ In the library many books are are scattered about, most of them either rotten, r
 *Sub-surface plants and you.* dc 8
 Carrying gives +1 to Nature based skill checks.
 
-*The importance of sanitation in Medical and Civilian practices.* dc 12
-Carrying gives +1 to Medicine based skill checks.
+~~*The importance of sanitation in Medical and Civilian practices.* dc 12~~
+~~Carrying gives +1 to Medicine based skill checks.~~
 
 *A variety of local Arachne.* dc 14
 Carrying gives +1 to hit on Arachne based Monstrosities.

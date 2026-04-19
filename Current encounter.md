@@ -16,13 +16,15 @@
 ---
 
 
-| Initiative | Unit           | HP1 | HP2 | HP3 | HP4 | HP5 |
-| ---------- | -------------- | --- | --- | --- | --- | --- |
-|            | Gak            |     |     |     |     |     |
-|            | Peter          |     |     |     |     |     |
-|            | Otto           |     |     |     |     |     |
-|            | Friendly Guard |     |     |     |     |     |
-|            |                |     |     |     |     |     |
+| Initiative | Unit           | HP1 | HP2 | HP3 | HP4 | HP5 |     |
+| ---------- | -------------- | --- | --- | --- | --- | --- | --- |
+| 20         | ghoul          |     |     |     |     |     |     |
+| 13         | Gak            |     |     |     |     |     |     |
+| 9          | LH             |     |     |     |     |     |     |
+| 18         | Friendly Guard |     |     |     |     |     |     |
+| 7          | Otto           |     |     |     |     |     |     |
+| 5          | Peter          |     |     |     |     |     |     |
+| 13         | zombies        |     |     |     |     |     |     |
   
 
 | ini | unit      | type   | hp1 | hp2 | hp3 | hp4 |

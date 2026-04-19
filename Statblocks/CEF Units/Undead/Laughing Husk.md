@@ -34,6 +34,8 @@ If its **head is destroyed or removed** during this time, it dies permanently.
 - The Husk ignores opportunity attacks from creatures other than its focus
 - The Husk moves recklessly to reach its focus
 
+
+
 ---
 ### Actions:
 **Multiattack.** The Laughing Husk makes two Slam attacks.

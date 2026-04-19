@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peter's ghost.md",
+                "file": "Next Session plans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peter's ghost"
+              "title": "Next Session plans"
+            }
+          },
+          {
+            "id": "42c58a981199e942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current encounter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Current encounter"
             }
           }
         ],
@@ -45,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Verkenner"
             }
           },
           {
@@ -162,30 +176,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "bases:Nieuwe basis maken": false
     }
   },
   "active": "c98c25ef8d570971",
   "lastOpenFiles": [
+    "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
+    "Statblocks/CEF Units/Undead/Zombie.md",
+    "Current encounter.md",
+    "Statblocks/CEF Units/Undead/Laughing Husk.md",
+    "Statblocks/CEF Units/Undead/Ghoul.md",
+    "Next Session plans.md",
+    "Peter's ghost.md",
     "Characters/Aegis Unit/Saphira.md",
     "Characters/Player Characters/Peter III.md",
-    "Peter's ghost.md",
     "Locations/Roads.canvas",
     "Monsters/Deathlock Mastermind.md",
-    "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
     "Characters/Empire Characters/Princess Vaelessa Vaelic.md",
     "Characters/Empire Characters/Princess Silena Vaelic.md",
     "Characters/Empire Characters/Princess Ravena Vaelic.md",
     "Characters/Empire Characters/Prince Lucerin Vaelic.md",
     "Characters/Empire Characters/Prince Garran Vaelic.md",
-    "Next Session plans.md",
-    "Current encounter.md",
     "Statblocks/SU Units/SU, Captain.md",
     "Locations/Forts/Fort Altus.md",
     "Statblocks/SU Units/SU, Wizard.md",
@@ -196,9 +213,6 @@
     "Statblocks/SU Units/SU, Archer.md",
     "Statblocks/SU Units",
     "Statblocks/CEF Units/Undead/Animals/Latchdrake.md",
-    "Statblocks/CEF Units/Undead/Laughing Husk.md",
-    "Statblocks/CEF Units/Undead/Ghoul.md",
-    "Statblocks/CEF Units/Undead/Zombie.md",
     "Statblocks/CEF Units/Undead/Ghast.md",
     "Statblocks/CEF Units/Undead/Animals",
     "Statblocks/CEF Units/Undead",
