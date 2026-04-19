@@ -33,9 +33,26 @@ Are either flooded or burnt down, investigating either of these areas will resul
 **Inside the warehouse**
 *As you peek inside you see crates stacked to the roof, piles, barrels and boxes full of items scattered around. You deem the place an old warehouse.*
 
-they can find: planks, nails, rope, metal strips and bits, hinges & more inside.
+they can find: planks, nails, rope, metal strips and bits, hinges, large cut stones & more inside.
+also a variety of tools: shovels, hammers, rockhammers, pitons, saws, tongs.
+
+in the back of the warehouse is a small forge, whilst old its last order is still on the forge a unfinished axe made from palladium.
 
 Contains the houses of the nobles including the gatekeeper of the Core, further more, near the gate there is a church with an expansive graveyard where the 'gravekeeper' Kevin still 'lives', Kevin is a [[Deathlock Mastermind]] ini 18
+
+### Graveyard
+Upon arriving at the graveyard the party might look at the graves, when inspecting them (DC5 investigation) they will find out the graves are recently dug.
+
+At a certain point they will hear a bunch of loud noises, like someone just dropped something metallic.
+
+**When investigating the noise** they will see 'Kevin' when kevin spots them he will greet them with a 'ah, adventurers, its been a long time since I have seen adventurers around here.' after which he will make a small bow. 
+
+**When the party asks who kevin is:** "*I am the gravekeeper of Edelheim, as was my father before me and his father before him, all the way back to the fall of this once beautiful city. My forefathers swore to bury all that died here, a task I still hold to this day.*"
+
+**Kevin** looks like an old man, shriveled, he walks a little bowed over using a walking stick.
+
+Kevin doesn't hand items directly to the adventurers or shake their hands, or touch them "unhygienic" he calls it.
+
 
 ___
 

@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ab3c9e034d9d9297",
+        "id": "93464a315e7454c4",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e7693b97b4c77b",
+            "id": "c98c25ef8d570971",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current encounter.md",
+                "file": "Peter's ghost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current encounter"
-            }
-          },
-          {
-            "id": "2a7a451eed4553ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statblocks/SU Units/SU, Mechanic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SU, Mechanic"
+              "title": "Peter's ghost"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -186,40 +171,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a7a451eed4553ee",
+  "active": "c98c25ef8d570971",
   "lastOpenFiles": [
-    "Current encounter.md",
-    "Statblocks/SU Units/SU, Mechanic.md",
-    "Statblocks/SU Units/SU, Archer.md",
-    "Statblocks/SU Units/SU, Captain.md",
-    "Statblocks/SU Units/SU, Champion.md",
-    "Statblocks/SU Units/SU, Guard.md",
+    "Characters/Aegis Unit/Saphira.md",
+    "Characters/Player Characters/Peter III.md",
+    "Peter's ghost.md",
     "Locations/Roads.canvas",
-    "Statblocks/SU Units/SU, Runner.md",
-    "Statblocks/CEF Units/Alive/CEF, Guard.md",
-    "Statblocks/CEF Units/Alive/CEF, Drake Rider.md",
-    "Statblocks/CEF Units/Alive/CEF, Footman.md",
-    "Statblocks/CEF Units/Alive/CEF, Sergeant.md",
-    "Statblocks/CEF Units/Alive/CEF, Man At Arms.md",
-    "Statblocks/CEF Units/Alive/CEF, Alchemical Arbalist.md",
-    "Statblocks/CEF Units/Alive/CEF, Tracker.md",
-    "Statblocks/CEF Units/Alive/CEF, Surgeon.md",
-    "Statblocks/CEF Units/Alive/CEF, Shieldwarden.md",
-    "'road.md",
-    "Images/Pasted image 20251216022030.png",
-    "Locations/Forts/Fort Altus.md",
-    "Count.md",
-    "Statblocks/SU Units/SU, Wizard.md",
-    "Statblocks/CEF Units/Capitol Elite Forces, CEF.md",
-    "Statblocks",
-    "Statblocks/SU Units",
-    "Characters/Rebellion Characters/Player party guards/Knife.md",
-    "Characters/Rebellion Characters/Player party guards/Spoon.md",
-    "Characters/Rebellion Characters/Player party guards/Fork.md",
+    "Monsters/Deathlock Mastermind.md",
     "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
+    "Characters/Empire Characters/Princess Vaelessa Vaelic.md",
+    "Characters/Empire Characters/Princess Silena Vaelic.md",
+    "Characters/Empire Characters/Princess Ravena Vaelic.md",
+    "Characters/Empire Characters/Prince Lucerin Vaelic.md",
+    "Characters/Empire Characters/Prince Garran Vaelic.md",
+    "Next Session plans.md",
+    "Current encounter.md",
+    "Statblocks/SU Units/SU, Captain.md",
+    "Locations/Forts/Fort Altus.md",
+    "Statblocks/SU Units/SU, Wizard.md",
+    "Statblocks/SU Units/SU, Runner.md",
+    "Statblocks/SU Units/SU, Mechanic.md",
+    "Statblocks/SU Units/SU, Guard.md",
+    "Statblocks/SU Units/SU, Champion.md",
+    "Statblocks/SU Units/SU, Archer.md",
+    "Statblocks/SU Units",
+    "Statblocks/CEF Units/Undead/Animals/Latchdrake.md",
+    "Statblocks/CEF Units/Undead/Laughing Husk.md",
+    "Statblocks/CEF Units/Undead/Ghoul.md",
+    "Statblocks/CEF Units/Undead/Zombie.md",
+    "Statblocks/CEF Units/Undead/Ghast.md",
+    "Statblocks/CEF Units/Undead/Animals",
+    "Statblocks/CEF Units/Undead",
+    "Statblocks/CEF Units/Capitol Elite Forces, CEF.md",
+    "Statblocks/CEF Units/Alive",
+    "Statblocks/CEF Units",
+    "Statblocks",
     "Untitled.canvas",
     "200634~1.jpg",
     "Images/Edelheim Underground.png",
+    "Images/Pasted image 20251216022030.png",
     "Images/Pasted image 20251216015300.png",
     "Images/Edelheim Map.png",
     "Images/sewer map.png",
@@ -228,12 +218,8 @@
     "Characters/Rebellion Characters/Player party guards",
     "CEF Troop Tree.canvas",
     "Mechanics/Empire Command Tree.canvas",
-    "Statblocks/CEF Units/Alive",
-    "Statblocks/CEF Units/Undead/Animals",
-    "Statblocks/CEF Units/Undead",
-    "Images",
-    "Characters/Empire Characters",
-    "Characters/Rebellion Characters",
+    "CEF Units/Alive",
+    "CEF Units/Undead/Animals",
     "Pasted image 20251204233729.png",
     "Mechanics/Rebel Command Tree.canvas",
     "Emperor's Royal Lineage.canvas"
