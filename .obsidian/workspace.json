@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next Session plans.md",
+                "file": "Fall-of-Dwarforia/NPC's.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next Session plans"
+              "title": "NPC's"
             }
           },
           {
@@ -185,14 +185,21 @@
       "bases:Nieuwe basis maken": false
     }
   },
-  "active": "c98c25ef8d570971",
+  "active": "756aa6fb16078905",
   "lastOpenFiles": [
+    "Fall-of-Dwarforia/Puzzles.md",
+    "Fall-of-Dwarforia/NPC's.md",
+    "Goblins/Goblin Tribes.md",
+    "Goblins/Go-Juice.md",
+    "Goblins/Broken Hand Clan.md",
+    "Goblins/Units/Broken Hand/Broken Hand Go-Juice Berserker.md",
+    "Goblins/Units/Broken Hand/Broken Hand Warboss.md",
+    "Next Session plans.md",
     "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
     "Statblocks/CEF Units/Undead/Zombie.md",
     "Current encounter.md",
     "Statblocks/CEF Units/Undead/Laughing Husk.md",
     "Statblocks/CEF Units/Undead/Ghoul.md",
-    "Next Session plans.md",
     "Peter's ghost.md",
     "Characters/Aegis Unit/Saphira.md",
     "Characters/Player Characters/Peter III.md",
@@ -207,16 +214,9 @@
     "Locations/Forts/Fort Altus.md",
     "Statblocks/SU Units/SU, Wizard.md",
     "Statblocks/SU Units/SU, Runner.md",
-    "Statblocks/SU Units/SU, Mechanic.md",
-    "Statblocks/SU Units/SU, Guard.md",
-    "Statblocks/SU Units/SU, Champion.md",
-    "Statblocks/SU Units/SU, Archer.md",
     "Statblocks/SU Units",
-    "Statblocks/CEF Units/Undead/Animals/Latchdrake.md",
-    "Statblocks/CEF Units/Undead/Ghast.md",
     "Statblocks/CEF Units/Undead/Animals",
     "Statblocks/CEF Units/Undead",
-    "Statblocks/CEF Units/Capitol Elite Forces, CEF.md",
     "Statblocks/CEF Units/Alive",
     "Statblocks/CEF Units",
     "Statblocks",
