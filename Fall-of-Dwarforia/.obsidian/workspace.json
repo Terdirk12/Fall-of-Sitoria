@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/Rock Goblin Village.md",
+                "file": "Encounters/Overrun Cave/Overrun cave.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rock Goblin Village"
+              "title": "Overrun cave"
             }
           }
         ],
@@ -223,24 +223,30 @@
   },
   "active": "9580ad1ba9a00dc0",
   "lastOpenFiles": [
+    "Encounters/Rock Goblin Village.md",
     "Encounters/Goblin Slaver Camp.md",
     "Encounters/Blacksmith Hideaway.md",
+    "Encounters/Overrun Cave/Amity Charm.png",
+    "Encounters/Overrun Cave/Overrun cave.md",
+    "Encounters/Overrun Cave",
+    "Enemies/Darkling stat block.png",
+    "Enemies/Grey Ooze Statblock.png",
+    "Pasted image 20260424052558.png",
+    "Enemies/Darkling (mini-goblin - murgling).md",
+    "Enemies/Goblin.md",
+    "Enemies/Goblin Boss (Shaman).md",
+    "Encounters/Puzzles/Puzzles.md",
     "Safe Haven.md",
     "NPC's.md",
     "Shield Guardian Statblock.png",
-    "Enemies/Goblin Boss (Shaman).md",
-    "Enemies/Goblin.md",
     "Encounters/Slime Spore Cave/Slime Spore Cave.md",
     "Encounters/Slime Spore Cave/Pasted image 20260424035458.png",
     "Enemies/Grey Ooze (Slime).md",
-    "Enemies/Grey Ooze Statblock.png",
-    "Encounters/Rock Goblin Village.md",
     "Encounters/Slime Spore Cave",
     "Enemies/Wolf.md",
     "Enemies/Wolf Statblock (Lazyness).png",
     "Encounters/Wolf Grove/Wolf Grove Images/Pasted image 20260423173200.png",
     "Enemies",
-    "Encounters/Puzzles/Puzzles.md",
     "Encounters/Wolf Grove/Wolf Grove.md",
     "Encounters/Wolf Grove/Wolf Grove Images/Pasted image 20260423174034.png",
     "Encounters/Wolf Grove/Wolf Grove Images",
@@ -249,13 +255,9 @@
     "Encounters/Racing/Racing Images/Pasted image 20260423171915.png",
     "Encounters/Racing/Racing Images",
     "Encounters/Puzzles",
-    "Encounters/Racing/Racing Images/Pasted image 20260423171537.png",
     "Encounters/Racing",
     "Encounters/Images",
-    "Encounters/Racing/Racing Images/Pasted image 20260423171847.png",
-    "Encounters/Racing/Racing Images/Pasted image 20260423171838.png",
     "Encounters",
-    "Encounters/Puzzles/Puzzle Images",
     "Welkom.md"
   ]
 }
