@@ -1,0 +1,1 @@
+Here you find Brom the Blacksmith, all of his weaponry is garbage and he's upset, provide him with precious metals and he might just join your town. However, he is willing to repair your armor or weapons if needed against a small price.

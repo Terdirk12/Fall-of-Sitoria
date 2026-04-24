@@ -1,0 +1,1 @@
+![[Wolf Statblock (Lazyness).png]]

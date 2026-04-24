@@ -1,0 +1,2 @@
+
+![[Grey Ooze Statblock.png]]
