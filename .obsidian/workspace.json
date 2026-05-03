@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next Session plans.md",
+                "file": "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Next Session plans"
+              "title": "Ruined Edelheim"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Current encounter.md",
+                "file": "Next Session plans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current encounter"
+              "title": "Next Session plans"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -185,14 +186,18 @@
       "bases:Nieuwe basis maken": false
     }
   },
-  "active": "c98c25ef8d570971",
+  "active": "42c58a981199e942",
   "lastOpenFiles": [
-    "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
-    "Statblocks/CEF Units/Undead/Zombie.md",
     "Current encounter.md",
+    "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
+    "Monsters/Tlincalli.md",
+    "Next Session plans.md",
+    "Monsters/Galeb Duhr.md",
+    "Goblins/Units/Broken Hand/Broken Hand Warboss.md",
+    "Monsters/Cave Fisher.md",
+    "Statblocks/CEF Units/Undead/Zombie.md",
     "Statblocks/CEF Units/Undead/Laughing Husk.md",
     "Statblocks/CEF Units/Undead/Ghoul.md",
-    "Next Session plans.md",
     "Peter's ghost.md",
     "Characters/Aegis Unit/Saphira.md",
     "Characters/Player Characters/Peter III.md",
@@ -210,13 +215,9 @@
     "Statblocks/SU Units/SU, Mechanic.md",
     "Statblocks/SU Units/SU, Guard.md",
     "Statblocks/SU Units/SU, Champion.md",
-    "Statblocks/SU Units/SU, Archer.md",
     "Statblocks/SU Units",
-    "Statblocks/CEF Units/Undead/Animals/Latchdrake.md",
-    "Statblocks/CEF Units/Undead/Ghast.md",
     "Statblocks/CEF Units/Undead/Animals",
     "Statblocks/CEF Units/Undead",
-    "Statblocks/CEF Units/Capitol Elite Forces, CEF.md",
     "Statblocks/CEF Units/Alive",
     "Statblocks/CEF Units",
     "Statblocks",

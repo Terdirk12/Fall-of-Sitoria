@@ -46,5 +46,7 @@ When reduced below half HP, the Warboss smashes the incenser into the ground. Al
 On Defeat Drops:
 **Mistmaker:**
 Weapon of the Broken Hand Warboss, a big 2 handed mace crowned with spikes and has an incenser welded into the head. On turn start, nearby (10ft) creatures must succeed a DC 13 Con Saving throw or Gain +2 melee damage but take 1d4 psychic damage.
+tenacity, on miss 1d4-1 dmg
+2d8+2 bludgeoning damage 
 
 A crude greatmace built in such a way that it has a incenser where normally the mace head is supposed to be. the incenser drips a pinkish fluid and has a pinkish mist around it. the incenser look to be made out of brass whilst the shaft is a dark wood, on the incenser are jagged iron spikes seemingly jammed through the incenser in such a way that they are stuck in place, the spikes are however very sharp. chains droop from the head downwards like someone tried to turn the weapon into a whip.

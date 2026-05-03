@@ -14,17 +14,17 @@
 
 
 ---
-
+mistmaker: 3, mangonel: 2.
 
 | Initiative | Unit           | HP1 | HP2 | HP3 | HP4 | HP5 |     |
 | ---------- | -------------- | --- | --- | --- | --- | --- | --- |
-| 20         | ghoul          |     |     |     |     |     |     |
-| 13         | Gak            |     |     |     |     |     |     |
-| 9          | LH             |     |     |     |     |     |     |
-| 18         | Friendly Guard |     |     |     |     |     |     |
-| 7          | Otto           |     |     |     |     |     |     |
-| 5          | Peter          |     |     |     |     |     |     |
-| 13         | zombies        |     |     |     |     |     |     |
+| 19         | Gek            |     |     |     |     |     |     |
+| 18         | Peter          |     |     |     |     |     |     |
+| 10         | Friendly Guard |     |     |     |     |     |     |
+| 5          | Otto           |     |     |     |     |     |     |
+|            |                |     |     |     |     |     |     |
+|            |                |     |     |     |     |     |     |
+|            |                |     |     |     |     |     |     |
   
 
 | ini | unit      | type   | hp1 | hp2 | hp3 | hp4 |

@@ -107,7 +107,7 @@ A [[Galeb Duhr]] guards the library section and can roll all the way down the ca
 There is a secret cave from the path to the library that the players can find if they investigate the walls of the cave. The secret cave is under the throneroom and contains a small amount of loot from the glorydays:
 
 1 Platinum on a special stand
-81 Gold
+81 Gold 
 61 Silver
 151 Copper
 
@@ -145,16 +145,23 @@ Once per long rest: When dropping to 0 HP: Gain 1 HP, End Rage, Heart goes Stagn
 
 In the library many books are are scattered about, most of them either rotten, ruined or unreadable. But the few books that are readable note a variety of things:
 
-*Sub-surface plants and you.* dc 8
+~~*Sub-surface plants and you.* dc 8~~
 Carrying gives +1 to Nature based skill checks.
 
 ~~*The importance of sanitation in Medical and Civilian practices.* dc 12~~
 ~~Carrying gives +1 to Medicine based skill checks.~~
 
-*A variety of local Arachne.* dc 14
-Carrying gives +1 to hit on Arachne based Monstrosities.
+~~*A variety of local Arachne.* dc 14~~
+Carrying gives +1 to hit on *some* Arachne based Monstrosities.
 
-**Upon Investigation check** dc 12
+~~*Upon the mechanization of siege engines*. dc 20~~
+Allows the party to make a Keg Launcher.
+
+~~*The ammunition of warlords.* dc 18~~
+Allows the crafting of explosive arrows and smoke-bolts.
+fog-cloud
+
+**Upon Investigation check** dc 14
 *You spot a weird torch holder on a pillar most of the libraries layout is mirrored except for this torch holder.*
 
 **On Inspecting the Torch Holder**
@@ -206,7 +213,7 @@ d4
 2: Half the flight speed.
 3: Instead of flight, get Feather falling and quadruple jump distance.
 4: The flight effect is given in an 10ft AOE.
-
+4
 *Shield*
 d4
 1: Shield Persists an extra turn.
