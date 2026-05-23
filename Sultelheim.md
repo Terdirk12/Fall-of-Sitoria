@@ -11,4 +11,4 @@ Upon entering the village, the players will be approached by several villagers n
 
 if the players mention that they already cleared edelheim the villagers will ask them how they dealt with the necromancer, hopefully a player will lay the connection here but if not the villager can drop a hint of like "the necromancer at the church"
 
-here the players will pbb go back to kill the necro mancer so do that fight, if they come back start [[Herstog]] fun
+here the players will pbb go back to kill the necro mancer so do that fight, if they come back start [[Herstog]] fun.

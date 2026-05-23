@@ -1,4 +1,4 @@
-*Large Dragon, Neutral, Homebrew AVL boekje*
+*Large Wyvern, Neutral, Homebrew AVL boekje*
 **AC:** 17 (Natural Armor)
 **HP:** [[Verdagor Healthpool]]
 **Speed:** 45ft.
@@ -36,8 +36,8 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 5   |     |     | x   | x   |     |     |
 | 10  |     | x   | x   | x   | x   |     |
-| 15  | x   | x   | x   | x   | x   | x   |
-| 20  | x   | x   | x   | x   | x   | x   |
+| 15  | x   | x   | M   | M   | x   | x   |
+| 20  | x   | x   | M   | M   | x   | x   |
 | 25  |     | x   | x   | x   | x   |     |
 | 30  |     |     | x   | x   |     |     |
 
