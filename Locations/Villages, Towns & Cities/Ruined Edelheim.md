@@ -158,8 +158,8 @@ Carrying gives +1 to hit on *some* Arachne based Monstrosities.
 Allows the party to make a Keg Launcher.
 
 ~~*The ammunition of warlords.* dc 18~~
-Allows the crafting of explosive arrows and smoke-bolts.
-fog-cloud
+Allows the crafting of explosive arrows and smoke-bolts (fog-cloud). 
+
 
 **Upon Investigation check** dc 14
 *You spot a weird torch holder on a pillar most of the libraries layout is mirrored except for this torch holder.*

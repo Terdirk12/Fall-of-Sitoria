@@ -8,35 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c98c25ef8d570971",
+            "id": "0561325ed3166c1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
+                "file": "Verdagor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruined Edelheim"
+              "title": "Verdagor"
             }
           },
           {
-            "id": "42c58a981199e942",
+            "id": "e17428ba10ed5c18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Next Session plans.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Roads.canvas",
+                "viewState": {
+                  "x": 1683.2714516655483,
+                  "y": -1055.9374002867091,
+                  "zoom": -0.7137599356260753
+                }
               },
-              "icon": "lucide-file",
-              "title": "Next Session plans"
+              "icon": "lucide-layout-dashboard",
+              "title": "Roads"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -60,7 +62,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Verkenner"
+              "title": "Files"
             }
           },
           {
@@ -177,44 +179,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open snel wisselen": false,
-      "graph:Open grafiek weergave": false,
-      "canvas:Nieuw doek aanmaken": false,
-      "daily-notes:Open de notitie van vandaag": false,
-      "templates:Sjabloon invoegen": false,
-      "command-palette:Open opdrachtenpaneel": false,
-      "bases:Nieuwe basis maken": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "42c58a981199e942",
+  "active": "0561325ed3166c1e",
   "lastOpenFiles": [
+    "Herstog.md",
+    "Verdagor.md",
+    "Sultelheim.md",
+    "Locations/Roads.canvas",
+    "Verdagor Healthpool.md",
+    "ece7e636-9c36-459c-9035-d59560aadcaf.png",
+    "Pasted image 20260516225720.png",
+    "Pasted image 20260516214442.png",
+    "Monsters/Galeb Duhr.md",
+    "Monsters/Cave Fisher.md",
+    "Monsters/Deathlock Mastermind.md",
+    "Statblocks/CEF Units/Alive/CEF, Drake Rider.md",
+    "Statblocks/CEF Units/Alive/CEF, Alchemical Arbalist.md",
+    "Statblocks/SU Units/SU, Archer.md",
+    "Mechanics/Rebel Command Tree.canvas",
+    "Mechanics/Empire Command Tree.canvas",
+    "Untitled.base",
+    "Bastions in Sitoria.md",
+    "Locations/Villages, Towns & Cities/Mustia.md",
+    "2026-05-08.md",
+    "Sitoria United Codeword & Calls.md",
+    "Next Session plans.md",
+    "Peter's ghost.md",
+    "Locations/Villages, Towns & Cities/Thornvale.md",
+    "Locations/Villages, Towns & Cities/Siltia.md",
+    "Locations/Forts/Fort Stahl.md",
+    "Locations/Forts/Fort Stevia.md",
+    "Locations/Forts/Sun Gate.md",
     "Current encounter.md",
     "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
     "Monsters/Tlincalli.md",
-    "Next Session plans.md",
-    "Monsters/Galeb Duhr.md",
     "Goblins/Units/Broken Hand/Broken Hand Warboss.md",
-    "Monsters/Cave Fisher.md",
     "Statblocks/CEF Units/Undead/Zombie.md",
-    "Statblocks/CEF Units/Undead/Laughing Husk.md",
-    "Statblocks/CEF Units/Undead/Ghoul.md",
-    "Peter's ghost.md",
-    "Characters/Aegis Unit/Saphira.md",
-    "Characters/Player Characters/Peter III.md",
-    "Locations/Roads.canvas",
-    "Monsters/Deathlock Mastermind.md",
-    "Characters/Empire Characters/Princess Vaelessa Vaelic.md",
-    "Characters/Empire Characters/Princess Silena Vaelic.md",
-    "Characters/Empire Characters/Princess Ravena Vaelic.md",
-    "Characters/Empire Characters/Prince Lucerin Vaelic.md",
-    "Characters/Empire Characters/Prince Garran Vaelic.md",
-    "Statblocks/SU Units/SU, Captain.md",
-    "Locations/Forts/Fort Altus.md",
-    "Statblocks/SU Units/SU, Wizard.md",
-    "Statblocks/SU Units/SU, Runner.md",
-    "Statblocks/SU Units/SU, Mechanic.md",
-    "Statblocks/SU Units/SU, Guard.md",
-    "Statblocks/SU Units/SU, Champion.md",
     "Statblocks/SU Units",
     "Statblocks/CEF Units/Undead/Animals",
     "Statblocks/CEF Units/Undead",
@@ -232,11 +240,7 @@
     "Images/Pasted image 20260218000751.png",
     "Characters/Rebellion Characters/Player party guards",
     "CEF Troop Tree.canvas",
-    "Mechanics/Empire Command Tree.canvas",
     "CEF Units/Alive",
-    "CEF Units/Undead/Animals",
-    "Pasted image 20251204233729.png",
-    "Mechanics/Rebel Command Tree.canvas",
     "Emperor's Royal Lineage.canvas"
   ]
 }

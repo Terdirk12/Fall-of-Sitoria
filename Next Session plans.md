@@ -1,1 +1,1 @@
-Edelheim is done, party opweg naar nearby of homebase.
+Edelheim is done, party op weg naar nearby dorp of homebase.

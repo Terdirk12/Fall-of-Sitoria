@@ -1,0 +1,1 @@
+has a burned down tavern, evil campaign was here.
