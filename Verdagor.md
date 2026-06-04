@@ -1,6 +1,6 @@
 *Large Dragon, Neutral, Homebrew AVL boekje*
 **AC:** 17 (Natural Armor)
-**HP:** [[Verdagor Healthpool]]
+**HP:** [[Verdagor Healthpool]], [[Blooming Verdagor Healthpool]]
 **Speed:** 45ft.
 
 
@@ -20,6 +20,10 @@
 ---
 ### Traits:
 **False Appearance:** The Verdagor appears as a grassy mound when sleeping/hiding. An investigation check DC 18 is needed to discover the Verdagor.
+
+---
+#### Blooming Traits:
+
 
 ---
 ### Actions:
@@ -84,12 +88,18 @@ DC 7 Con save. on fail Paralyzed
 
 ---
 
-**Tail Shake** 5-6
+**Tail Shake** 5-6 **(Blooming)**
 *The Verdagor twirls it's tail and a purple pollen shakes loose.*
 Creates 1D4 5ft squares at the rear of the Verdagor. When a character enters a square they take 1D6 Poison damage.
 DC 8 Con save. on fail Poisoned
 
 ---
+
+**Malicious Sweep** 5-6 **(Blooming)**
+*The Verdagor throws a long kick.*
+15ft Wide, 5ft Long Cone; DC 12 Dex Save. on fail prone, on save half damage
+Deals 4d8 bludgeoning damage
+
 
 ![[Pasted image 20260516214442.png]]![[Pasted image 20260516225720.png|669]]![[ece7e636-9c36-459c-9035-d59560aadcaf.png]]
 

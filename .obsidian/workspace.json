@@ -22,23 +22,21 @@
             }
           },
           {
-            "id": "e17428ba10ed5c18",
+            "id": "013a4c31666224e1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Locations/Roads.canvas",
-                "viewState": {
-                  "x": 1683.2714516655483,
-                  "y": -1055.9374002867091,
-                  "zoom": -0.7137599356260753
-                }
+                "file": "Blooming Verdagor Healthpool.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Roads"
+              "icon": "lucide-file",
+              "title": "Blooming Verdagor Healthpool"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -188,13 +186,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "0561325ed3166c1e",
+  "active": "013a4c31666224e1",
   "lastOpenFiles": [
-    "Herstog.md",
+    "Verdagor Healthpool.md",
+    "Blooming Verdagor Healthpool.md",
     "Verdagor.md",
+    "Herstog.md",
     "Sultelheim.md",
     "Locations/Roads.canvas",
-    "Verdagor Healthpool.md",
     "ece7e636-9c36-459c-9035-d59560aadcaf.png",
     "Pasted image 20260516225720.png",
     "Pasted image 20260516214442.png",
@@ -222,7 +221,6 @@
     "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
     "Monsters/Tlincalli.md",
     "Goblins/Units/Broken Hand/Broken Hand Warboss.md",
-    "Statblocks/CEF Units/Undead/Zombie.md",
     "Statblocks/SU Units",
     "Statblocks/CEF Units/Undead/Animals",
     "Statblocks/CEF Units/Undead",

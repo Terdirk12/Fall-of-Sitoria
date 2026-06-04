@@ -17,7 +17,7 @@ If a part goes to 0 HP it breaks, effecting the Verdagor
 
 | Part  | On Break                 |
 | ----- | ------------------------ |
-| Head  | Lose poison on attack    |
+| Head  |                          |
 | Tail  | No more Twisting Pounce  |
 | Claws | killing claw -> 1d8 +3   |
 | Legs  | Speed 45ft -> 30ft       |
