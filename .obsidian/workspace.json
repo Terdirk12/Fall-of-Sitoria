@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blooming Verdagor Healthpool.md",
+                "file": "Verdagor Healthpool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blooming Verdagor Healthpool"
+              "title": "Verdagor Healthpool"
             }
           }
         ],
@@ -188,9 +188,9 @@
   },
   "active": "013a4c31666224e1",
   "lastOpenFiles": [
-    "Verdagor Healthpool.md",
-    "Blooming Verdagor Healthpool.md",
     "Verdagor.md",
+    "Blooming Verdagor Healthpool.md",
+    "Verdagor Healthpool.md",
     "Herstog.md",
     "Sultelheim.md",
     "Locations/Roads.canvas",
