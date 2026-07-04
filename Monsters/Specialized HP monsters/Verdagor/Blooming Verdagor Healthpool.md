@@ -2,17 +2,18 @@ The Verdagor works a bit different then most DnD monsters, it's health pool is s
 
 | Part  | HP (Blooming) | Rolled | Bludgeoning | Piercing | Slashing | Fire   | Magic |
 | ----- | ------------- | ------ | ----------- | -------- | -------- | ------ | ----- |
-| Chest | 100           | 18d10  | ★★          | ★★★(★)   | ★★       | ★★★(★) | ★★    |
-| Claws | 100           | 18d10  | ★★★         | ★        | ★        | ★      | ★★    |
-| Head  | 100           | 18d10  | ★★★         | ★★       | ★        | ★★     | ★★    |
-| Legs  | 100           | 18d10  | ★           | ★★       | ★★★      | ★★     | ★★    |
-| Tail  | 100           | 18d10  | ★           | ★        | ★★★      | ★★     | ★★    |
+| Chest | 80            | 18d10  | ★★          | ★★★(★)   | ★★       | ★★★(★) | ★★    |
+| Claws | 80            | 18d10  | ★★★         | ★        | ★        | ★      | ★★    |
+| Head  | 80            | 18d10  | ★★★         | ★★       | ★        | ★★     | ★★    |
+| Legs  | 80            | 18d10  | ★           | ★★       | ★★★      | ★★     | ★★    |
+| Tail  | 80            | 18d10  | ★           | ★        | ★★★      | ★★     | ★★    |
+| HP    | 300           |        |             |          |          |        |       |
 
  / = **Invulnerable**
 ★= **Resistant**, 50% damage.
 ★★ = **Normal**, 100% damage.
 ★★★ = **Vulnerability**, 200% damage.
-(★) = Resistance after part break. (Blooming only)
+(★) = Resistance after part break.
 
 If a part goes to 0 HP it breaks, effecting the Verdagor
 

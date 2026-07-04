@@ -21,13 +21,15 @@
 ### Traits:
 **False Appearance:** The Verdagor appears as a grassy mound when sleeping/hiding. An investigation check DC 18 is needed to discover the Verdagor.
 
----
-#### Blooming Traits:
+**Petal Walk:** The verdagor leaves behind small flower petals as it walks, these petals grow into a 5ft flowerfield in a 10x10ft pattern behind the verdagor, each releasing poisonous spores dealing 1d4 poison damage to creatures that step inside. a field had 5hp, 5ac and fire vulnerability.
 
+---
+### Lair Actions:
+**Poison field:** 1d4 poison damage in a 300ft radius a DC 5 Con save. on fail: Poisoned condition
 
 ---
 ### Actions:
-**Multi attack:** The Verdagor tries for the Twisting Pounce, if it is not available it does a Grasping Bite & Killing Claw Attack.
+**Multi attack:** The Verdagor makes two actions per turn of the available list below
 
 ---
 **Twisting Pounce:** 5-6
@@ -100,8 +102,7 @@ DC 8 Con save. on fail Poisoned
 15ft Wide, 5ft Long Cone; DC 12 Dex Save. on fail prone, on save half damage
 Deals 4d8 bludgeoning damage
 
-
-![[Pasted image 20260516214442.png]]![[Pasted image 20260516225720.png|669]]![[ece7e636-9c36-459c-9035-d59560aadcaf.png]]
+![[ece7e636-9c36-459c-9035-d59560aadcaf.png]]
 
 The verdagor is a jumpy ambush predator that hides in lush grasslands.
 

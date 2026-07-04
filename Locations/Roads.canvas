@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"9bd2b39f682abb94","type":"text","text":" [[Intersections]] 1A","x":320,"y":360,"width":250,"height":60,"color":"6"},
-		{"id":"e89f46021bce1863","type":"text","text":"Crossing over the [[Helte]]","x":-300,"y":180,"width":250,"height":60,"color":"6"},
 		{"id":"f903c3c2f4cdf6ea","type":"text","text":"[[Mosswood]]","x":220,"y":720,"width":250,"height":100,"color":"4"},
 		{"id":"fc1c670cc12de6d4","type":"text","text":"[[Outermoss Farm]]","x":570,"y":660,"width":170,"height":110,"color":"3"},
 		{"id":"2aa9f85693f4054b","type":"text","text":"[[Helte]]","x":220,"y":1000,"width":100,"height":60,"color":"5"},
@@ -118,7 +117,9 @@
 		{"id":"272318896e0ef822","type":"text","text":"Wustheim","x":248,"y":-825,"width":144,"height":85,"color":"3"},
 		{"id":"3d47a7b245c5ab8c","type":"text","text":"[[Fort Altus]]","x":40,"y":36,"width":125,"height":50,"color":"3"},
 		{"id":"5aa3ca740b986059","type":"text","text":"[[Silent Forest]]","x":345,"y":31,"width":250,"height":169,"color":"4"},
-		{"id":"22ef28b7e1768346","type":"text","text":"[[The Abandoned Marsh]]","x":720,"y":-60,"width":276,"height":213,"color":"5"}
+		{"id":"22ef28b7e1768346","type":"text","text":"[[The Abandoned Marsh]]","x":720,"y":-60,"width":276,"height":213,"color":"5"},
+		{"id":"50245c3820720aa6","type":"text","text":"Herstog Field","x":788,"y":-620,"width":105,"height":60},
+		{"id":"e89f46021bce1863","type":"text","text":"[[Leyton Bridge]]","x":-240,"y":180,"width":160,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"382253c8864c5d86","fromNode":"f903c3c2f4cdf6ea","fromSide":"top","toNode":"9bd2b39f682abb94","toSide":"bottom","toEnd":"none","label":"1 D"},
@@ -145,7 +146,7 @@
 		{"id":"02cbf420b249c42c","fromNode":"ebe0706c2e44ef25","fromSide":"top","toNode":"923302dbeb240fb1","toSide":"bottom","toEnd":"none","label":"1 D"},
 		{"id":"daa9ed91a409990a","fromNode":"923302dbeb240fb1","fromSide":"right","toNode":"7f70b862b37c3ed1","toSide":"left","toEnd":"none","label":"1 D"},
 		{"id":"9ee3c08632f6c10a","fromNode":"923302dbeb240fb1","fromSide":"top","toNode":"6a832d0b2118b0d3","toSide":"bottom","toEnd":"none","label":"2 D"},
-		{"id":"4d503a6df876bd2f","fromNode":"6a832d0b2118b0d3","fromSide":"right","toNode":"d90f0ce9a7707e06","toSide":"left","toEnd":"none","label":"0.5 D"},
+		{"id":"4d503a6df876bd2f","fromNode":"6a832d0b2118b0d3","fromSide":"right","toNode":"d90f0ce9a7707e06","toSide":"left","toEnd":"none","label":"1 D"},
 		{"id":"418b298cca3e3eeb","fromNode":"3aa78b4aad17fcc4","fromSide":"right","toNode":"b4b1ccb55bd688f6","toSide":"left","toEnd":"none","label":"0.5 D"},
 		{"id":"4dba5b94d6dffe0e","fromNode":"3aa78b4aad17fcc4","fromSide":"top","toNode":"00e3f876343b792c","toSide":"bottom","toEnd":"none","label":"1 D"},
 		{"id":"2e7426aae9e4d277","fromNode":"6a832d0b2118b0d3","fromSide":"top","toNode":"3aa78b4aad17fcc4","toSide":"bottom","toEnd":"none","label":"1 D"},
@@ -304,12 +305,13 @@
 		{"id":"3f699f253728244c","fromNode":"923302dbeb240fb1","fromSide":"left","toNode":"5cc5920052712d0d","toSide":"right","toEnd":"none","label":"1 D"},
 		{"id":"c8fdd99cb0bd37d3","fromNode":"923302dbeb240fb1","fromSide":"top","toNode":"03c6d27941c1a1c6","toSide":"bottom","toEnd":"none","label":"0.5 D"},
 		{"id":"1bd28727b7f69ce6","fromNode":"03c6d27941c1a1c6","fromSide":"top","toNode":"6a832d0b2118b0d3","toSide":"bottom","toEnd":"none","label":"1.5 D"},
-		{"id":"643a5d7a139059e6","fromNode":"272318896e0ef822","fromSide":"right","toNode":"6a832d0b2118b0d3","toSide":"left","toEnd":"none","label":"0.5 D"},
+		{"id":"643a5d7a139059e6","fromNode":"272318896e0ef822","fromSide":"right","toNode":"6a832d0b2118b0d3","toSide":"left","toEnd":"none","label":"1 D"},
 		{"id":"2198014d62e0d789","fromNode":"272318896e0ef822","fromSide":"top","toNode":"3aa78b4aad17fcc4","toSide":"bottom","toEnd":"none","label":"0.5 D"},
 		{"id":"05b7cf4a397b4404","fromNode":"272318896e0ef822","fromSide":"bottom","toNode":"5cc5920052712d0d","toSide":"top","toEnd":"none","label":"1 D"},
 		{"id":"96d29bc9d093493a","fromNode":"f1ea52cf3a48e47b","fromSide":"right","toNode":"5cc5920052712d0d","toSide":"bottom","toEnd":"none","label":"1 D"},
 		{"id":"5f53379b6108795e","fromNode":"5cc5920052712d0d","fromSide":"top","toNode":"6a832d0b2118b0d3","toSide":"bottom","toEnd":"none","label":"1 D"},
 		{"id":"11dcdf7a0a71f9a8","fromNode":"03c6d27941c1a1c6","fromSide":"top","toNode":"d90f0ce9a7707e06","toSide":"bottom","toEnd":"none","label":"1 D"},
-		{"id":"2b175dda43db2334","fromNode":"5aa3ca740b986059","fromSide":"top","toNode":"22ef28b7e1768346","toSide":"left","toEnd":"none","label":"0.75 D"}
+		{"id":"2b175dda43db2334","fromNode":"5aa3ca740b986059","fromSide":"top","toNode":"22ef28b7e1768346","toSide":"left","toEnd":"none","label":"0.75 D"},
+		{"id":"8f8a930c51a3a587","fromNode":"50245c3820720aa6","fromSide":"right","toNode":"03c6d27941c1a1c6","toSide":"left","fromEnd":"arrow","label":"20m"}
 	]
 }

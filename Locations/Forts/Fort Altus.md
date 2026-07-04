@@ -13,4 +13,4 @@ has a garrison of
 
 25
 
-![[Pasted image 20251216022030.png]]
+![[fort altus.png]]

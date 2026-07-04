@@ -2,11 +2,11 @@ The Verdagor works a bit different then most DnD monsters, it's health pool is s
 
 | Part  | HP (Raw) | Rolled | Bludgeoning | Piercing | Slashing | Fire | Magic |
 | ----- | -------- | ------ | ----------- | -------- | -------- | ---- | ----- |
-| Chest | 17       | 3d10   | ★★          | ★★★      | ★★       | ★★★  | ★★    |
-| Claws | 15       | 2d10   | ★★★         | ★        | ★        | ★    | ★★    |
-| Head  | 20       | 4d10   | ★★★         | ★★       | ★        | ★★   | ★★    |
-| Legs  | 18       | 3d10   | ★           | ★★       | ★★★      | ★★   | ★★    |
-| Tail  | 15       | 2d10   | ★           | ★        | ★★★      | ★★   | ★★    |
+| Chest | 67       | 3d10   | ★★          | ★★★      | ★★       | ★★★  | ★★    |
+| Claws | 65       | 2d10   | ★★★         | ★        | ★        | ★    | ★★    |
+| Head  | 70       | 4d10   | ★★★         | ★★       | ★        | ★★   | ★★    |
+| Legs  | 68       | 3d10   | ★           | ★★       | ★★★      | ★★   | ★★    |
+| Tail  | 65       | 2d10   | ★           | ★        | ★★★      | ★★   | ★★    |
 
  / = **Invulnerable**
 ★= **Resistant**, 50% damage.

@@ -1,1 +1,1 @@
-67776Stonelegs potion,
+Stonelegs potion,
