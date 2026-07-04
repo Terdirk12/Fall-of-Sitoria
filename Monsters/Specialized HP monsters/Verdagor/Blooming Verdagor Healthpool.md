@@ -1,13 +1,14 @@
 The Verdagor works a bit different then most DnD monsters, it's health pool is somewhat split between his parts. each having its own resistance.
 
-| Part  | HP (Blooming) | Rolled | Bludgeoning | Piercing | Slashing | Fire   | Magic |
-| ----- | ------------- | ------ | ----------- | -------- | -------- | ------ | ----- |
-| Chest | 80            | 18d10  | ★★          | ★★★(★)   | ★★       | ★★★(★) | ★★    |
-| Claws | 80            | 18d10  | ★★★         | ★        | ★        | ★      | ★★    |
-| Head  | 80            | 18d10  | ★★★         | ★★       | ★        | ★★     | ★★    |
-| Legs  | 80            | 18d10  | ★           | ★★       | ★★★      | ★★     | ★★    |
-| Tail  | 80            | 18d10  | ★           | ★        | ★★★      | ★★     | ★★    |
-| HP    | 300           |        |             |          |          |        |       |
+| Part  | HP (Blooming) | Taken | Rolled | Bludgeoning | Piercing | Slashing | Fire   | Magic |
+| ----- | ------------- | ----- | ------ | ----------- | -------- | -------- | ------ | ----- |
+| Chest | 80            |       | 18d10  | ★★          | ★★★(★)   | ★★       | ★★★(★) | ★★    |
+| Claws | 80            |       | 18d10  | ★★★         | ★        | ★        | ★      | ★★    |
+| Head  | 80            | 123   | 18d10  | ★★★         | ★★       | ★        | ★★     | ★★    |
+| Legs  | 80            |       | 18d10  | ★           | ★★       | ★★★      | ★★     | ★★    |
+| Tail  | 80            | 134   | 18d10  | ★           | ★        | ★★★      | ★★     | ★★    |
+| HP    | 300           | 4     |        |             |          |          |        |       |
+
 
  / = **Invulnerable**
 ★= **Resistant**, 50% damage.

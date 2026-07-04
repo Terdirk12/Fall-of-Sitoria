@@ -18,13 +18,13 @@ Knife and Spoon will recruit another 1d4 people and the party might recruit peop
 
 | ?   | Name   | Race       | Weapon   | Reason                                                                |
 | --- | ------ | ---------- | -------- | --------------------------------------------------------------------- |
-|     | Cid    | Halfling   | Daggers  | Random                                                                |
-|     | Elise  | High-Elf   | Glaive   | Random                                                                |
-|     | Trex   | Orc        | Axe      | Random                                                                |
+| v   | Cid    | Halfling   | Daggers  | Random                                                                |
+| v   | Elise  | High-Elf   | Glaive   | Random                                                                |
+| v   | Trex   | Orc        | Axe      | Random                                                                |
 |     | Sarath | Dragonborn | Staff    | Random                                                                |
 |     | Bart   | Human      | Bard     | Pay off his dept                                                      |
-|     | Tharek | Dwarf      | fists    | win in wrestling                                                      |
-|     | Gunter | Human      | Axe      | win axe throwing and woodchopping                                     |
-|     | Toss   | Gnome      | Special  | win Gnome Tossing.                                                    |
+| v   | Tharek | Dwarf      | fists    | win in wrestling                                                      |
+| v   | Gunter | Human      | Axe      | win axe throwing and woodchopping                                     |
+| v   | Toss   | Gnome      | Special  | win Gnome Tossing.                                                    |
 |     | Helios | Dragonborn | Sorceror | Find Helios during Herstog, he is 600ft from the festival meditating. |
 

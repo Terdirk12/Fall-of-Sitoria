@@ -2,13 +2,13 @@
 	"info": {
 		"application_name": "Canvas of Kings",
 		"version": "0.1.0.42",
-		"camera_pos_x": -2.52,
-		"camera_pos_z": -0.3,
-		"camera_zoom": 23.0,
+		"camera_pos_x": -2.08,
+		"camera_pos_z": -4.59,
+		"camera_zoom": 13.0,
 		"camera_rotation": 0.0,
 		"steam_file_id": -1,
 		"map_layers_open": false,
-		"last_uid": 77
+		"last_uid": 78
 	},
 	"layers": {
 		"last_idx": -1,
@@ -1072,11 +1072,11 @@
 			"filename": "steam://3432371614/data/scene.tscn",
 			"position_x": 8.07,
 			"position_y": 0.0,
-			"position_z": 0.2,
+			"position_z": 0.0,
 			"rotation_y": 178.5,
 			"scale_x": 1.6,
 			"scale_z": 1.6,
-			"object_type": -5,
+			"object_type": -7,
 			"name": "Marker Number 01",
 			"steam_file_id": 3432371614
 		},
@@ -1088,7 +1088,7 @@
 			"rotation_y": -4.33,
 			"scale_x": 1.01,
 			"scale_z": 1.01,
-			"object_type": -5,
+			"object_type": -7,
 			"name": "marker_number_02",
 			"steam_file_id": 3432372659
 		},
@@ -1100,7 +1100,7 @@
 			"rotation_y": 3.33,
 			"scale_x": 1.02,
 			"scale_z": 1.02,
-			"object_type": -5,
+			"object_type": -7,
 			"name": "marker_number_03",
 			"steam_file_id": 3432373182
 		},
@@ -1112,7 +1112,7 @@
 			"rotation_y": -0.17,
 			"scale_x": 1.15,
 			"scale_z": 1.15,
-			"object_type": -5,
+			"object_type": -7,
 			"name": "marker_number_04",
 			"steam_file_id": 3432373694
 		},
@@ -1124,7 +1124,7 @@
 			"rotation_y": 5.17,
 			"scale_x": 0.81,
 			"scale_z": 0.81,
-			"object_type": -5,
+			"object_type": -7,
 			"name": "marker_number_05",
 			"steam_file_id": 3432374105
 		},
@@ -1136,7 +1136,7 @@
 			"rotation_y": 1.5,
 			"scale_x": 0.82,
 			"scale_z": 0.82,
-			"object_type": -5,
+			"object_type": -7,
 			"name": "marker_number_06",
 			"steam_file_id": 3432374466
 		},
@@ -1148,7 +1148,7 @@
 			"rotation_y": 3.67,
 			"scale_x": 0.92,
 			"scale_z": 0.92,
-			"object_type": -5,
+			"object_type": -7,
 			"name": "marker_number_07",
 			"steam_file_id": 3432374897
 		},
@@ -1160,7 +1160,7 @@
 			"rotation_y": -1.83,
 			"scale_x": 0.86,
 			"scale_z": 0.86,
-			"object_type": -5,
+			"object_type": -7,
 			"name": "marker_number_08",
 			"steam_file_id": 3432375400
 		},
@@ -1172,7 +1172,7 @@
 			"rotation_y": 5.17,
 			"scale_x": 0.87,
 			"scale_z": 0.87,
-			"object_type": -5,
+			"object_type": -7,
 			"name": "maerker_number_09",
 			"steam_file_id": 3432375975
 		},
@@ -1184,7 +1184,7 @@
 			"rotation_y": 0.5,
 			"scale_x": 1.01,
 			"scale_z": 1.01,
-			"object_type": -5,
+			"object_type": -7,
 			"name": "marker_number_10",
 			"steam_file_id": 3432376347
 		},
@@ -1196,7 +1196,7 @@
 			"rotation_y": -179.33,
 			"scale_x": 0.99,
 			"scale_z": 0.99,
-			"object_type": -5,
+			"object_type": -7,
 			"name": "marker_number_11",
 			"steam_file_id": 3432376710
 		},
@@ -1208,7 +1208,7 @@
 			"rotation_y": 0.33,
 			"scale_x": 0.82,
 			"scale_z": 0.82,
-			"object_type": -5,
+			"object_type": -7,
 			"name": "marker_numer_12",
 			"steam_file_id": 3432377566
 		},
@@ -1220,7 +1220,7 @@
 			"rotation_y": 4.17,
 			"scale_x": 0.97,
 			"scale_z": 0.97,
-			"object_type": -5,
+			"object_type": -7,
 			"name": "marker_number_14",
 			"steam_file_id": 3432379267
 		},
@@ -2269,6 +2269,102 @@
 			},
 			"line_object_type_idx": 0,
 			"area_objects": [
+				{
+					"filename": "res://Source/World/WorldObjects/woPathObjects/wo_roof_thatched_a_pillar_a.tscn",
+					"position_x": -8.06,
+					"position_y": 0.0,
+					"position_z": -1.2,
+					"rotation_y": -179.99,
+					"scale_z": 0.7,
+					"object_type": 94,
+					"assigned_path_line_idx": 0,
+					"is_clickable": false,
+					"scale_custom_x": 0.7
+				},
+				{
+					"filename": "res://Source/World/WorldObjects/woPathObjects/wo_roof_thatched_a_pillar_a.tscn",
+					"position_x": -9.67,
+					"position_y": 0.0,
+					"position_z": -3.0,
+					"rotation_y": -90.02,
+					"scale_z": 0.7,
+					"object_type": 94,
+					"assigned_path_line_idx": 1,
+					"is_clickable": false,
+					"scale_custom_x": 0.7
+				},
+				{
+					"filename": "res://Source/World/WorldObjects/woPathObjects/wo_roof_thatched_a_pillar_a.tscn",
+					"position_x": -8.06,
+					"position_y": 0.0,
+					"position_z": -1.2,
+					"rotation_y": -179.99,
+					"scale_z": 0.7,
+					"object_type": 94,
+					"assigned_path_line_idx": 0,
+					"is_clickable": false,
+					"scale_custom_x": 0.7
+				},
+				{
+					"filename": "res://Source/World/WorldObjects/woPathObjects/wo_roof_thatched_a_pillar_a.tscn",
+					"position_x": -9.67,
+					"position_y": 0.0,
+					"position_z": -3.0,
+					"rotation_y": -90.02,
+					"scale_z": 0.7,
+					"object_type": 94,
+					"assigned_path_line_idx": 1,
+					"is_clickable": false,
+					"scale_custom_x": 0.7
+				},
+				{
+					"filename": "res://Source/World/WorldObjects/woPathObjects/wo_roof_thatched_a_pillar_a.tscn",
+					"position_x": -8.06,
+					"position_y": 0.0,
+					"position_z": -1.2,
+					"rotation_y": -179.99,
+					"scale_z": 0.7,
+					"object_type": 94,
+					"assigned_path_line_idx": 0,
+					"is_clickable": false,
+					"scale_custom_x": 0.7
+				},
+				{
+					"filename": "res://Source/World/WorldObjects/woPathObjects/wo_roof_thatched_a_pillar_a.tscn",
+					"position_x": -9.67,
+					"position_y": 0.0,
+					"position_z": -3.0,
+					"rotation_y": -90.02,
+					"scale_z": 0.7,
+					"object_type": 94,
+					"assigned_path_line_idx": 1,
+					"is_clickable": false,
+					"scale_custom_x": 0.7
+				},
+				{
+					"filename": "res://Source/World/WorldObjects/woPathObjects/wo_roof_thatched_a_pillar_a.tscn",
+					"position_x": -8.06,
+					"position_y": 0.0,
+					"position_z": -1.2,
+					"rotation_y": -179.99,
+					"scale_z": 0.7,
+					"object_type": 94,
+					"assigned_path_line_idx": 0,
+					"is_clickable": false,
+					"scale_custom_x": 0.7
+				},
+				{
+					"filename": "res://Source/World/WorldObjects/woPathObjects/wo_roof_thatched_a_pillar_a.tscn",
+					"position_x": -9.67,
+					"position_y": 0.0,
+					"position_z": -3.0,
+					"rotation_y": -90.02,
+					"scale_z": 0.7,
+					"object_type": 94,
+					"assigned_path_line_idx": 1,
+					"is_clickable": false,
+					"scale_custom_x": 0.7
+				},
 				{
 					"filename": "res://Source/World/WorldObjects/woPathObjects/wo_roof_thatched_a_pillar_a.tscn",
 					"position_x": -8.06,
@@ -11911,9 +12007,9 @@
 			],
 			"click_and_placing_wo": {
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-				"position_x": 9.58,
+				"position_x": 9.59,
 				"position_y": 0.0,
-				"position_z": 5.0,
+				"position_z": 5.01,
 				"object_type": 113,
 				"uid": 74,
 				"assigned_path_area_idx": 33,
@@ -11988,7 +12084,7 @@
 							"scale_x": 2.61,
 							"object_type": 46,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 2.6095142364502,
+							"custom_data_g_size": 2.61,
 							"custom_size": 2.61
 						}
 					]
@@ -12004,9 +12100,8 @@
 							"scale_x": 1.63,
 							"object_type": 46,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 1.62913262844086,
-							"custom_size": 1.63,
-							"custom_flip_tex": false
+							"custom_data_g_size": 1.63,
+							"custom_size": 1.63
 						}
 					]
 				}
@@ -12019,7 +12114,7 @@
 			],
 			"click_and_placing_wo": {
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-				"position_x": 6.76,
+				"position_x": 6.77,
 				"position_y": 0.0,
 				"position_z": 2.5,
 				"object_type": 113,
@@ -12097,9 +12192,8 @@
 							"scale_x": 1.22,
 							"object_type": 46,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 1.22069346904755,
+							"custom_data_g_size": 1.22,
 							"custom_size": 1.22,
-							"custom_flip_tex": false,
 							"custom_angle_start": -0.07
 						},
 						{
@@ -12111,7 +12205,7 @@
 							"scale_x": 0.65,
 							"object_type": 46,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 0.654077231884003,
+							"custom_data_g_size": 0.65,
 							"custom_size": 0.65,
 							"custom_angle_start": -0.11,
 							"custom_angle_end": 0.07
@@ -12125,9 +12219,8 @@
 							"scale_x": 0.24,
 							"object_type": 46,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 0.243010878562927,
+							"custom_data_g_size": 0.24,
 							"custom_size": 0.24,
-							"custom_flip_tex": false,
 							"custom_angle_end": 0.11
 						}
 					]
@@ -12143,7 +12236,7 @@
 							"scale_x": 0.68,
 							"object_type": 46,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 0.682029604911804,
+							"custom_data_g_size": 0.68,
 							"custom_size": 0.68,
 							"custom_angle_start": -0.27
 						},
@@ -12156,9 +12249,8 @@
 							"scale_x": 0.34,
 							"object_type": 46,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 0.343612939119339,
+							"custom_data_g_size": 0.34,
 							"custom_size": 0.34,
-							"custom_flip_tex": false,
 							"custom_angle_end": 0.27
 						}
 					]
@@ -12269,7 +12361,7 @@
 							"scale_x": 0.7,
 							"object_type": 46,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 0.698394238948822,
+							"custom_data_g_size": 0.7,
 							"custom_size": 0.7,
 							"custom_angle_start": 0.08
 						},
@@ -12282,9 +12374,8 @@
 							"scale_x": 0.59,
 							"object_type": 46,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 0.589216291904449,
+							"custom_data_g_size": 0.59,
 							"custom_size": 0.59,
-							"custom_flip_tex": false,
 							"custom_angle_start": 0.15,
 							"custom_angle_end": -0.08
 						},
@@ -12297,7 +12388,7 @@
 							"scale_x": 0.53,
 							"object_type": 46,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 0.525382995605469,
+							"custom_data_g_size": 0.53,
 							"custom_size": 0.53,
 							"custom_angle_end": -0.15
 						}
@@ -12314,9 +12405,8 @@
 							"scale_x": 2.37,
 							"object_type": 46,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 2.37295508384705,
+							"custom_data_g_size": 2.37,
 							"custom_size": 2.37,
-							"custom_flip_tex": false,
 							"custom_angle_start": 0.02
 						},
 						{
@@ -12328,7 +12418,7 @@
 							"scale_x": 1.05,
 							"object_type": 46,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 1.05061709880829,
+							"custom_data_g_size": 1.05,
 							"custom_size": 1.05,
 							"custom_angle_end": -0.02
 						}
@@ -12345,7 +12435,7 @@
 							"scale_x": 1.56,
 							"object_type": 46,
 							"assigned_path_line_idx": 2,
-							"custom_data_g_size": 1.56011247634888,
+							"custom_data_g_size": 1.56,
 							"custom_size": 1.56,
 							"custom_angle_start": 0.02
 						},
@@ -12358,9 +12448,8 @@
 							"scale_x": 0.61,
 							"object_type": 46,
 							"assigned_path_line_idx": 2,
-							"custom_data_g_size": 0.608033001422882,
+							"custom_data_g_size": 0.61,
 							"custom_size": 0.61,
-							"custom_flip_tex": false,
 							"custom_angle_end": -0.02
 						}
 					]
@@ -12375,7 +12464,7 @@
 			],
 			"click_and_placing_wo": {
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-				"position_x": 10.29,
+				"position_x": 10.28,
 				"position_y": 0.0,
 				"position_z": -1.11,
 				"object_type": 113,
@@ -12388,14 +12477,14 @@
 		}
 	],
 	"environment": {
-		"light_color": "c4ac6dff",
+		"light_color": "ffffffff",
 		"light_energy": 1.0,
 		"light_is_negative": false,
 		"ambient_color": "3a677bff",
 		"ambient_brightness": 1.0,
 		"ambient_contrast": 1.0,
 		"ambient_saturation": 1.0,
-		"black_level": 0.0,
+		"black_level": 1.0,
 		"shadow_position": 230.0,
 		"shadow_length": 0.7,
 		"shadow_opactiy": 0.7,

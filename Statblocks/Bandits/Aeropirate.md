@@ -1,43 +1,37 @@
-**
+*Medium human, evil*
+**AC:** 14
+**HP:** 45, (6d8+18)
+**Speed:** 30ft. **Fly:** 60ft
 
-Aeropirate (sitoria side campaign)
+---
 
-  
+| STR | DEX | Con | Int | Wis | Cha |
+| --- | --- | --- | --- | --- | --- |
+| 10  | 16  | 16  | 12  | 12  | 10  |
+| 0   | +3  | +3  | +1  | +1  | 0   |
 
-Medium human, evil
+---
+**Skills:** Perception +3, Acrobatics +3
+**Passive perception:** 14
+**Languages:** Common plus one other
+**Challenge:** 2
 
-AC 14 HP 45(6D8+18)
+---
+### Traits:
+**Firearm Expert:** has no disadvantage to make firearm shots in melee range
 
-Speed: 30ft, fly 60ft
+---
+### Actions:
+**Bayonet.** _Melee Weapon Attack:_ +3 to hit, one target.  
+_Hit:_ 4 (1d6 ) piercing damage.
 
-  
-
-Str 10, dex 16, con 16, int 10, wis 12, cha 10
-
-  
-
-Traits:
-
-Firearm expert: has no disadvantage to make firearm shots in melee range.
-
-  
-
-Actions:
-
-Musket: Melee, +3 to hit, 1d6 P
-
-Musket: Ranged, +8 to hit, 1d12+3 P, 40/120
-
-  
+**Musket.** _Ranged Weapon Attack:_ +8 to hit, range 40/120 ft., one target.  
+_Hit:_ 8 (1d12 + 3) piercing damage.
 
 - An Aeropirate either has a musket or a pistol and scimitar.
-    
 
-  
+**Scimitar.** _Melee Weapon Attack:_ +6 to hit, one target.  
+_Hit:_ 4 (1d6+3) Slashing damage.
 
-Pistol: +8, 1d10+3 P, 30/90
-
-Scimitar: +6, 1d6+3 S, Nick
-
-  
-**
+**Musket.** _Ranged Weapon Attack:_ +8 to hit, range 30/90 ft., one target.  
+_Hit:_ 8 (1d10 + 3) piercing damage.

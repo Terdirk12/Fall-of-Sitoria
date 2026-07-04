@@ -14,16 +14,16 @@
 
 
 ---
-mistmaker: 3, mangonel: 2.
+mistmaker: 2, mangonel: 2.
 
 | Initiative | Unit           | HP1 | HP2 | HP3 | HP4 | HP5 |     |
 | ---------- | -------------- | --- | --- | --- | --- | --- | --- |
-| 19         | Gek            |     |     |     |     |     |     |
-| 18         | Peter          |     |     |     |     |     |     |
+| 31         | Gek            |     |     |     |     |     |     |
+| 17         | verdagor       |     |     |     |     |     |     |
+| 11         | Peter          |     |     |     |     |     |     |
+| 3          | Otto           |     |     |     |     |     |     |
+|            |                |     |     |     |     |     |     |
 | 10         | Friendly Guard |     |     |     |     |     |     |
-| 5          | Otto           |     |     |     |     |     |     |
-|            |                |     |     |     |     |     |     |
-|            |                |     |     |     |     |     |     |
 |            |                |     |     |     |     |     |     |
   
 
