@@ -11,20 +11,27 @@
 | Undead    | Zombie       | Lizard | MM: p316                     |
 | Undead    | Ghoul        | Badger | MM: p148                     |
 | Undead    | Ghast        | Otter  | MM: p148                     |
+| CEF       | Ambusher     | Rabbit |                              |
+| CEF       | Aeronaut     |        |                              |
 
 
 ---
 mistmaker: 2, mangonel: 2.
 
-| Initiative | Unit           | HP1 | HP2 | HP3 | HP4 | HP5 |     |
-| ---------- | -------------- | --- | --- | --- | --- | --- | --- |
-| 31         | Gek            |     |     |     |     |     |     |
-| 17         | verdagor       |     |     |     |     |     |     |
-| 11         | Peter          |     |     |     |     |     |     |
-| 3          | Otto           |     |     |     |     |     |     |
-|            |                |     |     |     |     |     |     |
-| 10         | Friendly Guard |     |     |     |     |     |     |
-|            |                |     |     |     |     |     |     |
+| Initiative | Unit                | HP1 | HP2 | HP3 | HP4 | HP5 |     |
+| ---------- | ------------------- | --- | --- | --- | --- | --- | --- |
+| 23         | Gek                 |     |     |     |     |     |     |
+| 19         | Toss                | 6   |     |     |     |     |     |
+| 17         | Peter               |     |     |     |     |     |     |
+| 17         | sergeant            | 1   |     |     |     |     |     |
+|            |                     | -9  |     |     |     |     |     |
+| 16         | aeronaut            | -30 | -25 |     |     |     |     |
+| 14         | Ambusher            | -27 |     |     |     |     |     |
+| 11         | Otto                |     |     |     |     |     |     |
+| 7          | Bart                |     |     |     |     |     |     |
+| 6          | Friendly Guard      | -5  |     |     |     |     |     |
+|            |                     |     |     |     |     |     |     |
+| 2          | friendly berserkers |     |     |     |     |     |     |
   
 
 | ini | unit      | type   | hp1 | hp2 | hp3 | hp4 |

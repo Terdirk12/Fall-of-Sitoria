@@ -1,0 +1,1 @@
+Once per long rest, disengage for free.

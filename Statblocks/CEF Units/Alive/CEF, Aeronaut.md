@@ -2,7 +2,7 @@ Special forces of the imperial army designed to invade enemy vessels or provide 
 
 *Medium human, evil*
 **AC:** 14
-**HP:** 45, (6d8+18)
+**HP:** 35
 **Speed:** 30ft. **Fly:** 60ft
 
 ---

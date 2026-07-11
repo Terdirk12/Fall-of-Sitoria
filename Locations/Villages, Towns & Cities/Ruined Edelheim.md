@@ -210,10 +210,10 @@ d4
 *Fly*
 d4
 1: Gain twice the flight speed.
-2: Half the flight speed.
+2: The flight effect is given in an 10ft AOE.
 3: Instead of flight, get Feather falling and quadruple jump distance.
-4: The flight effect is given in an 10ft AOE.
-4
+4: Half the flight speed.
+
 *Shield*
 d4
 1: Shield Persists an extra turn.

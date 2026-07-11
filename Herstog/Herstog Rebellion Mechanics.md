@@ -4,16 +4,16 @@ During the festival several "*Adventurers*" come towards the parties stall, aski
 
 | ?   | Name   | Race     | Weapon     | Reason                                             |
 | --- | ------ | -------- | ---------- | -------------------------------------------------- |
-|     | Marek  | Human    | Spear      | Fight for villagers over nobles                    |
-|     | Linna  | Elf      | Bow        | Prove resistance has a plan                        |
-|     | Drogan | Dwarf    | warhammer  | Offer steady pay or supplies                       |
-|     | Velka  | Human    | Daggers    | Mention corruption                                 |
-|     | Nim    | Gnome    | Traps      | Allowing him to work on resistance weapons         |
-|     | Sered  | Half-Elf | Dual Sword | Appeal to glory                                    |
-|     | Ysra   | Human    | Support    | Mention the suffering of civilians                 |
-|     | Thoren | Orc      | Heavy Xbow | Respecting others                                  |
-|     | Bella  | Human    | Disguise   | Mentioning resistance benefits for ordinary people |
-|     | Edvin  | Human    | Siegecraft | Mentioning trust and not gloating too much         |
+| v   | Marek  | Human    | Spear      | Fight for villagers over nobles                    |
+| v   | Linna  | Elf      | Bow        | Prove resistance has a plan                        |
+| v   | Drogan | Dwarf    | warhammer  | Offer steady pay or supplies                       |
+| v   | Velka  | Human    | Daggers    | Mention corruption                                 |
+| v   | Nim    | Gnome    | Traps      | Allowing him to work on resistance weapons         |
+| v   | Sered  | Half-Elf | Dual Sword | Appeal to glory                                    |
+| v   | Ysra   | Human    | Support    | Mention the suffering of civilians                 |
+| x   | Thoren | Orc      | Heavy Xbow | Respecting others                                  |
+| v   | Bella  | Human    | Disguise   | Mentioning resistance benefits for ordinary people |
+| x   | Edvin  | Human    | Siegecraft | Mentioning trust and not gloating too much         |
 Knife and Spoon will recruit another 1d4 people and the party might recruit people at events.
 
 | ?   | Name   | Race       | Weapon   | Reason                                                                |
@@ -22,7 +22,7 @@ Knife and Spoon will recruit another 1d4 people and the party might recruit peop
 | v   | Elise  | High-Elf   | Glaive   | Random                                                                |
 | v   | Trex   | Orc        | Axe      | Random                                                                |
 |     | Sarath | Dragonborn | Staff    | Random                                                                |
-|     | Bart   | Human      | Bard     | Pay off his dept                                                      |
+| v   | Bart   | Human      | Bard     | Pay off his dept                                                      |
 | v   | Tharek | Dwarf      | fists    | win in wrestling                                                      |
 | v   | Gunter | Human      | Axe      | win axe throwing and woodchopping                                     |
 | v   | Toss   | Gnome      | Special  | win Gnome Tossing.                                                    |
