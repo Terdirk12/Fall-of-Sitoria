@@ -9,49 +9,20 @@
         "dimension": 63.400725764644896,
         "children": [
           {
-            "id": "6fd825464bfd4318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Combats/Darkling Hideout.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Darkling Hideout"
-            }
-          },
-          {
             "id": "97480598879805ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combats/Book of Vile Darkness.md",
+                "file": "Safe Haven/Safe Haven Inventory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book of Vile Darkness"
-            }
-          },
-          {
-            "id": "5f81211412cb8a38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enemies/Darkling (mini-goblin - murgling).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Darkling (mini-goblin - murgling)"
+              "title": "Safe Haven Inventory"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1cc6e729c67a422f",
@@ -235,46 +206,46 @@
   },
   "active": "97480598879805ab",
   "lastOpenFiles": [
-    "Enemies/Darkling (mini-goblin - murgling).md",
+    "Safe Haven/Safe Haven.md",
+    "Safe Haven/Recaps.md",
+    "Safe Haven/NPC's.md",
+    "Safe Haven/Economy.md",
     "Combats/Book of Vile Darkness.md",
     "Combats/Darkling Hideout.md",
+    "Shield Guardian Statblock.png",
+    "Enemies/Darkling (mini-goblin - murgling).md",
+    "Enemies/Goblin Slaver Camp.md",
+    "Enemies/Grey Ooze (Slime).md",
+    "Enemies/Grey Ooze Statblock.png",
+    "Enemies/Wolf.md",
+    "Enemies/Wolf Statblock (Lazyness).png",
+    "Equipment/Amity.png",
+    "Equipment/Amity Charm.md",
+    "Equipment/Darkness.png",
+    "Equipment/Darkness Wayfinder.md",
+    "Equipment/On Hit Effects.md",
+    "Equipment/Sticky.png",
+    "Equipment/Sticky Pendant.md",
+    "Equipment/The Unbreakable Statue.md",
+    "Equipment/Unbreakable.png",
+    "Safe Haven/Safe Haven Inventory.md",
     "Encounters/Book of Vile Darkness.md",
     "Enemies/Darkling stat block.png",
     "Encounters/Woodyard.md",
     "Encounters/Stoneyard.md",
     "Encounters/Cleared/Darkling Hideout.md",
-    "Safe Haven/Safe Haven.md",
-    "Safe Haven/Safe Haven Inventory.md",
-    "Equipment/On Hit Effects.md",
-    "Enemies/Wolf Statblock (Lazyness).png",
     "Combats/Darkling.md",
     "Combats/Wolvy bois.md",
-    "Safe Haven/NPC's.md",
     "Combats/Goblin these nuts.md",
     "Encounters/Puzzles/Puzzles.md",
     "Enemies/Goblin.md",
-    "Enemies/Goblin Boss (Shaman).md",
-    "Encounters/Recurring/Naamloos.md",
-    "Equipment/Amity Charm.md",
-    "Equipment/The Unbreakable Statue.md",
-    "Equipment/Darkness Wayfinder.md",
-    "Equipment/Darkness.png",
-    "Equipment/Unbreakable.png",
-    "Encounters/Recurring/Rock Goblin Village.md",
     "Encounters/Recurring",
-    "Equipment/Sticky Pendant.md",
-    "Encounters/Cleared/Racing/Racing.md",
-    "Shield Guardian Statblock.png",
-    "Equipment/Sticky.png",
-    "Equipment/Amity.png",
-    "Combats/Slimes.md",
     "Encounters/Cleared/Overrun Cave/Amity Charm.png",
     "Encounters/Cleared",
     "Encounters/Naamloos.canvas",
     "Encounters/Naamloos.base",
     "Safe Haven",
     "Encounters/Cleared/Slime Spore Cave/Pasted image 20260424035458.png",
-    "Enemies/Grey Ooze Statblock.png",
     "Combats",
     "Encounters/Cleared/Overrun Cave",
     "Encounters/Cleared/Slime Spore Cave",
