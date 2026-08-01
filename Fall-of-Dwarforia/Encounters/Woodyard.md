@@ -1,0 +1,1 @@
+50 wood is found upon clearing, awakened shrubs lemao

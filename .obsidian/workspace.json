@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall-of-Dwarforia/NPC's.md",
+                "file": "Fall-of-Dwarforia/Encounters/Slime Spore Cave/Slime Spore Cave.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPC's"
+              "title": "Slime Spore Cave"
             }
           }
         ],
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sticky",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Zoeken"
             }
           },
           {
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,6 +174,28 @@
   },
   "active": "c98c25ef8d570971",
   "lastOpenFiles": [
+    "Fall-of-Dwarforia/Safe Haven/Safe Haven Inventory.md",
+    "Fall-of-Dwarforia/Encounters/Overrun Cave/Overrun cave.md",
+    "Fall-of-Dwarforia/Encounters/Overrun Cave/Amity Charm.png",
+    "Fall-of-Dwarforia/Equipment/Amity Charm.md",
+    "Fall-of-Dwarforia/Safe Haven/Safe Haven.md",
+    "Pasted image 20260801112344.png",
+    "Fall-of-Dwarforia/Combats/Slimes.md",
+    "Fall-of-Dwarforia/Combats/Wolvy bois.md",
+    "Fall-of-Dwarforia/Encounters/Slime Spore Cave/Slime Spore Cave.md",
+    "Fall-of-Dwarforia/Equipment",
+    "Fall-of-Dwarforia/Encounters/Slime Spore Cave/Pasted image 20260424035458.png",
+    "Fall-of-Dwarforia/Combats/Goblin these nuts.md",
+    "Fall-of-Dwarforia/Encounters/Rock Goblin Village.md",
+    "Fall-of-Dwarforia/Encounters/Blacksmith Hideaway.md",
+    "Fall-of-Dwarforia/Shield Guardian Statblock.png",
+    "Fall-of-Dwarforia/Enemies/Darkling (mini-goblin - murgling).md",
+    "Fall-of-Dwarforia/Enemies/Wolf Statblock (Lazyness).png",
+    "Fall-of-Dwarforia/Enemies/Goblin Slaver Camp.md",
+    "Fall-of-Dwarforia/Enemies/Goblin Boss (Shaman).md",
+    "Fall-of-Dwarforia/Enemies/Goblin.md",
+    "Fall-of-Dwarforia/Enemies/Darkling stat block.png",
+    "Fall-of-Dwarforia/Combats/Darkling.md",
     "Current encounter.md",
     "Fall-of-Dwarforia/NPC's.md",
     "Fall-of-Dwarforia/Puzzles.md",
@@ -183,23 +206,7 @@
     "Goblins/Units/Broken Hand/Broken Hand Warboss.md",
     "Next Session plans.md",
     "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
-    "Statblocks/CEF Units/Undead/Zombie.md",
-    "Statblocks/CEF Units/Undead/Laughing Husk.md",
-    "Statblocks/CEF Units/Undead/Ghoul.md",
-    "Peter's ghost.md",
-    "Characters/Aegis Unit/Saphira.md",
-    "Characters/Player Characters/Peter III.md",
     "Locations/Roads.canvas",
-    "Monsters/Deathlock Mastermind.md",
-    "Characters/Empire Characters/Princess Vaelessa Vaelic.md",
-    "Characters/Empire Characters/Princess Silena Vaelic.md",
-    "Characters/Empire Characters/Princess Ravena Vaelic.md",
-    "Characters/Empire Characters/Prince Lucerin Vaelic.md",
-    "Characters/Empire Characters/Prince Garran Vaelic.md",
-    "Statblocks/SU Units/SU, Captain.md",
-    "Locations/Forts/Fort Altus.md",
-    "Statblocks/SU Units/SU, Wizard.md",
-    "Statblocks/SU Units/SU, Runner.md",
     "Statblocks/SU Units",
     "Statblocks/CEF Units/Undead/Animals",
     "Statblocks/CEF Units/Undead",
@@ -211,16 +218,11 @@
     "Images/Edelheim Underground.png",
     "Images/Pasted image 20251216022030.png",
     "Images/Pasted image 20251216015300.png",
-    "Images/Edelheim Map.png",
-    "Images/sewer map.png",
     "Monsters",
-    "Images/Pasted image 20260218000751.png",
     "Characters/Rebellion Characters/Player party guards",
     "CEF Troop Tree.canvas",
     "Mechanics/Empire Command Tree.canvas",
     "CEF Units/Alive",
-    "CEF Units/Undead/Animals",
-    "Pasted image 20251204233729.png",
     "Mechanics/Rebel Command Tree.canvas",
     "Emperor's Royal Lineage.canvas"
   ]

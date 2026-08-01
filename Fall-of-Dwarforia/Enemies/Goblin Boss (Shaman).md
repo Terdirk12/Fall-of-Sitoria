@@ -1,4 +1,4 @@
-**AC:** 17, (chain shirt, shield)
+**AC:** 17, (chain shirt, shield) (12 enslaved)
 **HP:** 21, (6d6)
 **Speed:** 30ft.
 

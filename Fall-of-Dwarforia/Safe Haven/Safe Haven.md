@@ -19,5 +19,17 @@ The ruined safe haven, can be rebuild, for the following effects and buildings:
 ### Tavern - 500 stone
 - You can drink beer here
 - You can also drink: midori tequila spritzer thing in a mason jar
+- Drinking something gives temp hp.
+- The more expensive the drink, the more temp hp.
+- Temp hp is a quarter of that of the drink gold cost
+- Drinking too much gets you drunk.
 ### Research tower - 100 wood
 - Allows you to research things
+- Researching things gives 3D6 gold.
+### Quarry - Level 1 - 50 Wood
+- Miners produce 1D6 stone here every short rest
+- Darklings produce 1d4
+- Current worker count: 3 (+1); 2 Goblins, 1 Boss Goblin
+### Lumberyard - Level 1 - 150 Stone
+- Choppers produce 1D6 wood
+- Kell is assigned (2D6) 
