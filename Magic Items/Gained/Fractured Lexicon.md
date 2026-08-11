@@ -52,7 +52,7 @@ d4
 d4
 1: Held person slowly levitates into the air, 10ft per turn.
 2: Held person sinks into the ground up to their middle.
-3: Held person also drops weapons.
+3: Held person also drops  their weapons.
 4: Held person has uncanny movement, making them dodge attacks.
 
 *Enlarge/Reduce*

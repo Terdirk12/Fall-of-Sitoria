@@ -1,0 +1,6 @@
+These boots are crafted from the flesh and scales of a dragon and decorated with Harpy feathers and the webbed membranes of flying creatures. The soles are injected with goopy ooze, allowing their wearer to jump back in time and space.
+
+You can use a [Bonus Action](https://5e.tools/variantrules.html#bonus%20action_xphb) on your turn to click the heels of these boots together. When you do, you teleport to the space you occupied at the start of your turn so long as it is currently unoccupied.
+
+*Hidden component*
+These boots are emblazoned with two spiraling golden koi. If the boots are submerged in water for at least 1 minute, the koi begin to animate and swim across the surface of the boots for up to 24 hours. While the koi are swimming in this way, the next time you roll a 1 on the d20 for an attack roll, ability check, or saving throw while wearing the boots, you can treat the roll as if it were a 20 instead. When you do, the koi stop swimming, and they can't swim again until 24 hours have passed.
