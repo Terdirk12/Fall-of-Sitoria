@@ -1,5 +1,5 @@
 **AC:** 18, (chain mail, shield)
-**HP:** 33, (6d8+6)
+**HP:** 13
 **Speed:** 25ft.
 
 ---
@@ -20,6 +20,8 @@
 **Heavy Infantry.** The man-at-arms has advantage on checks or saving throws to resist being shoved, knocked prone, or moved against its will while it is wearing heavy armor.
 
 **Disciplined:** Advantage on saving throws against being frightened whilst within 10 feet of allied man-at-arms or commander.
+
+**Easy kill** if you reduce the hitpoints of this enemy from full to zero with a singular attack; you get +1 (extra)(non-magical) attack.
 
 ---
 ### Actions:

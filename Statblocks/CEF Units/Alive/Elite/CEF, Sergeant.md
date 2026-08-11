@@ -6,11 +6,11 @@
 
 | STR | DEX | Con | Int | Wis | Cha |
 | --- | --- | --- | --- | --- | --- |
-| 15  | 12  | 14  | 10  | 12  | 13  |
-| +2  | +1  | +2  | 0   | +1  | +1  |
+| 16  | 12  | 14  | 10  | 12  | 13  |
+| +3  | +1  | +2  | 0   | +1  | +1  |
 
 ---
-**Skills:** Athletics +4, Perception +3, Intimidation +3  
+**Skills:** Athletics +5, Perception +3, Intimidation +3  
 **Passive Perception:** 13
 **Languages:** Common plus one other
 **Challenge:** 1
@@ -25,8 +25,8 @@
 ### Actions:
 **Multiattack.** The sergeant makes two melee attacks.
 
-**Longsword.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target.  
-_Hit:_ 6 (1d8 + 2) slashing damage.
+**Longsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.  
+_Hit:_ 6 (1d8 + 3) slashing damage.
 
 **Light Crossbow.** _Ranged Weapon Attack:_ +3 to hit, range 80/320 ft., one target.  
 _Hit:_ 5 (1d8 + 1) piercing damage.

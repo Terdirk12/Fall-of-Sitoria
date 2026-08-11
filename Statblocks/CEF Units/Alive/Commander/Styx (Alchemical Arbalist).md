@@ -1,19 +1,26 @@
+**Combat doctrine:**
+Preferred: [[Combat Doctrine, Ranged]]
+Secondary: [[Combat Doctrine, Defensive]]
+
+---
+*Medium human, evil*
 **AC:** 15, (studded leather)
-**HP:** 27, (5d8+5)
+**HP:** 12x HL
 **Speed:** 30ft.
 
 ---
 
 | STR | DEX | Con | Int | Wis | Cha |
 | --- | --- | --- | --- | --- | --- |
-| 11  | 14  | 12  | 12  | 11  | 10  |
-| 0   | +2  | +1  | +1  | 0   | 0   |
+| 11  | 17  | 12  | 12  | 11  | 10  |
+| 0   | +3  | +1  | +1  | 0   | 0   |
 
 ---
 **Skills:** Perception +2, Investigation +3
 **Passive perception:** 12
 **Languages:** Common plus one other
 **Challenge:** 1/2
+[[Combat Doctrine, Ranged]]
 
 ---
 ### Traits:
@@ -29,8 +36,8 @@
 
 ---
 ### Actions:
-**Arbalest.** _Ranged Weapon Attack:_ +4 to hit, range 100/400 ft., one target.  
-_Hit:_ 7 (1d10 + 2) piercing damage.
+**Arbalest.** _Ranged Weapon Attack:_ +5 to hit, range 100/400 ft., one target.  
+_Hit:_ 7 (1d10 + 3) piercing damage.
 
-**Dagger.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target.  
-_Hit:_ 4 (1d4 + 2) piercing damage.
+**Dagger.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.  
+_Hit:_ 4 (1d4 + 3) piercing damage.

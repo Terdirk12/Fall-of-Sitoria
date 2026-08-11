@@ -1,9 +1,13 @@
-Special forces of the imperial army designed to invade enemy vessels or provide fire support from above, these aeronauts have skull plate helmets and aaracockra wings grafted onto them.
+**Combat doctrine:**
+Preferred: [[Combat Doctrine, Sneaky]]
+Secondary: [[Combat Doctrine, Ranged]]
 
+---
 *Medium human, evil*
 **AC:** 12
-**HP:** 35
+**HP:** 10x HL
 **Speed:** 40ft.
+[[Combat Doctrine, Sneaky]]
 
 ---
 

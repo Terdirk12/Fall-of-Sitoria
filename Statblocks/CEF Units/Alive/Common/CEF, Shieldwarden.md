@@ -1,5 +1,5 @@
 **AC:** 19, (chain mail, tower shield)
-**HP:** 27, (5d8+5)
+**HP:** 21
 **Speed:** 25ft.
 
 ---
@@ -22,6 +22,8 @@
 **Pavise Wall:** While the shieldwarden is wielding its tower shield, ranged attacks against allies within 5 feet of it are made with **disadvantage**, provided the shieldwarden can see the attacker.
 
 **Hold the Gap:** The shieldwarden has advantage on checks or saving throws to resist being shoved, knocked prone, or moved against its will while it is wearing heavy armor.
+
+**Easy kill** if you reduce the hitpoints of this enemy from full to zero with a singular attack; you get +1 (extra)(non-magical) attack.
 
 ---
 ### Actions:

@@ -6,7 +6,7 @@
 
 | STR | DEX | Con | Int | Wis | Cha |
 | --- | --- | --- | --- | --- | --- |
-| 13  | 12  | 12  | 10  | 11  | 10  |
+| 13  | 13  | 12  | 10  | 11  | 10  |
 | +1  | +1  | +1  | 0   | 0   | 0   |
 
 ---
@@ -17,4 +17,13 @@
 
 ---
 ### Actions:
-**Spear.** Melee or Ranged Weapon Attack: +3 to hit, reach 5ft. or range 20/60 ft., one target hit: 4 (1d6+1) piercing damage, or 5 (1d8+1) piercing damage if used with two hands to make a melee attack.
+
+| Weapon | Attack                                                                                                                                                                                          |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Spear  | Melee or Ranged Weapon Attack: +3 to hit, reach 5ft. or range 20/60 ft., one target hit: 4 (1d6+1) piercing damage, or 5 (1d8+1) piercing damage if used with two hands to make a melee attack. |
+|        |                                                                                                                                                                                                 |
+|        |                                                                                                                                                                                                 |
+|        |                                                                                                                                                                                                 |
+|        |                                                                                                                                                                                                 |
+|        |                                                                                                                                                                                                 |
+|        |                                                                                                                                                                                                 |

@@ -1,5 +1,11 @@
+**Combat doctrine:**
+Preferred: [[Combat Doctrine, Defensive]]
+Secondary: [[Combat Doctrine, Sneaky]]
+
+---
+*Medium human, evil*
 **AC:** 14, (Studded leather)
-**HP:** 28, (4d8)
+**HP:** 9x HL
 **Speed:** 35ft.
 
 ---
@@ -14,6 +20,7 @@
 **Passive Perception:** 14
 **Languages:** Common plus one other
 **Challenge:** 1/4
+[[Combat Doctrine, Defensive]]
 
 ---
 ### Traits:

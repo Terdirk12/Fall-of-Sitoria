@@ -18,7 +18,7 @@
 
 ---
 ### Traits:
-**Graze:** om miss: 4 slashing damage
+**Graze:** on miss: 4 slashing damage
 
 ---
 ### Actions:

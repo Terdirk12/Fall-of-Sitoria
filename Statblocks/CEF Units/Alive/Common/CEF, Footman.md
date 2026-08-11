@@ -1,5 +1,5 @@
 **AC:** 17, (chain mail, shield)
-**HP:** 22, (4d8+4)
+**HP:** 12
 **Speed:** 30ft.
 
 ---
@@ -20,6 +20,8 @@
 **Disciplined:** Advantage on saving throws against being frightened whilst within 10 feet of allied footman or commander.
 
 **Formation Fighting:** While the footman is within 5 feet of at least one ally who isn’t incapacitated, the footman gains a +1 bonus to AC.
+
+**Easy kill** if you reduce the hitpoints of this enemy from full to zero with a singular attack; you get +1 (extra)(non-magical) attack.
 
 ---
 ### Actions:

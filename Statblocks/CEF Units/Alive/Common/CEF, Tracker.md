@@ -1,5 +1,5 @@
 **AC:** 14, (leather armor, shield)
-**HP:** 24, (5d8+2)
+**HP:** 14
 **Speed:** 30ft.
 
 ---
@@ -22,6 +22,8 @@
 **Cut Off Escape:** Opportunity attacks made by the pursuer reduce the target’s speed by 10 feet until the end of the target’s turn.
 
 **Disciplined:** Advantage on saving throws against being frightened whilst within 10 feet of allied pursuers or commander.
+
+**Easy kill** if you reduce the hitpoints of this enemy from full to zero with a singular attack; you get +1 (extra)(non-magical) attack.
 
 ---
 ### Actions:

@@ -1,5 +1,5 @@
 **AC:** 16, (chain shirt, shield)
-**HP:** 11, (2d8+2)
+**HP:** 8
 **Speed:** 30ft.
 
 ---
@@ -14,6 +14,10 @@
 **Passive perception:** 12
 **Languages:** Any one language (Common)
 **Challenge:** 1/8
+
+---
+### Traits:
+**Easy kill** if you reduce the hitpoints of this enemy from full to zero with a singular attack; you get +1 (extra)(non-magical) attack.
 
 ---
 ### Actions:

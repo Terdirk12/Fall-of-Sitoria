@@ -1,6 +1,6 @@
 *Medium human, evil*
 **AC:** 16
-**HP:** 54
+**HP:** 19
 **Speed:** 30ft.
 
 ---
@@ -18,9 +18,9 @@
 
 ---
 ### Traits:
-**Ammo Pouch:** has 6 axes to throw
+**Ammo Pouch:** has 6 axes to throw 6/6
 
-6/6
+**Easy kill** if you reduce the hitpoints of this enemy from full to zero with a singular attack; you get +1 (extra)(non-magical) attack.
 
 ---
 ### Actions:
