@@ -1,6 +1,6 @@
-*Large Wyvern, Neutral, Homebrew AVL boekje*
+*Large Beast, Neutral, Homebrew AVL boekje*
 **AC:** 17 (Natural Armor)
-**HP:** [[Verdagor Healthpool]], [[Blooming Verdagor Healthpool]]
+**HP:** [[Verdagor Healthpool]]
 **Speed:** 45ft.
 
 
@@ -84,7 +84,7 @@ DC 7 Con save. on fail Paralyzed
 
 ---
 
-![[Pasted image 20260516214442.png]]![[Pasted image 20260516225720.png|669]]
+![[Verdagor.png]]![[Verdagor Base.png|669]]
 
 The verdagor is a jumpy ambush predator that hides in lush grasslands.
 
