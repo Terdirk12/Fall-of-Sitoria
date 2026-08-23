@@ -1,0 +1,1 @@
+The commander gets in the thick of it, with his loyal troops supporting them. prefers to push with the commander and support with the troops.

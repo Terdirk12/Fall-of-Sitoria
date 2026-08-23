@@ -1,0 +1,1 @@
+The commander will keep its units in constant motion circling around their enemies to cause confusion

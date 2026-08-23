@@ -1,0 +1,1 @@
+The commander will mainly attack with its ranged units, using its melee units to distract enemies and protect its ranged assets.

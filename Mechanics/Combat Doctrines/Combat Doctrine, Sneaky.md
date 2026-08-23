@@ -1,0 +1,1 @@
+The commander will prefer hit and run tactics to weaken its opposition. Often preferring to hit rebel troops and run away next turn.

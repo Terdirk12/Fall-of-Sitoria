@@ -1,0 +1,1 @@
+The commander keeps its units behind cover, preferring to deal with ranged enemies first.

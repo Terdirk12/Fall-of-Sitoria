@@ -1,0 +1,1 @@
+The commander will just hold W
