@@ -1,4 +1,4 @@
-if the shield blocks an attack you may take a reaction to do a shield bash.
+If the shield blocks an attack you may take a reaction to do a shield bash.
 *Shield bash:* Proficiency + Str | 2d6 Piercing + Str | 5ft.  | One target.
 
 Also pushed Medium and smaller creatures 5ft away.

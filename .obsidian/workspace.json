@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monsters/Specialized HP monsters/Nythrax/Nythrax.md",
+                "file": "Magic Items/Ungained/Hernean's Boots of flowing Retraction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nythrax"
+              "title": "Hernean's Boots of flowing Retraction"
+            }
+          },
+          {
+            "id": "b55edf7f3db2f3b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statblocks/CEF Units/Alive/Elite/CEF, Blueguard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CEF, Blueguard"
             }
           }
         ],
@@ -47,7 +61,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Verkenner"
             }
           },
           {
@@ -164,52 +178,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "bases:Nieuwe basis maken": false
     }
   },
   "active": "5ec80068d261fb1c",
   "lastOpenFiles": [
-    "Monsters/Specialized HP monsters/Nythrax/Nythrax Healthpool.md",
-    "Monsters/Specialized HP monsters/Nythrax/Nythrax.md",
-    "Monsters/Specialized HP monsters/Verdagor/Verdagor.md",
-    "Monsters/Specialized HP monsters/Verdagor/Blooming Verdagor.md",
+    "Magic Items/Ungained/Bornea's Shield of Reliance.md",
+    "Magic Items/Ungained/Hernean's Boots of flowing Retraction.md",
+    "Magic Items/Ungained/Ezekiel's Fuscina.md",
+    "Magic Items/Gained/Heart of the last gateholder.md",
+    "Locations/Forts/Leyton Bridge.md",
+    "Current encounter.md",
+    "Statblocks/CEF Units/Alive/Elite/CEF, Blueguard.md",
+    "Statblocks/CEF Units/Alive/Common/CEF, Shieldwarden.md",
+    "Statblocks/CEF Units/Alive/Common/CEF, Footman.md",
+    "Magic Items/Gained/Fractured Lexicon.md",
+    "Statblocks/CEF Units/Alive/Common/CEF, Man At Arms.md",
+    "Statblocks/CEF Units/Alive/Common/CEF, Barrager.md",
+    "Magic Items/Gained/Electrolyte.md",
+    "Locations/Rivers/Helte.md",
+    "Statblocks/CEF Units/Alive/Common/CEF, Aeronaut.md",
+    "Magic Items/Gained/Obsidian Edge.md",
+    "Statblocks/CEF Units/Alive/Common/CEF, Guard.md",
+    "Locations/Rivers/The Schtil.md",
+    "Locations/Rivers/The Abandoned Marsh.md",
+    "Locations/Rivers/Hitona.md",
+    "Characters/Rebellion Characters/Baron Halbrecht Vinderbach.md",
+    "Characters/Rebellion Characters/Quartermaster Thormund.md",
+    "The story so far..md",
     "Monsters/Specialized HP monsters/Vol-Veil/Vol-Veil.md",
-    "Monsters/Specialized HP monsters/Abyllis/Abyllis.md",
-    "Monsters/Specialized HP monsters/Skelkie/Skelkie.md",
+    "Monsters/Specialized HP monsters/Nythrax/Nythrax.md",
+    "Monsters/Specialized HP monsters/Nythrax/Nythrax Healthpool.md",
     "Images/Skelkie.png",
-    "Monsters/Specialized HP monsters/Specialized monster line-up.md",
     "Monsters/Specialized HP monsters/Skelkie",
     "Images/Verdagor Cinematic.png",
     "Images/Vol-Veil Cinematic.png",
     "Images/Blooming Verdagor.png",
     "Images/Vol-Veil.png",
-    "Magic Items/Gellards Emporium.md",
     "Monsters/Specialized HP monsters/Vol-Veil",
-    "Magic Items/Funny Magic Items.md",
-    "Magic Items/Monster specific magic items.md",
     "Magic Items/Ungained",
     "Locations/Roads.canvas",
-    "Locations/Forts/Leyton Bridge.md",
-    "Locations/Forts/Fort Atreus.md",
-    "Locations/Forts/Fort Altus.md",
-    "Locations/Villages, Towns & Cities/Mosswood.md",
-    "Locations/Villages, Towns & Cities/Darkwood.md",
-    "Locations/Villages, Towns & Cities/Aria.md",
-    "Locations/Villages, Towns & Cities/Mustia.md",
-    "Locations/Villages, Towns & Cities/Pectia.md",
-    "Locations/Villages, Towns & Cities/Peycore Monastery.md",
-    "Locations/Villages, Towns & Cities/Ruined Edelheim.md",
-    "Locations/Villages, Towns & Cities/Siltia.md",
-    "Locations/Villages, Towns & Cities/Thornvale.md",
-    "Locations/Villages, Towns & Cities/Sitor Magna.md",
-    "Locations/Villages, Towns & Cities/Sultelheim.md",
-    "Current encounter.md",
     "Images/Bridge 2.png",
     "Images/Bridge Wide.png",
     "Images/Bridge 3.png",
