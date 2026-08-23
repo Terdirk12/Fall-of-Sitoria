@@ -91,3 +91,5 @@ The verdagor is a jumpy ambush predator that hides in lush grasslands.
 it uses its grassy hide to disguise itself as a hilly mound. its diet subsists of small birds, fish, rodents and other small grassland creatures.
 
 During [[Herstog]] Verdagors go into a heavy bloom. spreading their toxic pollen fieldwide. as per tradition villagers form hunting parties to clear the field for Herstog activities. Verdagors often hunt alone yet sometimes group together to protect their young from external predators, some verdagors survive in swamp by excreting a foul odor that attracts certain swamp animals.
+
+![[Verdagor Cinematic.png]]
