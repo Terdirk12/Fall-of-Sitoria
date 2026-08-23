@@ -1,1 +1,0 @@
-Edelheim is done, party op weg naar nearby dorp of homebase.

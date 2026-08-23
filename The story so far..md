@@ -16,4 +16,8 @@ they ambushed a supply cart with the help of Panoramix, poisoned the food, dug a
 
 they took a 1 week break and went north to [[Sultelheim]] to recruit people. but first took a detour to [[Ruined Edelheim]] where they killed a [[Tlincalli]] and took its eggs.
 
-now they are preparing for [[Herstog]] in [[Sultelheim]].
+they partook in [[Herstog]] at [[Sultelheim]].
+
+went through a mountain ambush
+
+And are now going to do a bridge fight at [[Leyton Bridge]]
