@@ -118,8 +118,8 @@
 		{"id":"3d47a7b245c5ab8c","type":"text","text":"[[Fort Altus]]","x":40,"y":36,"width":125,"height":50,"color":"3"},
 		{"id":"5aa3ca740b986059","type":"text","text":"[[Silent Forest]]","x":345,"y":31,"width":250,"height":169,"color":"4"},
 		{"id":"22ef28b7e1768346","type":"text","text":"[[The Abandoned Marsh]]","x":720,"y":-60,"width":276,"height":213,"color":"5"},
-		{"id":"50245c3820720aa6","type":"text","text":"Herstog Field","x":788,"y":-620,"width":105,"height":60},
-		{"id":"e89f46021bce1863","type":"text","text":"[[Leyton Bridge]]","x":-240,"y":180,"width":160,"height":60,"color":"6"}
+		{"id":"e89f46021bce1863","type":"text","text":"[[Leyton Bridge]]","x":-240,"y":180,"width":160,"height":60,"color":"6"},
+		{"id":"50245c3820720aa6","type":"text","text":"Herstog Field","x":780,"y":-620,"width":105,"height":60}
 	],
 	"edges":[
 		{"id":"382253c8864c5d86","fromNode":"f903c3c2f4cdf6ea","fromSide":"top","toNode":"9bd2b39f682abb94","toSide":"bottom","toEnd":"none","label":"1 D"},

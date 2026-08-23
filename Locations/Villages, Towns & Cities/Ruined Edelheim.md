@@ -97,7 +97,7 @@ Once per turn reroll one Sneak Attack Dice when making a Melee Sneak Attack.
 
 If the players swim in through the big well, they end up at the underwater section. If they take the little well they come out in the cave section
 
-The path between the cave section and underwater section contains [[cave fisher]]s.
+The path between the cave section and underwater section contains [[Cave Fisher]]s.
 8 Fishers, 8 Ini
 
 A [[Galeb Duhr]] guards the library section and can roll all the way down the cave. Ini 9
