@@ -3,6 +3,8 @@ If the shield blocks an attack you may take a reaction to do a shield bash.
 
 Also pushed Medium and smaller creatures 5ft away.
 
+The shield has sharp spikes on the outside and a few handlebars on the inside
+
 *Hidden component*
 While holding this sturdy iron Shield, you can take a [Magic](https://5e.tools/actions.html#magic_xphb) action to plant it on the ground and expand its height and width to stretch up to 15 feet in either direction, potentially becoming a defensive wall or similar platform. The edges of the Shield magically conform to fit the shape of an enclosed space within its expanded size, such as the walls of a tunnel or hallway. While holding the expanded Shield in place, your [Speed](https://5e.tools/variantrules.html#speed_xphb) becomes 0, and you have [Disadvantage](https://5e.tools/variantrules.html#disadvantage_xphb) on Dexterity checks and Dexterity saving throws. Regardless of the Shield's size, its weight always remains the same.
 

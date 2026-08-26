@@ -1,5 +1,5 @@
 *Medium human, evil*
-**AC:** 18(plate)
+**AC:** 18 (plate)
 **HP:** 82
 **Speed:** 30ft.
 
@@ -11,7 +11,7 @@
 | +4  | +2  | +4  | 0   | +1  | 0   |
 
 ---
-**Skills:** Perception +4, Intimidation  +3
+**Skills:** Perception +4, Intimidation +3
 **Passive perception:** 14
 **Languages:** Common plus one other
 **Challenge:** 2
