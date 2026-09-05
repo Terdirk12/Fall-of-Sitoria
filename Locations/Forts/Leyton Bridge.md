@@ -3,29 +3,31 @@
 
 https://www.youtube.com/watch?v=uhqGVGpVt-A
 
-Total Remaining Garrison
+Total Remaining Garrison.
 
-| Unit name    | Unit Count | Wall | Bridge |
-| ------------ | ---------- | ---- | ------ |
-| Guard        | 40         | 20   | 20     |
-| Footman      | 40         | 20   | 20     |
-| Man At Arms  | 40         | 20   | 20     |
-| Barrager     | 20         | 20   | 0      |
-| Shieldwarden | 20         | 10   | 10     |
-| Tracker      | 10         | 0    | 10     |
-| Aeronaut     | 4          | 0    | 4      |
-| Surgeon      | 4          | 2    | 2      |
-| Sergeant     | 2          | 1    | 1      |
-| Bluegard     | 4          | 0    | 4      |
-| Strain       | 1          | 0    | 1      |
-| Total Count  |            | 93   | 92     |
+| Unit name    | Unit Count | Wall | Bridge |     |      |     | reinf |
+| ------------ | ---------- | ---- | ------ | --- | ---- | --- | ----- |
+| Guard        | 40         | 20   | 20     | l   |      | 10  | 10    |
+| Footman      | 40         | 20   | 20     | l   |      | 10  |       |
+| Man At Arms  | 40         | 20   | 20     | l   |      | 20  |       |
+| Barrager     | 20         | 20   | 0      | l   |      | 10  | 10    |
+| Shieldwarden | 20         | 10   | 10     | l   |      | 10  |       |
+| Tracker      | 10         | 0    | 10     | l   |      |     |       |
+| Aeronaut     | 4          | 0    | 4      | l   |      |     |       |
+| Surgeon      | 4          | 2    | 2      | l   |      | 2   |       |
+| Sergeant     | 2          | 1    | 1      | l   |      | 1   |       |
+| Bluegard     | 4          | 0    | 4      | l   |      |     |       |
+| Strain       | 1          | 0    | 1      | l   |      |     |       |
+| Ballista     | 4          | 2    | ~2     | l   | 3d10 | 2   |       |
+| Total Count  |            | 93   | 92     |     |      |     |       |
+
 245 units total (too much??? naaaaaaaaaaaaaaaaaaaaaaah)
 
-
-| Friendly assets | count total |
-| --------------- | ----------- |
-| trebuchet       | 3           |
-| Guard           | 100         |
+| Friendly assets | count total |                                                             |                       |
+| --------------- | ----------- | ----------------------------------------------------------- | --------------------- |
+| trebuchet       | 3           | 8d10                                                        |                       |
+| Guard           | 100         |                                                             |                       |
+| cannonships     | 6           | 15ft sphere. 8d10 blud, dc12 dex save. on save half damage. | 1d4 offline to helena |
 0 friendly guard at the first area but 100 in waves at the second???
 
 https://www.youtube.com/watch?v=EspwQ6Phw0g
