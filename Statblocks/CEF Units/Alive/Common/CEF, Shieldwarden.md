@@ -1,5 +1,5 @@
 **AC:** 19, (chain mail, tower shield)
-**HP:** 21
+**HP:** 20
 **Speed:** 25ft.
 
 ---
@@ -32,3 +32,5 @@ _Hit:_ 5 (1d6 + 2) piercing damage.
 
 **Shield Bash (Recharge 5–6).** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target.  
 _Hit:_ 4 (1d4 + 2) bludgeoning damage, and the target must succeed on a **DC 12** Strength saving throw or be pushed 5 feet.
+
+![[Shieldwarden.png]]

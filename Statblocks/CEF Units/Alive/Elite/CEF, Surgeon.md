@@ -31,3 +31,5 @@ _Hit:_ 4 (1d6 + 1) piercing damage.
 - if it has 0 hit points, it instead regains **1 hit point**.
 
 **Stabilize.** The chirurgeon stabilizes one creature within 5 feet that has 0 hit points.
+
+![[Images/Surgeon.png]]

@@ -32,3 +32,5 @@ Special forces of the imperial army designed to invade enemy vessels or provide 
 
 **Skybow.** _Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target.  
 _Hit:_ 8 (1d8 + 1) piercing damage.
+
+![[Aeronaut.png]]

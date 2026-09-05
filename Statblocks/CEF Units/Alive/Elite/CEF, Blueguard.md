@@ -18,7 +18,7 @@
 
 ---
 ### Traits:
-**Graze:** on miss: 4 slashing damage
+**Graze:** Once per turn on miss: 4 slashing damage
 
 ---
 ### Actions:
@@ -26,3 +26,6 @@
 
 **Greatsword.** _Melee Weapon Attack:_ +7 to hit, one target.  
 _Hit:_ 8 (2d6 + 4) Slashing damage.
+
+
+![[Blueguard.png]]

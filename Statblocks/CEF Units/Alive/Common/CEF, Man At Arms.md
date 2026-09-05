@@ -1,4 +1,4 @@
-**AC:** 18, (chain mail, shield)
+**AC:** 18, (splint armor, shield)
 **HP:** 13
 **Speed:** 25ft.
 
@@ -36,3 +36,5 @@ _Hit:_ 4 _(1d4 + 3)_ bludgeoning damage, and the target must succeed on a **DC 1
 
 **Heavy Crossbow.** _Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one target.  
 _Hit:_ 5 (1d10) piercing damage.
+
+![[Man-At-Arms.png]]

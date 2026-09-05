@@ -32,3 +32,5 @@ _Hit:_ 5 _(1d6 + 2)_ piercing damage.
 
 **Light Crossbow.** _Ranged Weapon Attack:_ +3 to hit, range 80/320 ft., one target.  
 _Hit:_ 5 (1d8 + 1) piercing damage.
+
+![[Footman.png]]

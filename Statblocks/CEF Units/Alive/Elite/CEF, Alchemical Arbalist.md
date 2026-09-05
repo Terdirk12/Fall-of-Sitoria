@@ -6,8 +6,8 @@
 
 | STR | DEX | Con | Int | Wis | Cha |
 | --- | --- | --- | --- | --- | --- |
-| 11  | 17  | 12  | 12  | 11  | 10  |
-| 0   | +3  | +1  | +1  | 0   | 0   |
+| 11  | 18  | 12  | 12  | 11  | 10  |
+| 0   | +4  | +1  | +1  | 0   | 0   |
 
 ---
 **Skills:** Perception +2, Investigation +3
@@ -29,8 +29,10 @@
 
 ---
 ### Actions:
-**Arbalest.** _Ranged Weapon Attack:_ +5 to hit, range 100/400 ft., one target.  
-_Hit:_ 7 (1d10 + 3) piercing damage.
+**Arbalest.** _Ranged Weapon Attack:_ +6 to hit, range 100/400 ft., one target.  
+_Hit:_ 7 (1d10 + 4) piercing damage.
 
-**Dagger.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target.  
-_Hit:_ 4 (1d4 + 3) piercing damage.
+**Dagger.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target.  
+_Hit:_ 4 (1d4 + 4) piercing damage.
+
+![[Alchemical Arbelist.png]]

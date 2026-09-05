@@ -1,5 +1,5 @@
 *Medium human, evil*
-**AC:** 16
+**AC:** 13 (Breastplate)
 **HP:** 19
 **Speed:** 30ft.
 
@@ -24,8 +24,14 @@
 
 ---
 ### Actions:
-**Multiattack:** Throw 3 Handaxes.
+**Multiattack:** Throw 2 Handaxes.
 
 **Handaxe.** 
 _Weapon Attack:_ +5 to hit, range 20/60 ft., one target.  
 _Hit:_ 6 (1d6 + 3) Slashing damage.
+
+**Battleaxe**
+_Weapon Attack:_ +5 to hit, one target.  
+_Hit:_ 6 (1d10 + 3) Slashing damage.
+
+![[Barrager.png]]

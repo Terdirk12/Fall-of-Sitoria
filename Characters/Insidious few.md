@@ -2,7 +2,7 @@ de player army group
 
 | ?   | Name   | Race     | Weapon     | MM        | Best MM          |
 | --- | ------ | -------- | ---------- | --------- | ---------------- |
-| A   | Marek  | Human    | Spear      | Guard     | Guard            |
+| A   | Marek  | Human    | Spear      | Guard     | Guard Captain    |
 | A   | Linna  | Elf      | Bow        | Guard     | Scout            |
 | A   | Drogan | Dwarf    | warhammer  | Guard     | Thug             |
 | A   | Velka  | Human    | Daggers    | Guard     | Vampire Familiar |

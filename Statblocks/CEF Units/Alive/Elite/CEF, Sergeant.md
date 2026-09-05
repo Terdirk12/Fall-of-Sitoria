@@ -36,3 +36,6 @@ _Hit:_ 5 (1d8 + 1) piercing damage.
 ---
 ### Reaction
 **Parry.** The sergeant adds 2 to its AC against one melee attack that would hit it. To do so, the sergeant must see the attacker and be wielding a melee weapon.
+
+
+![[Sergeant.png]]

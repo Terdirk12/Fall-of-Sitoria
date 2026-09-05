@@ -1,21 +1,21 @@
 
-| Unit Card | Creature     | Meeple   | Page/Link                    | AC  |
-| --------- | ------------ | -------- | ---------------------------- | --- |
-| CEF       | Aeronaut     | bird     | [[CEF, Aeronaut]]            | 14  |
-| CEF       | Arbelist     | Mole     | [[CEF, Alchemical Arbalist]] | 15  |
-| CEF       | Ambusher     | Rabbit   | [[CEF, Ambusher]]            | 12  |
-| CEF       | Barrager     | Rabbit   | [[CEF, Barrager]]            | 16  |
-| CEF       | Bluegard     | Otter    | [[CEF, Blueguard]]           | 18  |
-| CEF       | Footman      | Crow     | [[CEF, Footman]]             | 17  |
-| CEF       | Guard        | Badger   | [[CEF, Guard]]               | 16  |
-| CEF       | Man-At-arms  | Lizard   | [[CEF, Man At Arms]]         | 18  |
-| CEF       | Sergeant     | vagabond | [[CEF, Sergeant]]            | 17  |
-| CEF       | Shieldwarden | Rat      | [[CEF, Shieldwarden]]        | 19  |
-| CEF       | Surgeon      | Otter    | [[CEF, Surgeon]]             | 14  |
-| CEF       | Tracker      | Bird     | [[CEF, Tracker]]             | 14  |
-| Undead    | Ghoul        | Badger   | MM: p148                     |     |
-| Undead    | Ghast        | Otter    | MM: p148                     |     |
-| Undead    | Zombie       | Lizard   | MM: p316                     |     |
+| Unit Card | Creature     | Meeple      | Page/Link                    | AC  |
+| --------- | ------------ | ----------- | ---------------------------- | --- |
+| CEF       | Aeronaut     | bird spec   | [[CEF, Aeronaut]]            | 14  |
+| CEF       | Arbelist     | Mole        | [[CEF, Alchemical Arbalist]] | 15  |
+| CEF       | Ambusher     | Rabbit spec | [[CEF, Ambusher]]            | 12  |
+| CEF       | Barrager     | Rabbit      | [[CEF, Barrager]]            | 16  |
+| CEF       | Bluegard     | Otter       | [[CEF, Blueguard]]           | 18  |
+| CEF       | Footman      | Crow        | [[CEF, Footman]]             | 17  |
+| CEF       | Guard        | Badger      | [[CEF, Guard]]               | 16  |
+| CEF       | Man-At-arms  | Lizard      | [[CEF, Man At Arms]]         | 18  |
+| CEF       | Sergeant     | vagabond    | [[CEF, Sergeant]]            | 17  |
+| CEF       | Shieldwarden | Rat         | [[CEF, Shieldwarden]]        | 19  |
+| CEF       | Surgeon      | Cat spec    | [[CEF, Surgeon]]             | 14  |
+| CEF       | Tracker      | Bird        | [[CEF, Tracker]]             | 14  |
+| Undead    | Ghoul        | Badger      | MM: p148                     |     |
+| Undead    | Ghast        | Otter       | MM: p148                     |     |
+| Undead    | Zombie       | Lizard      | MM: p316                     |     |
 
 
 ---

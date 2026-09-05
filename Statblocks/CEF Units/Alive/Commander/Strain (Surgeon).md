@@ -38,3 +38,10 @@ _Hit:_ 4 (1d6 + 1) piercing damage.
 - if it has 0 hit points, it instead regains **1 hit point**.
 
 **Stabilize.** The chirurgeon stabilizes one creature within 5 feet that has 0 hit points.
+
+---
+### Bonus Actions:
+**Battle Command.** Choose one creature within 30 feet of Strain that Strain can see. If the chosen creature can see or hear Strain, that creature can use its reaction to make one melee attack or to take the [Dodge](https://5e.tools/actions.html#dodge_phb) or [Hide](https://5e.tools/actions.html#hide_phb) action.
+
+
+![[Strain.png]]

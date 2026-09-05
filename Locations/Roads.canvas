@@ -101,7 +101,7 @@
 		{"id":"9f1777b9e06f6dd6","type":"text","text":"[[Helte]]","x":-660,"y":-2440,"width":95,"height":50,"color":"5"},
 		{"id":"f54101bbacf51e8f","type":"text","text":"[[Helte]]","x":-1179,"y":-3480,"width":95,"height":50,"color":"5"},
 		{"id":"0564c02e77dadac4","type":"text","text":"[[Helte]]","x":-2440,"y":-4720,"width":95,"height":50,"color":"5"},
-		{"id":"5922dbd0fd1d2a35","type":"text","text":"Belamuga","x":-1638,"y":-3280,"width":345,"height":280},
+		{"id":"5922dbd0fd1d2a35","type":"text","text":"Esteller","x":-1638,"y":-3280,"width":345,"height":280},
 		{"id":"a9c73b2582ea0790","type":"text","text":"fort","x":-1080,"y":-1842,"width":80,"height":50},
 		{"id":"f9af5f0582c898a3","type":"text","text":"fort","x":-1862,"y":-2194,"width":87,"height":50},
 		{"id":"3b9c53f1af978326","type":"text","text":"fort","x":-2783,"y":-2600,"width":78,"height":50},
@@ -119,7 +119,8 @@
 		{"id":"5aa3ca740b986059","type":"text","text":"[[Silent Forest]]","x":345,"y":31,"width":250,"height":169,"color":"4"},
 		{"id":"22ef28b7e1768346","type":"text","text":"[[The Abandoned Marsh]]","x":720,"y":-60,"width":276,"height":213,"color":"5"},
 		{"id":"e89f46021bce1863","type":"text","text":"[[Leyton Bridge]]","x":-240,"y":180,"width":160,"height":60,"color":"6"},
-		{"id":"50245c3820720aa6","type":"text","text":"Herstog Field","x":780,"y":-620,"width":105,"height":60}
+		{"id":"50245c3820720aa6","type":"text","text":"Herstog Field","x":780,"y":-620,"width":105,"height":60},
+		{"id":"145ff95d327f7947","x":286,"y":-5381,"width":250,"height":60,"type":"text","text":"Norfand"}
 	],
 	"edges":[
 		{"id":"382253c8864c5d86","fromNode":"f903c3c2f4cdf6ea","fromSide":"top","toNode":"9bd2b39f682abb94","toSide":"bottom","toEnd":"none","label":"1 D"},

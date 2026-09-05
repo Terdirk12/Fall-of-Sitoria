@@ -29,3 +29,4 @@ _Hit:_ 8 (1d6 +4) piercing damage.
 
 **Dagger** _Melee Weapon Attack:_ +6 to hit, one target.  
 _Hit:_ 8 (1d4 +4) piercing damage.
+
