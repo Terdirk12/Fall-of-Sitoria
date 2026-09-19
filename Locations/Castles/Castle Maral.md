@@ -1,1 +1,1 @@
-Possible player home, overrun with low-rank vampires
+Possible player home, overrun with vampires and Count Voromir

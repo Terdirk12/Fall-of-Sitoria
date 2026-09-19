@@ -1,4 +1,4 @@
-The Verdagor works a bit different then most DnD monsters, it's health pool is somewhat split between his parts. each having its own resistance.
+The Abyllis works a bit different then most DnD monsters, it's health pool is somewhat split between his parts. each having its own resistance.
 
 | Part           | HP  | Taken | Bludgeoning | Piercing | Slashing | Magic | Fire | Cold |
 | -------------- | --- | ----- | ----------- | -------- | -------- | ----- | ---- | ---- |

@@ -1,1 +1,1 @@
-Neighbouring region, used to have a diplomatic alliance with [[Sitoria]] before [[the severing night]]
+Neighboring region, used to have a diplomatic alliance with [[Sitoria]] before [[the severing night]]

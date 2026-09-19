@@ -34,7 +34,8 @@
 **Spellcasting.** The exorcist casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 14, +6 to hit with spell attacks):
 
 - At will: [detect evil and good](https://5e.tools/spells.html#detect%20evil%20and%20good_phb), [mage armor](https://5e.tools/spells.html#mage%20armor_phb) (self only), [mage hand](https://5e.tools/spells.html#mage%20hand_phb)
-    
 - 2/day each: [protection from evil and good](https://5e.tools/spells.html#protection%20from%20evil%20and%20good_phb), [remove curse](https://5e.tools/spells.html#remove%20curse_phb), [speak with dead](https://5e.tools/spells.html#speak%20with%20dead_phb)
-    
 - 1/day each: [banishment](https://5e.tools/spells.html#banishment_phb), [dispel evil and good](https://5e.tools/spells.html#dispel%20evil%20and%20good_phb)
+
+
+![[Exorcist Herald.png]]
