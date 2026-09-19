@@ -1,3 +1,15 @@
+Alright.
+Clean-up
+vayne
+Whistle
+Flagbearer
+river
+Thunderous sound
+Towers collapse
+"Onward men"
+1d12 temp hp for heroes
+Fight start
+
 After the bridge the party will be given the following Quests.
 
 | Name                   | Desc                                                                                                                                                     | Duration     | Reward                        |
