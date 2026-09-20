@@ -23,25 +23,28 @@ mistmaker: 2
 
 | Initiative | Unit           | HP1 | HP2 | HP3 | HP4 | HP5 |     |
 | ---------- | -------------- | --- | --- | --- | --- | --- | --- |
-| 20         | Gek            |     |     |     |     |     |     |
-| 17         | Peter          |     |     |     |     |     |     |
-| 15         | Friendly Guard |     |     |     |     |     |     |
-| 13         | Indi guard     | 1   |     |     |     |     |     |
-| 13         | Shieldwarden   | 12  |     |     |     |     |     |
-| 9          | Otto           |     |     |     |     |     |     |
-| 8          | Man-at-arms    |     |     |     |     |     |     |
-| 7          | Enemy guard    | 1   |     |     |     |     |     |
-| 6          | Footman        | 1   |     |     |     |     |     |
-| 4          | Bart           |     |     |     |     |     |     |
-| 2          | Toss           |     |     |     |     |     |     |
-| 0          | Trebuchet      |     |     |     |     |     |     |
-| 0          | Guard barrage  |     |     |     |     |     |     |
-| 0          | Latchdrake     |     |     |     |     |     |     |
+| 28         | Gek            |     |     |     |     |     |     |
+| 21         | Friendly Guard |     |     |     |     |     |     |
+| 15         | Otto           |     |     |     |     |     |     |
+| 11         | Aeronaut       |     |     |     |     |     |     |
+| 10         | Peter          |     |     |     |     |     |     |
+| 8          | Indi guard     |     |     |     |     |     |     |
+| 8          | Shieldwarden   |     |     |     |     |     |     |
+| 6          | Blueguard      |     |     |     |     |     |     |
+| 0          | Vayne          |     |     |     |     |     |     |
+|            | Ship Targeting |     |     |     |     |     |     |
 |            | Surgeon        |     |     |     |     |     |     |
+|            | Enemy guard    |     |     |     |     |     |     |
+|            | Footman        |     |     |     |     |     |     |
+|            | Tracker        |     |     |     |     |     |     |
+|            | Cannons        |     |     |     |     |     |     |
+|            | Guard barrage  |     |     |     |     |     |     |
+|            | Latchdrake     |     |     |     |     |     |     |
 |            | Sergeant       |     |     |     |     |     |     |
-|            | Aeronaut       |     |     |     |     |     |     |
-|            | Blueguard      |     |     |     |     |     |     |
-|            | Vayne          |     |     |     |     |     |     |
+|            | Man-at-arms    |     |     |     |     |     |     |
+|            | Strain         |     |     |     |     |     |     |
+|            | Bart           |     |     |     |     |     |     |
+|            | Toss           |     |     |     |     |     |     |
 |            | Barrager       |     |     |     |     |     |     |
   
 

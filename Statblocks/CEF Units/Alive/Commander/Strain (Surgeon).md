@@ -14,6 +14,7 @@ Secondary: [[Combat Doctrine, Sneaky]]
 | --- | --- | --- | --- | --- | --- |
 | 10  | 13  | 11  | 12  | 14  | 11  |
 | 0   | +1  | 0   | +1  | +2  | 0   |
+|     | +2  |     |     |     |     |
 
 ---
 **Skills:** Medicine +4, Perception +4
@@ -34,7 +35,7 @@ Secondary: [[Combat Doctrine, Sneaky]]
 _Hit:_ 4 (1d6 + 1) piercing damage.
 
 **Battlefield Medicine (3/Day).** The chirurgeon chooses one creature within 5 feet. The target:
-- regains **6 (1d6 + 3)** hit points, **or**
+- regains **12 (2d6 + 3)** hit points, **or**
 - if it has 0 hit points, it instead regains **1 hit point**.
 
 **Stabilize.** The chirurgeon stabilizes one creature within 5 feet that has 0 hit points.

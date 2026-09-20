@@ -7,10 +7,10 @@ Total Remaining Garrison.
 
 | Unit name    | Unit Count | Wall | Bridge |     |      |     | reinf |
 | ------------ | ---------- | ---- | ------ | --- | ---- | --- | ----- |
-| Guard        | 40         | 20   | 20     | l   |      | 10  | 10    |
+| Guard        | 40         | 20   | 20     | l   |      | 10  |       |
 | Footman      | 40         | 20   | 20     | l   |      | 10  |       |
 | Man At Arms  | 40         | 20   | 20     | l   |      | 20  |       |
-| Barrager     | 20         | 20   | 0      | l   |      | 10  | 10    |
+| Barrager     | 20         | 20   | 0      | l   |      | 10  |       |
 | Shieldwarden | 20         | 10   | 10     | l   |      | 10  |       |
 | Tracker      | 10         | 0    | 10     | l   |      |     |       |
 | Aeronaut     | 4          | 0    | 4      | l   |      |     |       |
