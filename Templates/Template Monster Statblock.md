@@ -15,6 +15,7 @@ _Medium -, -_
 
 ---
 **Resistances:** -
+**Vulnerabilities:** -
 **Immunities:** -
 **Condition Immunities:** -
 **Senses:** -
@@ -27,18 +28,13 @@ _Medium -, -_
 
 ---
 ### Actions:
-
-**Multiattack**. -
-
-
+-
 
 ---
 ### Bonus actions:
-
 -
 
 ---
 ### Reactions:
-
 -
 
