@@ -93,3 +93,36 @@ it uses its grassy hide to disguise itself as a hilly mound. its diet subsists o
 During [[Herstog]] Verdagors go into a heavy bloom. spreading their toxic pollen fieldwide. as per tradition villagers form hunting parties to clear the field for Herstog activities. Verdagors often hunt alone yet sometimes group together to protect their young from external predators, some verdagors survive in swamp by excreting a foul odor that attracts certain swamp animals.
 
 ![[Verdagor Cinematic.png]]
+## 1. Collect your carving dice
+
+After defeating Verdagor, the party receives a pool of dice based on how well they hunted it.
+
+|Hunt result|Carving dice|
+|---|---|
+|Verdagor defeated|5d6|
+|Head broken|+1d6|
+|Tail broken|+1d6|
+|One or more legs broken|+1d6|
+|Venom glands preserved intact|+1d6|
+|Chest/core broken|+1d6|
+## 2. Allocate your dice
+
+After rolling, the players assign each die to a material they want to harvest. Higher results unlock rarer materials.
+
+|Material|Required roll|Condition|
+|---|---|---|
+|Verdagor Scale|1+|Always available|
+|Verdagor Leafhide|2+|Always available|
+|Verdagor Fang|4+|Head must be intact enough to carve|
+|Verdagor Razorleaf|4+|Tail must be intact enough to carve|
+|Verdagor Venom Sac|5+|Venom glands must be preserved|
+|Verdagor Bloomheart|6|Chest/core must be accessible|
+## 3. High rolls give bonus materials
+
+To make those lucky rolls feel worthwhile:
+
+|Die result|Reward|
+|---|---|
+|1–3|1 material, if its requirement is met|
+|4–5|1 material, if its requirement is met|
+|6|2 units of a common material, or 1 unit of an uncommon/rare material|
