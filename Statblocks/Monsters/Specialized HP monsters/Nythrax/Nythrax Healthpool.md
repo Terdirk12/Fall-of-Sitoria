@@ -22,7 +22,7 @@ If a part goes to 0 HP it breaks, effecting the Nythrax
 | -------- | ----------------------------------------------------------- |
 | Frills L | -20 Hover speed \| if both frills break, cant hover anymore |
 | Frills R | -20 Hover speed \| if both frills break, cant hover anymore |
-| Tail     |                                                             |
-| Head     |                                                             |
+| Tail     | No Tail Attacks.                                            |
+| Head     | No Bite Attacks or steam breath                             |
 | Body     |                                                             |
 If a broken part gets damaged the health affects the main pool. If the main pool is empty the creature dies, the main pool is all the part's HP combined.
