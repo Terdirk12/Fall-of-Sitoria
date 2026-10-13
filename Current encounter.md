@@ -1,21 +1,22 @@
+# general unit overview
 
 | Unit Card | Creature     | Meeple      | Page/Link                    | AC  |
 | --------- | ------------ | ----------- | ---------------------------- | --- |
-| Undead    | Ghoul        | Badger      | MM: p148                     |     |
+| Undead    | Ghast        | Otter       | [[Ghast]]                    | 13  |
+| Undead    | Ghoul        | Badger      | [[Ghoul]]                    | 12  |
+| Undead    | Zombie       | Lizard      | [[Zombie]]                   | 8   |
+| CEF       | Shieldwarden | Rat         | [[CEF, Shieldwarden]]        | 19  |
+| CEF       | Man-At-arms  | Lizard      | [[CEF, Man At Arms]]         | 18  |
+| CEF       | Bluegard     | Otter       | [[CEF, Blueguard]]           | 18  |
+| CEF       | Footman      | Crow        | [[CEF, Footman]]             | 17  |
+| CEF       | Sergeant     | vagabond    | [[CEF, Sergeant]]            | 17  |
 | CEF       | Guard        | Badger      | [[CEF, Guard]]               | 16  |
+| CEF       | Arbelist     | Mole        | [[CEF, Alchemical Arbalist]] | 15  |
 | CEF       | Tracker      | Bird Spec   | [[CEF, Tracker]]             | 14  |
 | CEF       | Aeronaut     | Bird        | [[CEF, Aeronaut]]            | 14  |
 | CEF       | Surgeon      | Cat spec    | [[CEF, Surgeon]]             | 14  |
-| CEF       | Footman      | Crow        | [[CEF, Footman]]             | 17  |
-| CEF       | Man-At-arms  | Lizard      | [[CEF, Man At Arms]]         | 18  |
-| Undead    | Zombie       | Lizard      | MM: p316                     |     |
-| CEF       | Arbelist     | Mole        | [[CEF, Alchemical Arbalist]] | 15  |
-| CEF       | Bluegard     | Otter       | [[CEF, Blueguard]]           | 18  |
-| Undead    | Ghast        | Otter       | MM: p148                     |     |
 | CEF       | Barrager     | Rabbit      | [[CEF, Barrager]]            | 13  |
 | CEF       | Ambusher     | Rabbit spec | [[CEF, Ambusher]]            | 12  |
-| CEF       | Shieldwarden | Rat         | [[CEF, Shieldwarden]]        | 19  |
-| CEF       | Sergeant     | vagabond    | [[CEF, Sergeant]]            | 17  |
 
 
 ---
