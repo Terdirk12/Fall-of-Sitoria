@@ -1,10 +1,10 @@
 {
 	"info": {
 		"application_name": "Canvas of Kings",
-		"version": "0.1.0.43",
-		"camera_pos_x": -97.12,
-		"camera_pos_z": -23.78,
-		"camera_zoom": 66.0,
+		"version": "0.1.0.44",
+		"camera_pos_x": -80.21,
+		"camera_pos_z": -14.04,
+		"camera_zoom": 24.0,
 		"camera_rotation": 0.0,
 		"steam_file_id": -1,
 		"map_layers_open": true,
@@ -252,6 +252,93 @@
 			"custom_2": -1,
 			"custom_3": 0,
 			"custom_4": 1
+		},
+		{
+			"filename": "steam://3432371614/data/scene.tscn",
+			"position_x": -99.51,
+			"position_y": 0.0,
+			"position_z": -15.36,
+			"rotation_y": 179.83,
+			"scale_x": 0.97,
+			"scale_z": 0.97,
+			"object_type": -16,
+			"name": "Marker Number 01",
+			"steam_file_id": 3432371614
+		},
+		{
+			"filename": "steam://3432372659/data/scene.tscn",
+			"position_x": -100.74,
+			"position_y": 0.53,
+			"position_z": -20.39,
+			"rotation_y": -2.5,
+			"scale_x": 0.98,
+			"scale_z": 0.98,
+			"object_type": -16,
+			"height_changing_position_y": 0.53,
+			"name": "marker_number_02",
+			"steam_file_id": 3432372659
+		},
+		{
+			"filename": "steam://3432373182/data/scene.tscn",
+			"position_x": -77.34,
+			"position_y": 2.23,
+			"position_z": -15.75,
+			"rotation_y": 0.17,
+			"object_type": -16,
+			"height_changing_position_y": 2.23,
+			"name": "marker_number_03",
+			"steam_file_id": 3432373182
+		},
+		{
+			"filename": "steam://3432373694/data/scene.tscn",
+			"position_x": -113.33,
+			"position_y": 0.0,
+			"position_z": -26.6,
+			"rotation_y": 3.16,
+			"scale_x": 0.84,
+			"scale_z": 0.84,
+			"object_type": -16,
+			"name": "marker_number_04",
+			"steam_file_id": 3432373694
+		},
+		{
+			"filename": "steam://3432374105/data/scene.tscn",
+			"position_x": -81.57,
+			"position_y": 0.46,
+			"position_z": -6.09,
+			"rotation_y": 5.0,
+			"scale_x": 1.2,
+			"scale_z": 1.2,
+			"object_type": -16,
+			"height_changing_position_y": 0.46,
+			"name": "marker_number_05",
+			"steam_file_id": 3432374105
+		},
+		{
+			"filename": "steam://3432374466/data/scene.tscn",
+			"position_x": -73.49,
+			"position_y": 2.16,
+			"position_z": -15.82,
+			"rotation_y": 1.83,
+			"scale_x": 0.93,
+			"scale_z": 0.93,
+			"object_type": -16,
+			"height_changing_position_y": 2.16,
+			"name": "marker_number_06",
+			"steam_file_id": 3432374466
+		},
+		{
+			"filename": "steam://3432374897/data/scene.tscn",
+			"position_x": -73.43,
+			"position_y": 1.86,
+			"position_z": -12.18,
+			"rotation_y": 0.83,
+			"scale_x": 0.98,
+			"scale_z": 0.98,
+			"object_type": -16,
+			"height_changing_position_y": 1.86,
+			"name": "marker_number_07",
+			"steam_file_id": 3432374897
 		}
 	],
 	"paths": [
@@ -322,9 +409,8 @@
 							"scale_x": 17.89,
 							"object_type": 41,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 17.8889293670654,
-							"custom_size": 17.89,
-							"custom_flip_tex": false
+							"custom_data_g_size": 17.89,
+							"custom_size": 17.89
 						}
 					]
 				},
@@ -339,9 +425,8 @@
 							"scale_x": 20.19,
 							"object_type": 41,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 20.1894493103027,
-							"custom_size": 20.19,
-							"custom_flip_tex": false
+							"custom_data_g_size": 20.19,
+							"custom_size": 20.19
 						}
 					]
 				}
@@ -993,7 +1078,7 @@
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
 				"position_x": -96.83,
 				"position_y": 0.0,
-				"position_z": -18.27,
+				"position_z": -18.26,
 				"object_type": 113,
 				"uid": 1672,
 				"assigned_path_area_idx": 33,
@@ -1049,7 +1134,7 @@
 							"scale_x": 21.88,
 							"object_type": 41,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 21.8835391998291,
+							"custom_data_g_size": 21.88,
 							"custom_size": 21.88
 						}
 					]
@@ -1684,7 +1769,7 @@
 			"is_closed": true,
 			"click_and_placing_wo": {
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-				"position_x": -89.77,
+				"position_x": -89.76,
 				"position_y": 0.0,
 				"position_z": 1.46,
 				"object_type": 113,
@@ -2100,109 +2185,109 @@
 					"line_idx": 3,
 					"points_and_distances": [
 						{
-							"idx": 0,
+							"idx": 0.0,
 							"point_x": -90.5,
 							"point_z": -19.24,
-							"distance": 0
+							"distance": 0.0
 						},
 						{
-							"idx": 18,
+							"idx": 18.0,
 							"point_x": -90.79,
 							"point_z": -19.24,
 							"distance": 5.67630168795586
 						},
 						{
-							"idx": 17,
+							"idx": 17.0,
 							"point_x": -91.08,
 							"point_z": -19.24,
 							"distance": 5.38261213898659
 						},
 						{
-							"idx": 16,
+							"idx": 16.0,
 							"point_x": -91.37,
 							"point_z": -19.24,
 							"distance": 5.09411826729774
 						},
 						{
-							"idx": 15,
+							"idx": 15.0,
 							"point_x": -91.65,
 							"point_z": -19.23,
 							"distance": 4.81098791956902
 						},
 						{
-							"idx": 14,
+							"idx": 14.0,
 							"point_x": -91.93,
 							"point_z": -19.23,
 							"distance": 4.53340420126915
 						},
 						{
-							"idx": 13,
+							"idx": 13.0,
 							"point_x": -92.2,
 							"point_z": -19.23,
 							"distance": 4.26155024766922
 						},
 						{
-							"idx": 12,
+							"idx": 12.0,
 							"point_x": -92.47,
 							"point_z": -19.23,
 							"distance": 3.99559390544891
 						},
 						{
-							"idx": 11,
+							"idx": 11.0,
 							"point_x": -92.73,
 							"point_z": -19.23,
 							"distance": 3.73571825027466
 						},
 						{
-							"idx": 10,
+							"idx": 10.0,
 							"point_x": -92.98,
 							"point_z": -19.23,
 							"distance": 3.482098788023
 						},
 						{
-							"idx": 9,
+							"idx": 9.0,
 							"point_x": -93.47,
 							"point_z": -19.23,
 							"distance": 2.99437606334686
 						},
 						{
-							"idx": 8,
+							"idx": 8.0,
 							"point_x": -93.93,
 							"point_z": -19.22,
 							"distance": 2.53382197022438
 						},
 						{
-							"idx": 7,
+							"idx": 7.0,
 							"point_x": -94.36,
 							"point_z": -19.22,
 							"distance": 2.10190895199776
 						},
 						{
-							"idx": 6,
+							"idx": 6.0,
 							"point_x": -94.76,
 							"point_z": -19.22,
 							"distance": 1.700025588274
 						},
 						{
-							"idx": 5,
+							"idx": 5.0,
 							"point_x": -95.13,
 							"point_z": -19.22,
 							"distance": 1.32963681221008
 						},
 						{
-							"idx": 4,
+							"idx": 4.0,
 							"point_x": -95.47,
 							"point_z": -19.22,
 							"distance": 0.992154002189636
 						},
 						{
-							"idx": 3,
+							"idx": 3.0,
 							"point_x": -95.77,
 							"point_z": -19.21,
 							"distance": 0.689026772975922
 						},
 						{
-							"idx": 4,
+							"idx": 4.0,
 							"point_x": -96.12,
 							"point_z": -19.21,
 							"distance": 1.03783938288689
@@ -2499,7 +2584,7 @@
 							"scale_x": 7.52,
 							"object_type": 41,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 7.52059698104858,
+							"custom_data_g_size": 7.52,
 							"custom_size": 7.52
 						}
 					]
@@ -2664,7 +2749,7 @@
 							"scale_x": 7.61,
 							"object_type": 41,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 7.60953187942505,
+							"custom_data_g_size": 7.61,
 							"custom_size": 7.61
 						}
 					]
@@ -2985,7 +3070,7 @@
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
 				"position_x": -102.61,
 				"position_y": 0.0,
-				"position_z": -26.17,
+				"position_z": -26.16,
 				"object_type": 113,
 				"uid": 1683,
 				"assigned_path_area_idx": 33,
@@ -3560,13 +3645,13 @@
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
 				"position_x": -109.75,
 				"position_y": 5.5,
-				"position_z": -36.68,
+				"position_z": -36.69,
 				"object_type": 113,
 				"uid": 1684,
 				"assigned_path_area_idx": 33,
 				"height_changing_position_y": 5.5,
-				"snap_to_grid_position_offset_x": 0.001,
-				"snap_to_grid_position_offset_y": -0.024
+				"snap_to_grid_position_offset_x": 0.026,
+				"snap_to_grid_position_offset_y": -0.057
 			},
 			"area_objects": [],
 			"texture_rotation": 115.0,
@@ -7762,9 +7847,8 @@
 							"scale_x": 6.76,
 							"object_type": 41,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 6.76070165634155,
-							"custom_size": 6.76,
-							"custom_flip_tex": false
+							"custom_data_g_size": 6.76,
+							"custom_size": 6.76
 						}
 					]
 				}
@@ -7930,9 +8014,8 @@
 							"scale_x": 6.68,
 							"object_type": 41,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 6.6828784942627,
-							"custom_size": 6.68,
-							"custom_flip_tex": false
+							"custom_data_g_size": 6.68,
+							"custom_size": 6.68
 						}
 					]
 				}
@@ -8098,7 +8181,7 @@
 							"scale_x": 6.57,
 							"object_type": 41,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 6.56837272644043,
+							"custom_data_g_size": 6.57,
 							"custom_size": 6.57
 						}
 					]
@@ -8238,7 +8321,7 @@
 			],
 			"click_and_placing_wo": {
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-				"position_x": -75.16,
+				"position_x": -75.17,
 				"position_y": 0.0,
 				"position_z": -15.33,
 				"object_type": 113,
@@ -8296,7 +8379,7 @@
 							"scale_x": 4.43,
 							"object_type": 41,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 4.42863655090332,
+							"custom_data_g_size": 4.43,
 							"custom_size": 4.43
 						}
 					]
@@ -8406,9 +8489,8 @@
 							"scale_x": 4.65,
 							"object_type": 41,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 4.65241813659668,
-							"custom_size": 4.65,
-							"custom_flip_tex": false
+							"custom_data_g_size": 4.65,
+							"custom_size": 4.65
 						}
 					]
 				}
@@ -8459,7 +8541,7 @@
 			],
 			"click_and_placing_wo": {
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-				"position_x": -90.06,
+				"position_x": -90.07,
 				"position_y": 0.0,
 				"position_z": -11.85,
 				"object_type": 113,
@@ -8517,9 +8599,8 @@
 							"scale_x": 12.6,
 							"object_type": 41,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 12.6016731262207,
-							"custom_size": 12.6,
-							"custom_flip_tex": false
+							"custom_data_g_size": 12.6,
+							"custom_size": 12.6
 						}
 					]
 				}
@@ -8825,7 +8906,7 @@
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
 				"position_x": -81.44,
 				"position_y": 0.0,
-				"position_z": -12.04,
+				"position_z": -12.05,
 				"object_type": 113,
 				"uid": 1694,
 				"assigned_path_area_idx": 33,
@@ -9023,7 +9104,7 @@
 									"scale_z": 1.28,
 									"object_type": 41,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 0.791372358798981,
+									"custom_data_g_size": 0.79,
 									"custom_width": 1.28,
 									"custom_size": 0.79,
 									"custom_angle_start": 0.57
@@ -9038,10 +9119,9 @@
 									"scale_z": 1.28,
 									"object_type": 41,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 0.775563895702362,
+									"custom_data_g_size": 0.78,
 									"custom_width": 1.28,
 									"custom_size": 0.78,
-									"custom_flip_tex": false,
 									"custom_angle_end": -0.57
 								}
 							]
@@ -9058,7 +9138,7 @@
 									"scale_z": 1.28,
 									"object_type": 41,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.795748472213745,
+									"custom_data_g_size": 0.8,
 									"custom_width": 1.28,
 									"custom_size": 0.8,
 									"custom_angle_start": 0.08
@@ -9073,10 +9153,9 @@
 									"scale_z": 1.28,
 									"object_type": 41,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 1.91748237609863,
+									"custom_data_g_size": 1.92,
 									"custom_width": 1.28,
 									"custom_size": 1.92,
-									"custom_flip_tex": false,
 									"custom_angle_start": 0.03,
 									"custom_angle_end": -0.08
 								},
@@ -9090,7 +9169,7 @@
 									"scale_z": 1.28,
 									"object_type": 41,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 1.99171698093414,
+									"custom_data_g_size": 1.99,
 									"custom_width": 1.28,
 									"custom_size": 1.99,
 									"custom_angle_end": -0.03
@@ -9107,9 +9186,9 @@
 					"assigned_path_sub_idx": 0,
 					"click_and_placing_wo": {
 						"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-						"position_x": 0.0,
+						"position_x": -90.85,
 						"position_y": 0.0,
-						"position_z": 0.0,
+						"position_z": -29.94,
 						"object_type": 113,
 						"uid": 1740,
 						"assigned_path_area_idx": 33
@@ -9208,7 +9287,7 @@
 									"scale_z": 1.58,
 									"object_type": 41,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 0.665769100189209,
+									"custom_data_g_size": 0.67,
 									"custom_width": 1.58,
 									"custom_size": 0.67,
 									"custom_angle_start": 0.23
@@ -9223,10 +9302,9 @@
 									"scale_z": 1.58,
 									"object_type": 41,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 0.538734614849091,
+									"custom_data_g_size": 0.54,
 									"custom_width": 1.58,
 									"custom_size": 0.54,
-									"custom_flip_tex": false,
 									"custom_angle_start": 0.37,
 									"custom_angle_end": -0.23
 								},
@@ -9240,7 +9318,7 @@
 									"scale_z": 1.58,
 									"object_type": 41,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 0.613165318965912,
+									"custom_data_g_size": 0.61,
 									"custom_width": 1.58,
 									"custom_size": 0.61,
 									"custom_angle_end": -0.37
@@ -9259,10 +9337,9 @@
 									"scale_z": 1.58,
 									"object_type": 41,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.618105351924896,
+									"custom_data_g_size": 0.62,
 									"custom_width": 1.58,
 									"custom_size": 0.62,
-									"custom_flip_tex": false,
 									"custom_angle_start": 0.28
 								},
 								{
@@ -9275,7 +9352,7 @@
 									"scale_z": 1.58,
 									"object_type": 41,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.556755363941193,
+									"custom_data_g_size": 0.56,
 									"custom_width": 1.58,
 									"custom_size": 0.56,
 									"custom_angle_start": 0.01,
@@ -9291,10 +9368,9 @@
 									"scale_z": 1.58,
 									"object_type": 41,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.903382241725922,
+									"custom_data_g_size": 0.9,
 									"custom_width": 1.58,
 									"custom_size": 0.9,
-									"custom_flip_tex": false,
 									"custom_angle_start": -0.19,
 									"custom_angle_end": -0.01
 								},
@@ -9308,7 +9384,7 @@
 									"scale_z": 1.58,
 									"object_type": 41,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.348433971405029,
+									"custom_data_g_size": 0.35,
 									"custom_width": 1.58,
 									"custom_size": 0.35,
 									"custom_angle_end": 0.19
@@ -9327,10 +9403,9 @@
 									"scale_z": 1.58,
 									"object_type": 41,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 0.812858939170837,
+									"custom_data_g_size": 0.81,
 									"custom_width": 1.58,
 									"custom_size": 0.81,
-									"custom_flip_tex": false,
 									"custom_angle_start": -0.09
 								},
 								{
@@ -9343,7 +9418,7 @@
 									"scale_z": 1.58,
 									"object_type": 41,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 1.18918764591217,
+									"custom_data_g_size": 1.19,
 									"custom_width": 1.58,
 									"custom_size": 1.19,
 									"custom_angle_start": -0.05,
@@ -9359,10 +9434,9 @@
 									"scale_z": 1.58,
 									"object_type": 41,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 0.553702533245087,
+									"custom_data_g_size": 0.55,
 									"custom_width": 1.58,
 									"custom_size": 0.55,
-									"custom_flip_tex": false,
 									"custom_angle_end": 0.05
 								}
 							]
@@ -9378,9 +9452,9 @@
 					"assigned_path_sub_idx": 0,
 					"click_and_placing_wo": {
 						"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-						"position_x": 0.0,
+						"position_x": -88.26,
 						"position_y": 0.0,
-						"position_z": 0.0,
+						"position_z": -33.36,
 						"object_type": 113,
 						"uid": 1741,
 						"assigned_path_area_idx": 33
@@ -9499,7 +9573,7 @@
 									"scale_z": 1.59,
 									"object_type": 41,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 0.489445120096207,
+									"custom_data_g_size": 0.49,
 									"custom_width": 1.59,
 									"custom_size": 0.49
 								}
@@ -9517,10 +9591,9 @@
 									"scale_z": 1.59,
 									"object_type": 41,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 1.41841399669647,
+									"custom_data_g_size": 1.42,
 									"custom_width": 1.59,
 									"custom_size": 1.42,
-									"custom_flip_tex": false,
 									"custom_angle_start": -0.01
 								},
 								{
@@ -9533,7 +9606,7 @@
 									"scale_z": 1.59,
 									"object_type": 41,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 2.85854172706604,
+									"custom_data_g_size": 2.86,
 									"custom_width": 1.59,
 									"custom_size": 2.86,
 									"custom_angle_start": -0.15,
@@ -9549,10 +9622,9 @@
 									"scale_z": 1.59,
 									"object_type": 41,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.724654257297516,
+									"custom_data_g_size": 0.72,
 									"custom_width": 1.59,
 									"custom_size": 0.72,
-									"custom_flip_tex": false,
 									"custom_angle_end": 0.15
 								}
 							]
@@ -9569,7 +9641,7 @@
 									"scale_z": 1.59,
 									"object_type": 41,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 0.852791130542755,
+									"custom_data_g_size": 0.85,
 									"custom_width": 1.59,
 									"custom_size": 0.85,
 									"custom_angle_start": -0.18
@@ -9584,10 +9656,9 @@
 									"scale_z": 1.59,
 									"object_type": 41,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 0.812762439250946,
+									"custom_data_g_size": 0.81,
 									"custom_width": 1.59,
 									"custom_size": 0.81,
-									"custom_flip_tex": false,
 									"custom_angle_start": -0.01,
 									"custom_angle_end": 0.18
 								},
@@ -9601,7 +9672,7 @@
 									"scale_z": 1.59,
 									"object_type": 41,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 1.89791345596313,
+									"custom_data_g_size": 1.9,
 									"custom_width": 1.59,
 									"custom_size": 1.9,
 									"custom_angle_start": 0.17,
@@ -9617,10 +9688,9 @@
 									"scale_z": 1.59,
 									"object_type": 41,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 0.410497814416885,
+									"custom_data_g_size": 0.41,
 									"custom_width": 1.59,
 									"custom_size": 0.41,
-									"custom_flip_tex": false,
 									"custom_angle_end": -0.17
 								}
 							]
@@ -9637,7 +9707,7 @@
 									"scale_z": 1.59,
 									"object_type": 41,
 									"assigned_path_line_idx": 3,
-									"custom_data_g_size": 0.831307172775269,
+									"custom_data_g_size": 0.83,
 									"custom_width": 1.59,
 									"custom_size": 0.83,
 									"custom_angle_start": 0.16
@@ -9652,10 +9722,9 @@
 									"scale_z": 1.59,
 									"object_type": 41,
 									"assigned_path_line_idx": 3,
-									"custom_data_g_size": 0.928432524204254,
+									"custom_data_g_size": 0.93,
 									"custom_width": 1.59,
 									"custom_size": 0.93,
-									"custom_flip_tex": false,
 									"custom_angle_start": 0.09,
 									"custom_angle_end": -0.16
 								},
@@ -9669,7 +9738,7 @@
 									"scale_z": 1.59,
 									"object_type": 41,
 									"assigned_path_line_idx": 3,
-									"custom_data_g_size": 1.10295176506042,
+									"custom_data_g_size": 1.1,
 									"custom_width": 1.59,
 									"custom_size": 1.1,
 									"custom_angle_end": -0.09
@@ -9688,9 +9757,9 @@
 					"assigned_path_sub_idx": 0,
 					"click_and_placing_wo": {
 						"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-						"position_x": 0.0,
+						"position_x": -82.32,
 						"position_y": 0.0,
-						"position_z": 0.0,
+						"position_z": -33.81,
 						"object_type": 113,
 						"uid": 1742,
 						"assigned_path_area_idx": 33
@@ -9809,7 +9878,7 @@
 									"scale_z": 1.01,
 									"object_type": 47,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 5.92506170272827,
+									"custom_data_g_size": 5.93,
 									"custom_width": 1.01,
 									"custom_size": 5.93,
 									"custom_angle_start": 0.09
@@ -9824,10 +9893,9 @@
 									"scale_z": 1.01,
 									"object_type": 47,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 0.559475481510162,
+									"custom_data_g_size": 0.56,
 									"custom_width": 1.01,
 									"custom_size": 0.56,
-									"custom_flip_tex": false,
 									"custom_angle_end": -0.09
 								}
 							]
@@ -9844,7 +9912,7 @@
 									"scale_z": 1.01,
 									"object_type": 47,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.696948528289795,
+									"custom_data_g_size": 0.7,
 									"custom_width": 1.01,
 									"custom_size": 0.7,
 									"custom_angle_start": 0.13
@@ -9859,11 +9927,9 @@
 									"scale_z": 1.01,
 									"object_type": 47,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.937814235687256,
+									"custom_data_g_size": 0.94,
 									"custom_width": 1.01,
 									"custom_size": 0.94,
-									"custom_flip_tex": false,
-									"custom_angle_start": 0.0,
 									"custom_angle_end": -0.13
 								},
 								{
@@ -9876,11 +9942,10 @@
 									"scale_z": 1.01,
 									"object_type": 47,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 2.56261968612671,
+									"custom_data_g_size": 2.56,
 									"custom_width": 1.01,
 									"custom_size": 2.56,
-									"custom_angle_start": -0.21,
-									"custom_angle_end": 0.0
+									"custom_angle_start": -0.21
 								},
 								{
 									"filename": "res://Source/World/WorldObjects/woPathObjects/wo_road_g.tscn",
@@ -9892,10 +9957,9 @@
 									"scale_z": 1.01,
 									"object_type": 47,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.428629487752914,
+									"custom_data_g_size": 0.43,
 									"custom_width": 1.01,
 									"custom_size": 0.43,
-									"custom_flip_tex": false,
 									"custom_angle_end": 0.21
 								}
 							]
@@ -9912,7 +9976,7 @@
 									"scale_z": 1.01,
 									"object_type": 47,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 0.60614800453186,
+									"custom_data_g_size": 0.61,
 									"custom_width": 1.01,
 									"custom_size": 0.61,
 									"custom_angle_start": -0.4
@@ -9927,10 +9991,9 @@
 									"scale_z": 1.01,
 									"object_type": 47,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 0.68586254119873,
+									"custom_data_g_size": 0.69,
 									"custom_width": 1.01,
 									"custom_size": 0.69,
-									"custom_flip_tex": false,
 									"custom_angle_start": -0.03,
 									"custom_angle_end": 0.4
 								},
@@ -9944,7 +10007,7 @@
 									"scale_z": 1.01,
 									"object_type": 47,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 1.15673100948334,
+									"custom_data_g_size": 1.16,
 									"custom_width": 1.01,
 									"custom_size": 1.16,
 									"custom_angle_start": 0.21,
@@ -9960,10 +10023,9 @@
 									"scale_z": 1.01,
 									"object_type": 47,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 0.370327323675156,
+									"custom_data_g_size": 0.37,
 									"custom_width": 1.01,
 									"custom_size": 0.37,
-									"custom_flip_tex": false,
 									"custom_angle_end": -0.21
 								}
 							]
@@ -9980,7 +10042,7 @@
 									"scale_z": 1.01,
 									"object_type": 47,
 									"assigned_path_line_idx": 3,
-									"custom_data_g_size": 0.868580102920532,
+									"custom_data_g_size": 0.87,
 									"custom_width": 1.01,
 									"custom_size": 0.87,
 									"custom_angle_start": 0.1
@@ -9995,10 +10057,9 @@
 									"scale_z": 1.01,
 									"object_type": 47,
 									"assigned_path_line_idx": 3,
-									"custom_data_g_size": 1.38631641864777,
+									"custom_data_g_size": 1.39,
 									"custom_width": 1.01,
 									"custom_size": 1.39,
-									"custom_flip_tex": false,
 									"custom_angle_start": 0.04,
 									"custom_angle_end": -0.1
 								},
@@ -10012,7 +10073,7 @@
 									"scale_z": 1.01,
 									"object_type": 47,
 									"assigned_path_line_idx": 3,
-									"custom_data_g_size": 0.673467755317688,
+									"custom_data_g_size": 0.67,
 									"custom_width": 1.01,
 									"custom_size": 0.67,
 									"custom_angle_end": -0.04
@@ -10031,9 +10092,9 @@
 					"assigned_path_sub_idx": 0,
 					"click_and_placing_wo": {
 						"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-						"position_x": 0.0,
+						"position_x": -81.55,
 						"position_y": 0.0,
-						"position_z": 0.0,
+						"position_z": -26.63,
 						"object_type": 113,
 						"uid": 1743,
 						"assigned_path_area_idx": 33
@@ -10090,8 +10151,7 @@
 									"scale_x": 5.46,
 									"object_type": 47,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 5.45929670333862,
-									"custom_width": 1.0,
+									"custom_data_g_size": 5.46,
 									"custom_size": 5.46
 								}
 							]
@@ -10105,9 +10165,9 @@
 					"assigned_path_sub_idx": 0,
 					"click_and_placing_wo": {
 						"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-						"position_x": 0.0,
+						"position_x": -84.04,
 						"position_y": 0.0,
-						"position_z": 0.0,
+						"position_z": -24.92,
 						"object_type": 113,
 						"uid": 1744,
 						"assigned_path_area_idx": 33
@@ -10206,7 +10266,7 @@
 									"scale_z": 1.09,
 									"object_type": 47,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 0.593454480171204,
+									"custom_data_g_size": 0.59,
 									"custom_width": 1.09,
 									"custom_size": 0.59,
 									"custom_angle_start": -0.29
@@ -10221,10 +10281,9 @@
 									"scale_z": 1.09,
 									"object_type": 47,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 0.592978298664093,
+									"custom_data_g_size": 0.59,
 									"custom_width": 1.09,
 									"custom_size": 0.59,
-									"custom_flip_tex": false,
 									"custom_angle_end": 0.29
 								}
 							]
@@ -10241,7 +10300,7 @@
 									"scale_z": 1.09,
 									"object_type": 47,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.909552812576294,
+									"custom_data_g_size": 0.91,
 									"custom_width": 1.09,
 									"custom_size": 0.91,
 									"custom_angle_start": -0.03
@@ -10256,10 +10315,9 @@
 									"scale_z": 1.09,
 									"object_type": 47,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 2.06817722320557,
+									"custom_data_g_size": 2.07,
 									"custom_width": 1.09,
 									"custom_size": 2.07,
-									"custom_flip_tex": false,
 									"custom_angle_start": 0.35,
 									"custom_angle_end": 0.03
 								},
@@ -10273,7 +10331,7 @@
 									"scale_z": 1.09,
 									"object_type": 47,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.737250208854675,
+									"custom_data_g_size": 0.74,
 									"custom_width": 1.09,
 									"custom_size": 0.74,
 									"custom_angle_end": -0.35
@@ -10292,10 +10350,9 @@
 									"scale_z": 1.09,
 									"object_type": 47,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 0.599509656429291,
+									"custom_data_g_size": 0.6,
 									"custom_width": 1.09,
 									"custom_size": 0.6,
-									"custom_flip_tex": false,
 									"custom_angle_start": 0.09
 								},
 								{
@@ -10308,7 +10365,7 @@
 									"scale_z": 1.09,
 									"object_type": 47,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 1.5745757818222,
+									"custom_data_g_size": 1.57,
 									"custom_width": 1.09,
 									"custom_size": 1.57,
 									"custom_angle_start": 0.04,
@@ -10324,10 +10381,9 @@
 									"scale_z": 1.09,
 									"object_type": 47,
 									"assigned_path_line_idx": 2,
-									"custom_data_g_size": 5.41043758392334,
+									"custom_data_g_size": 5.41,
 									"custom_width": 1.09,
 									"custom_size": 5.41,
-									"custom_flip_tex": false,
 									"custom_angle_end": -0.04
 								}
 							]
@@ -10343,9 +10399,9 @@
 					"assigned_path_sub_idx": 0,
 					"click_and_placing_wo": {
 						"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-						"position_x": 0.0,
+						"position_x": -75.62,
 						"position_y": 0.0,
-						"position_z": 0.0,
+						"position_z": -31.26,
 						"object_type": 113,
 						"uid": 1745,
 						"assigned_path_area_idx": 33
@@ -10403,7 +10459,7 @@
 									"scale_z": 1.11,
 									"object_type": 47,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 7.29954862594604,
+									"custom_data_g_size": 7.3,
 									"custom_width": 1.11,
 									"custom_size": 7.3
 								}
@@ -10418,9 +10474,9 @@
 					"assigned_path_sub_idx": 0,
 					"click_and_placing_wo": {
 						"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-						"position_x": 0.0,
+						"position_x": -78.25,
 						"position_y": 0.0,
-						"position_z": 0.0,
+						"position_z": -30.82,
 						"object_type": 113,
 						"uid": 1746,
 						"assigned_path_area_idx": 33
@@ -10499,7 +10555,7 @@
 									"scale_z": 1.04,
 									"object_type": 47,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 1.50775015354156,
+									"custom_data_g_size": 1.51,
 									"custom_width": 1.04,
 									"custom_size": 1.51,
 									"custom_angle_start": 0.07
@@ -10514,10 +10570,9 @@
 									"scale_z": 1.04,
 									"object_type": 47,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 0.784679770469666,
+									"custom_data_g_size": 0.78,
 									"custom_width": 1.04,
 									"custom_size": 0.78,
-									"custom_flip_tex": false,
 									"custom_angle_start": 0.12,
 									"custom_angle_end": -0.07
 								},
@@ -10531,7 +10586,7 @@
 									"scale_z": 1.04,
 									"object_type": 47,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 0.892898201942444,
+									"custom_data_g_size": 0.89,
 									"custom_width": 1.04,
 									"custom_size": 0.89,
 									"custom_angle_end": -0.12
@@ -10550,10 +10605,9 @@
 									"scale_z": 1.04,
 									"object_type": 47,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.572870016098022,
+									"custom_data_g_size": 0.57,
 									"custom_width": 1.04,
 									"custom_size": 0.57,
-									"custom_flip_tex": false,
 									"custom_angle_start": 0.45
 								},
 								{
@@ -10566,7 +10620,7 @@
 									"scale_z": 1.04,
 									"object_type": 47,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.504355728626251,
+									"custom_data_g_size": 0.5,
 									"custom_width": 1.04,
 									"custom_size": 0.5,
 									"custom_angle_start": 0.25,
@@ -10582,10 +10636,9 @@
 									"scale_z": 1.04,
 									"object_type": 47,
 									"assigned_path_line_idx": 1,
-									"custom_data_g_size": 0.675900042057037,
+									"custom_data_g_size": 0.68,
 									"custom_width": 1.04,
 									"custom_size": 0.68,
-									"custom_flip_tex": false,
 									"custom_angle_end": -0.25
 								}
 							]
@@ -10600,9 +10653,9 @@
 					"assigned_path_sub_idx": 0,
 					"click_and_placing_wo": {
 						"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-						"position_x": 0.0,
+						"position_x": -71.71,
 						"position_y": 0.0,
-						"position_z": 0.0,
+						"position_z": -28.47,
 						"object_type": 113,
 						"uid": 1747,
 						"assigned_path_area_idx": 33
@@ -10660,7 +10713,7 @@
 									"scale_z": 1.19,
 									"object_type": 47,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 3.18331551551819,
+									"custom_data_g_size": 3.18,
 									"custom_width": 1.19,
 									"custom_size": 3.18
 								}
@@ -10675,9 +10728,9 @@
 					"assigned_path_sub_idx": 0,
 					"click_and_placing_wo": {
 						"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-						"position_x": 0.0,
+						"position_x": -78.86,
 						"position_y": 0.0,
-						"position_z": 0.0,
+						"position_z": -22.74,
 						"object_type": 113,
 						"uid": 1748,
 						"assigned_path_area_idx": 33
@@ -10735,7 +10788,7 @@
 									"scale_z": 1.13,
 									"object_type": 47,
 									"assigned_path_line_idx": 0,
-									"custom_data_g_size": 4.60702037811279,
+									"custom_data_g_size": 4.61,
 									"custom_width": 1.13,
 									"custom_size": 4.61
 								}
@@ -10750,9 +10803,9 @@
 					"assigned_path_sub_idx": 0,
 					"click_and_placing_wo": {
 						"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-						"position_x": 0.0,
+						"position_x": -90.96,
 						"position_y": 0.0,
-						"position_z": 0.0,
+						"position_z": -34.43,
 						"object_type": 113,
 						"uid": 1749,
 						"assigned_path_area_idx": 33
@@ -10764,9 +10817,9 @@
 			"is_closed": true,
 			"click_and_placing_wo": {
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-				"position_x": -79.98,
+				"position_x": -79.99,
 				"position_y": 0.0,
-				"position_z": -29.42,
+				"position_z": -29.41,
 				"object_type": 113,
 				"uid": 1695,
 				"assigned_path_area_idx": 33,
@@ -13444,7 +13497,7 @@
 							"scale_x": 0.72,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 0.721818268299103,
+							"custom_data_g_size": 0.72,
 							"custom_size": 0.72,
 							"custom_angle_start": -0.17
 						},
@@ -13457,9 +13510,8 @@
 							"scale_x": 0.59,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 0.592703282833099,
+							"custom_data_g_size": 0.59,
 							"custom_size": 0.59,
-							"custom_flip_tex": false,
 							"custom_angle_start": -0.11,
 							"custom_angle_end": 0.17
 						},
@@ -13472,7 +13524,7 @@
 							"scale_x": 0.35,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 0.353936016559601,
+							"custom_data_g_size": 0.35,
 							"custom_size": 0.35,
 							"custom_angle_end": 0.11
 						}
@@ -13489,7 +13541,7 @@
 							"scale_x": 0.77,
 							"object_type": 47,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 0.770133435726166,
+							"custom_data_g_size": 0.77,
 							"custom_size": 0.77,
 							"custom_angle_start": -0.1
 						},
@@ -13502,9 +13554,8 @@
 							"scale_x": 1.04,
 							"object_type": 47,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 1.04336488246918,
+							"custom_data_g_size": 1.04,
 							"custom_size": 1.04,
-							"custom_flip_tex": false,
 							"custom_angle_start": -0.06,
 							"custom_angle_end": 0.1
 						},
@@ -13517,7 +13568,7 @@
 							"scale_x": 0.47,
 							"object_type": 47,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 0.466722518205643,
+							"custom_data_g_size": 0.47,
 							"custom_size": 0.47,
 							"custom_angle_end": 0.06
 						}
@@ -13553,7 +13604,7 @@
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
 				"position_x": -87.51,
 				"position_y": 0.0,
-				"position_z": -22.32,
+				"position_z": -22.33,
 				"object_type": 113,
 				"uid": 1752,
 				"assigned_path_area_idx": 33,
@@ -13609,7 +13660,7 @@
 							"scale_x": 3.79,
 							"object_type": 41,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 3.79129600524902,
+							"custom_data_g_size": 3.79,
 							"custom_size": 3.79
 						}
 					]
@@ -13622,7 +13673,7 @@
 			],
 			"click_and_placing_wo": {
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-				"position_x": -94.97,
+				"position_x": -94.98,
 				"position_y": 0.0,
 				"position_z": -29.16,
 				"object_type": 113,
@@ -13680,7 +13731,7 @@
 							"scale_x": 2.9,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 2.90454864501953,
+							"custom_data_g_size": 2.9,
 							"custom_size": 2.9
 						}
 					]
@@ -13771,9 +13822,8 @@
 							"scale_x": 1.77,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 1.76616108417511,
+							"custom_data_g_size": 1.77,
 							"custom_size": 1.77,
-							"custom_flip_tex": false,
 							"custom_angle_start": 0.07
 						},
 						{
@@ -13785,7 +13835,7 @@
 							"scale_x": 0.88,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 0.881698489189148,
+							"custom_data_g_size": 0.88,
 							"custom_size": 0.88,
 							"custom_angle_start": 0.08,
 							"custom_angle_end": -0.07
@@ -13799,9 +13849,8 @@
 							"scale_x": 0.52,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 0.519787847995758,
+							"custom_data_g_size": 0.52,
 							"custom_size": 0.52,
-							"custom_flip_tex": false,
 							"custom_angle_start": 0.13,
 							"custom_angle_end": -0.08
 						},
@@ -13814,7 +13863,7 @@
 							"scale_x": 0.42,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 0.423255354166031,
+							"custom_data_g_size": 0.42,
 							"custom_size": 0.42,
 							"custom_angle_end": -0.13
 						}
@@ -13831,9 +13880,8 @@
 							"scale_x": 0.87,
 							"object_type": 47,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 0.868241846561432,
+							"custom_data_g_size": 0.87,
 							"custom_size": 0.87,
-							"custom_flip_tex": false,
 							"custom_angle_start": 0.17
 						},
 						{
@@ -13845,7 +13893,7 @@
 							"scale_x": 0.79,
 							"object_type": 47,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 0.786694884300232,
+							"custom_data_g_size": 0.79,
 							"custom_size": 0.79,
 							"custom_angle_start": 0.08,
 							"custom_angle_end": -0.17
@@ -13859,9 +13907,8 @@
 							"scale_x": 1.17,
 							"object_type": 47,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 1.17478573322296,
+							"custom_data_g_size": 1.17,
 							"custom_size": 1.17,
-							"custom_flip_tex": false,
 							"custom_angle_start": 0.04,
 							"custom_angle_end": -0.08
 						},
@@ -13874,7 +13921,7 @@
 							"scale_x": 0.39,
 							"object_type": 47,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 0.391399830579758,
+							"custom_data_g_size": 0.39,
 							"custom_size": 0.39,
 							"custom_angle_end": -0.04
 						}
@@ -13947,9 +13994,8 @@
 							"scale_x": 2.6,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 2.60139560699463,
-							"custom_size": 2.6,
-							"custom_flip_tex": false
+							"custom_data_g_size": 2.6,
+							"custom_size": 2.6
 						}
 					]
 				}
@@ -16502,103 +16548,103 @@
 					"line_idx": 2,
 					"points_and_distances": [
 						{
-							"idx": 0,
+							"idx": 0.0,
 							"point_x": -86.5,
 							"point_z": -4.56,
-							"distance": 0
+							"distance": 0.0
 						},
 						{
-							"idx": 3,
+							"idx": 3.0,
 							"point_x": -86.77,
 							"point_z": -4.56,
 							"distance": 0.546867728233337
 						},
 						{
-							"idx": 4,
+							"idx": 4.0,
 							"point_x": -87.11,
 							"point_z": -4.55,
 							"distance": 0.883246690034866
 						},
 						{
-							"idx": 5,
+							"idx": 5.0,
 							"point_x": -87.48,
 							"point_z": -4.54,
 							"distance": 1.25617003440857
 						},
 						{
-							"idx": 6,
+							"idx": 6.0,
 							"point_x": -87.89,
 							"point_z": -4.52,
 							"distance": 1.66158485412598
 						},
 						{
-							"idx": 7,
+							"idx": 7.0,
 							"point_x": -88.32,
 							"point_z": -4.51,
 							"distance": 2.09542307257652
 						},
 						{
-							"idx": 8,
+							"idx": 8.0,
 							"point_x": -88.78,
 							"point_z": -4.5,
 							"distance": 2.55362418293953
 						},
 						{
-							"idx": 9,
+							"idx": 9.0,
 							"point_x": -89.26,
 							"point_z": -4.49,
 							"distance": 3.03212773799896
 						},
 						{
-							"idx": 10,
+							"idx": 10.0,
 							"point_x": -89.75,
 							"point_z": -4.47,
 							"distance": 3.52688083052635
 						},
 						{
-							"idx": 11,
+							"idx": 11.0,
 							"point_x": -90.0,
 							"point_z": -4.46,
 							"distance": 3.77907347679138
 						},
 						{
-							"idx": 12,
+							"idx": 12.0,
 							"point_x": -90.26,
 							"point_z": -4.46,
 							"distance": 4.03382301330566
 						},
 						{
-							"idx": 13,
+							"idx": 13.0,
 							"point_x": -90.52,
 							"point_z": -4.45,
 							"distance": 4.29057988524437
 						},
 						{
-							"idx": 14,
+							"idx": 14.0,
 							"point_x": -90.77,
 							"point_z": -4.44,
 							"distance": 4.54887089133263
 						},
 						{
-							"idx": 15,
+							"idx": 15.0,
 							"point_x": -91.03,
 							"point_z": -4.43,
 							"distance": 4.80816939473152
 						},
 						{
-							"idx": 16,
+							"idx": 16.0,
 							"point_x": -91.29,
 							"point_z": -4.43,
 							"distance": 5.06798687577248
 						},
 						{
-							"idx": 17,
+							"idx": 17.0,
 							"point_x": -91.55,
 							"point_z": -4.42,
 							"distance": 5.32778912782669
 						},
 						{
-							"idx": 18,
+							"idx": 18.0,
 							"point_x": -91.82,
 							"point_z": -4.41,
 							"distance": 5.59207925200462
@@ -16777,7 +16823,7 @@
 							"scale_x": 2.64,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 2.63708829879761,
+							"custom_data_g_size": 2.64,
 							"custom_size": 2.64
 						}
 					]
@@ -16790,7 +16836,7 @@
 			],
 			"click_and_placing_wo": {
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-				"position_x": -87.84,
+				"position_x": -87.85,
 				"position_y": 0.0,
 				"position_z": -10.56,
 				"object_type": 113,
@@ -16868,7 +16914,7 @@
 							"scale_x": 1.08,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 1.07524538040161,
+							"custom_data_g_size": 1.08,
 							"custom_size": 1.08,
 							"custom_angle_start": 0.07
 						},
@@ -16881,9 +16927,8 @@
 							"scale_x": 1.35,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 1.34932744503021,
+							"custom_data_g_size": 1.35,
 							"custom_size": 1.35,
-							"custom_flip_tex": false,
 							"custom_angle_end": -0.07
 						}
 					]
@@ -16899,7 +16944,7 @@
 							"scale_x": 8.58,
 							"object_type": 47,
 							"assigned_path_line_idx": 1,
-							"custom_data_g_size": 8.5815601348877,
+							"custom_data_g_size": 8.58,
 							"custom_size": 8.58
 						}
 					]
@@ -16971,7 +17016,7 @@
 							"scale_x": 5.25,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 5.25266933441162,
+							"custom_data_g_size": 5.25,
 							"custom_size": 5.25
 						}
 					]
@@ -17042,9 +17087,8 @@
 							"scale_x": 5.58,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 5.58426904678345,
-							"custom_size": 5.58,
-							"custom_flip_tex": false
+							"custom_data_g_size": 5.58,
+							"custom_size": 5.58
 						}
 					]
 				}
@@ -17058,7 +17102,7 @@
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
 				"position_x": -76.76,
 				"position_y": 0.0,
-				"position_z": -6.81,
+				"position_z": -6.82,
 				"object_type": 113,
 				"uid": 1773,
 				"assigned_path_area_idx": 33,
@@ -17114,9 +17158,8 @@
 							"scale_x": 9.18,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 9.18030834197998,
-							"custom_size": 9.18,
-							"custom_flip_tex": false
+							"custom_data_g_size": 9.18,
+							"custom_size": 9.18
 						}
 					]
 				}
@@ -17186,7 +17229,7 @@
 							"scale_x": 7.44,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 7.44483757019043,
+							"custom_data_g_size": 7.44,
 							"custom_size": 7.44
 						}
 					]
@@ -17257,7 +17300,7 @@
 							"scale_x": 11.09,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 11.0889129638672,
+							"custom_data_g_size": 11.09,
 							"custom_size": 11.09
 						}
 					]
@@ -17328,7 +17371,7 @@
 							"scale_x": 10.79,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 10.7916088104248,
+							"custom_data_g_size": 10.79,
 							"custom_size": 10.79
 						}
 					]
@@ -17343,7 +17386,7 @@
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
 				"position_x": -83.4,
 				"position_y": 0.0,
-				"position_z": 1.47,
+				"position_z": 1.46,
 				"object_type": 113,
 				"uid": 1777,
 				"assigned_path_area_idx": 33,
@@ -17399,7 +17442,7 @@
 							"scale_x": 3.9,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 3.89718651771545,
+							"custom_data_g_size": 3.9,
 							"custom_size": 3.9
 						}
 					]
@@ -17478,6 +17521,22 @@
 				}
 			],
 			"lines_custom_objects": [
+				{
+					"line_idx": 0,
+					"sites": [
+						0
+					],
+					"site_0_objects": [],
+					"site_1_objects": []
+				},
+				{
+					"line_idx": 0,
+					"sites": [
+						0
+					],
+					"site_0_objects": [],
+					"site_1_objects": []
+				},
 				{
 					"line_idx": 0,
 					"sites": [
@@ -17620,13 +17679,13 @@
 			"height_changing_position_y": -0.13,
 			"click_and_placing_wo": {
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-				"position_x": -98.2,
+				"position_x": -98.21,
 				"position_y": -0.13,
-				"position_z": -13.31,
+				"position_z": -13.32,
 				"object_type": 113,
 				"uid": 1818,
 				"assigned_path_area_idx": 33,
-				"height_changing_position_y": 0.8,
+				"height_changing_position_y": -0.13,
 				"snap_to_grid_position_offset_x": -0.007,
 				"snap_to_grid_position_offset_y": -0.054
 			}
@@ -17678,9 +17737,8 @@
 							"scale_x": 1.61,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 1.61434412002563,
-							"custom_size": 1.61,
-							"custom_flip_tex": false
+							"custom_data_g_size": 1.61,
+							"custom_size": 1.61
 						}
 					]
 				}
@@ -18020,7 +18078,7 @@
 			"height_changing_position_y": -0.13,
 			"click_and_placing_wo": {
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-				"position_x": -100.8,
+				"position_x": -100.81,
 				"position_y": -0.13,
 				"position_z": -17.47,
 				"object_type": 113,
@@ -18078,7 +18136,7 @@
 							"scale_x": 0.92,
 							"object_type": 47,
 							"assigned_path_line_idx": 0,
-							"custom_data_g_size": 0.920129656791687,
+							"custom_data_g_size": 0.92,
 							"custom_size": 0.92
 						}
 					]
@@ -18222,13 +18280,13 @@
 			"is_closed": true,
 			"click_and_placing_wo": {
 				"filename": "res://Source/World/WorldObjects/wo_placeholder_area.tscn",
-				"position_x": -99.53,
+				"position_x": -99.54,
 				"position_y": 0.0,
 				"position_z": -15.34,
 				"object_type": 113,
 				"uid": 1827,
 				"assigned_path_area_idx": 33,
-				"snap_to_grid_position_offset_x": 0.055,
+				"snap_to_grid_position_offset_x": 0.054,
 				"snap_to_grid_position_offset_y": -0.083
 			},
 			"area_objects": [],
@@ -18342,61 +18400,61 @@
 					"line_idx": 1,
 					"points_and_distances": [
 						{
-							"idx": 0,
+							"idx": 0.0,
 							"point_x": -97.53,
 							"point_z": -19.14,
-							"distance": 0
+							"distance": 0.0
 						},
 						{
-							"idx": 3,
+							"idx": 3.0,
 							"point_x": -97.74,
 							"point_z": -19.14,
 							"distance": 0.694538593292236
 						},
 						{
-							"idx": 4,
+							"idx": 4.0,
 							"point_x": -98.24,
 							"point_z": -19.14,
 							"distance": 1.1900871694088
 						},
 						{
-							"idx": 5,
+							"idx": 5.0,
 							"point_x": -98.52,
 							"point_z": -19.15,
 							"distance": 1.47140920162201
 						},
 						{
-							"idx": 6,
+							"idx": 6.0,
 							"point_x": -98.82,
 							"point_z": -19.15,
 							"distance": 1.77376633882523
 						},
 						{
-							"idx": 7,
+							"idx": 7.0,
 							"point_x": -99.14,
 							"point_z": -19.15,
 							"distance": 2.09615904092789
 						},
 						{
-							"idx": 8,
+							"idx": 8.0,
 							"point_x": -99.48,
 							"point_z": -19.15,
 							"distance": 2.43759542703629
 						},
 						{
-							"idx": 9,
+							"idx": 9.0,
 							"point_x": -99.84,
 							"point_z": -19.16,
 							"distance": 2.79706078767776
 						},
 						{
-							"idx": 10,
+							"idx": 10.0,
 							"point_x": -100.22,
 							"point_z": -19.16,
 							"distance": 3.17354035377502
 						},
 						{
-							"idx": 11,
+							"idx": 11.0,
 							"point_x": -100.55,
 							"point_z": -19.16,
 							"distance": 3.50672906637192
@@ -18429,7 +18487,7 @@
 		"ambient_color": "487e96ff",
 		"ambient_brightness": 1.0,
 		"ambient_contrast": 1.0,
-		"ambient_saturation": 1.0,
+		"ambient_saturation": 0.0,
 		"black_level": 1.0,
 		"shadow_position": 220.0,
 		"shadow_length": 0.7,
@@ -18440,7 +18498,7 @@
 		"objects_no_smoke": false,
 		"smoke_color": "ffffffff",
 		"wind_direction": 45.0,
-		"wind_strength": 0.4,
+		"wind_strength": 0.0,
 		"snow_strength": 0.0,
 		"snow_layer": 0.0,
 		"snow_is_unshaded": true,

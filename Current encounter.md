@@ -24,15 +24,16 @@ mistmaker: 2
 
 | Initiative | Unit           | HP1 | HP2 | HP3 | HP4 | HP5 |     |
 | ---------- | -------------- | --- | --- | --- | --- | --- | --- |
-| 28         | Gek            |     |     |     |     |     |     |
-| 21         | Friendly Guard |     |     |     |     |     |     |
-| 15         | Otto           |     |     |     |     |     |     |
-| 11         | Aeronaut       |     |     |     |     |     |     |
+| 10         | Otto           |     |     |     |     |     |     |
 | 10         | Peter          |     |     |     |     |     |     |
-| 8          | Indi guard     |     |     |     |     |     |     |
-| 8          | Shieldwarden   |     |     |     |     |     |     |
-| 6          | Blueguard      |     |     |     |     |     |     |
-| 0          | Vayne          |     |     |     |     |     |     |
+| 10         | Indi guard     |     |     |     |     |     |     |
+| 10         | Taylin         |     |     |     |     |     |     |
+|            | Gek            |     |     |     |     |     |     |
+|            | Friendly Guard |     |     |     |     |     |     |
+|            | Aeronaut       |     |     |     |     |     |     |
+|            | Shieldwarden   |     |     |     |     |     |     |
+|            | Blueguard      |     |     |     |     |     |     |
+|            | Vayne          |     |     |     |     |     |     |
 |            | Ship Targeting |     |     |     |     |     |     |
 |            | Surgeon        |     |     |     |     |     |     |
 |            | Enemy guard    |     |     |     |     |     |     |
