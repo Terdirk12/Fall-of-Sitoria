@@ -24,13 +24,13 @@ mistmaker: 2
 
 | Initiative | Unit           | HP1 | HP2 | HP3 | HP4 | HP5 |     |
 | ---------- | -------------- | --- | --- | --- | --- | --- | --- |
-| 10         | Otto           |     |     |     |     |     |     |
-| 10         | Peter          |     |     |     |     |     |     |
-| 10         | Indi guard     |     |     |     |     |     |     |
-| 10         | Taylin         |     |     |     |     |     |     |
+|            | Aeronaut       |     |     |     |     |     |     |
+| 18         | Peter          |     |     |     |     |     |     |
+| 16         | Taylin         |     |     |     |     |     |     |
+| 6          | Otto           |     |     |     |     |     |     |
+|            | Indi guard     |     |     |     |     |     |     |
 |            | Gek            |     |     |     |     |     |     |
 |            | Friendly Guard |     |     |     |     |     |     |
-|            | Aeronaut       |     |     |     |     |     |     |
 |            | Shieldwarden   |     |     |     |     |     |     |
 |            | Blueguard      |     |     |     |     |     |     |
 |            | Vayne          |     |     |     |     |     |     |

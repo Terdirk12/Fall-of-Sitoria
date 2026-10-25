@@ -1,6 +1,6 @@
 _Medium Undead, Neutral Evil_
 
-**AC:** 15 (Natural Armor)_
+**AC:** 15 (Natural Armor)
 **HP:** 90 (20d8)
 **Speed:** 30 ft., Swim 40 ft.
 
