@@ -20,34 +20,35 @@
 
 
 ---
-mistmaker: 2
+mistmaker: 0g
 
-| Initiative | Unit           | HP1 | HP2 | HP3 | HP4 | HP5 |     |
-| ---------- | -------------- | --- | --- | --- | --- | --- | --- |
-|            | Aeronaut       |     |     |     |     |     |     |
-| 18         | Peter          |     |     |     |     |     |     |
-| 16         | Taylin         |     |     |     |     |     |     |
-| 6          | Otto           |     |     |     |     |     |     |
-|            | Indi guard     |     |     |     |     |     |     |
-|            | Gek            |     |     |     |     |     |     |
-|            | Friendly Guard |     |     |     |     |     |     |
-|            | Shieldwarden   |     |     |     |     |     |     |
-|            | Blueguard      |     |     |     |     |     |     |
-|            | Vayne          |     |     |     |     |     |     |
-|            | Ship Targeting |     |     |     |     |     |     |
-|            | Surgeon        |     |     |     |     |     |     |
-|            | Enemy guard    |     |     |     |     |     |     |
-|            | Footman        |     |     |     |     |     |     |
-|            | Tracker        |     |     |     |     |     |     |
-|            | Cannons        |     |     |     |     |     |     |
-|            | Guard barrage  |     |     |     |     |     |     |
-|            | Latchdrake     |     |     |     |     |     |     |
-|            | Sergeant       |     |     |     |     |     |     |
-|            | Man-at-arms    |     |     |     |     |     |     |
-|            | Strain         |     |     |     |     |     |     |
-|            | Bart           |     |     |     |     |     |     |
-|            | Toss           |     |     |     |     |     |     |
-|            | Barrager       |     |     |     |     |     |     |
+| Initiative | Unit           | HP1 | HP2 | HP3 | HP4 | HP5 |
+| ---------- | -------------- | --- | --- | --- | --- | --- |
+| 25         | Gek            |     |     |     |     |     |
+| 18         | Peter          |     |     |     |     |     |
+| 16         | Otto           |     |     |     |     |     |
+| 5          | Taylin         |     |     |     |     |     |
+| 4          | Indi guard     |     |     |     |     |     |
+| 3          | Summons        |     |     |     |     |     |
+|            | Aeronaut       |     |     |     |     |     |
+|            | Friendly Guard |     |     |     |     |     |
+|            | Shieldwarden   |     |     |     |     |     |
+|            | Blueguard      |     |     |     |     |     |
+|            | Vayne          |     |     |     |     |     |
+|            | Ship Targeting |     |     |     |     |     |
+|            | Surgeon        |     |     |     |     |     |
+|            | Enemy guard    |     |     |     |     |     |
+|            | Footman        |     |     |     |     |     |
+|            | Tracker        |     |     |     |     |     |
+|            | Cannons        |     |     |     |     |     |
+|            | Guard barrage  |     |     |     |     |     |
+|            | Latchdrake     |     |     |     |     |     |
+|            | Sergeant       |     |     |     |     |     |
+|            | Man-at-arms    |     |     |     |     |     |
+|            | Strain         |     |     |     |     |     |
+|            | Bart           |     |     |     |     |     |
+|            | Toss           |     |     |     |     |     |
+|            | Barrager       |     |     |     |     |     |
   
 
 | ini | unit      | type   | hp1 | hp2 | hp3 | hp4 |

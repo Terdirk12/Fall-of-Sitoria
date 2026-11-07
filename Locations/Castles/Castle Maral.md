@@ -1,4 +1,4 @@
-look in AVL book for layout
+Look in AVL book for layout
 
 | The Court                | Link                    | CR  |
 | ------------------------ | ----------------------- | --- |

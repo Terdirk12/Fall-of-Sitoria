@@ -15,7 +15,7 @@ _Large undead, Unaligned_
 
 ---
 **Condition Immunities:** Poisoned
-**Senses:** Darkvision 120 ft., passive Perception 16
+**Senses:** Darkvision 240 ft., passive Perception 16
 **Languages:** -
 **Challenge:** -
 
@@ -59,7 +59,7 @@ After defeating Skelkie, the party receives a pool of dice based on how well the
 
 | Hunt result       | Carving dice |
 | ----------------- | ------------ |
-| Verdagor defeated | 5d6          |
+| Skelkie defeated  | 5d6          |
 | Face broken       | +1d6         |
 | Shell broken      | +1d6         |
 | Body broken once  | +1d6         |
