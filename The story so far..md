@@ -20,4 +20,7 @@ they partook in [[Herstog]] at [[Sultelheim]].
 
 went through a mountain ambush
 
-And are now going to do a bridge fight at [[Leyton Bridge]]
+Conquered [[Leyton Bridge]] from the imperial army
+
+after the bridge they traveled to [[Mulai]]
+
