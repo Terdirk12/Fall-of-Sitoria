@@ -4,7 +4,7 @@ The Skelkie works a bit different then most DnD monsters, it's health pool is so
 | ------ | --- | ----------- | -------- | -------- | --------- | ------- | ----- | ----- |
 | Face   | 60  | ★★          | ★★★      | ★★       | ★         | ★★★     | ★★    | ★★    |
 | Shell  | 100 | ★★★         | ★        | ★        | ★★        | ★★      | ★★    | ★★    |
-| Frills | 90  | ★★          | ★★       | ★★       | ★         | ★★★     | ★★★   | ★★    |
+| Frills | 90  | ★★          | ★★       | ★★★      | ★         | ★★★     | ★★★   | ★★    |
 | Body   | 50  | ★★          | ★★       | ★★       | ★         | ★★★     | ★★★   | ★★    |
 | HP     | 400 |             |          |          |           |         |       |       |
 All unspecified damage types are: ★★

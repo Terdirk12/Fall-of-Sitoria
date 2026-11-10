@@ -14,10 +14,10 @@ _Large undead, Unaligned_
 **Skills**: Perception +6, Arcana +4
 
 ---
-**Condition Immunities:** Poisoned
+**Condition Immunities:** Poisoned, Grappled
 **Senses:** Darkvision 240 ft., passive Perception 16
 **Languages:** -
-**Challenge:** -
+**Challenge:** 7
 
 ---
 ### Traits:
@@ -25,7 +25,7 @@ _Large undead, Unaligned_
 
 ---
 ### Actions:
-**Multi attack:** The Skelkie makes two actions per turn of the available list below, summon is always available
+**Multi action:** The Skelkie makes two actions per turn of the available list below, summon is always available
 
 ---
 
@@ -43,8 +43,14 @@ _Large undead, Unaligned_
 | [[Fext]]              | 6   |
 
 ---
+**Ghastly Nibble**
+_The Skelkie wails and a mouth from psionic energy appears and bites you._
+_Melee Weapon Attack:_ +4 to hit, reach 10 ft., one target. 5ft push. 
+_Hit:_ 6 (1d8 + 2) psychic damage.
+
+---
 **Necroray**
-*The snails face starts to light up and a light starts to spin around in its shell*
+*The Skelkie's face starts to light up and a light starts to spin around in its shell*
 _Multiple Targets_ | 180 ft Line | DC 15 Con | 6d8 Necrotic Damage | On Save: Half the damage reduces maximum HP unless the target succeeds on a DC 15 Constitution save.
 
 ---
